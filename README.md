@@ -23,8 +23,6 @@ Map iShares names to Glassdoor URLs using Google Custom Search
 
 ### Example Output
 [Output Data Here](https://github.com/cultureline-ai/google_custom_search/blob/master/output_example.csv)
-
-Example:
 ![output example](https://github.com/cultureline-ai/google_custom_search/blob/master/img/output_example.PNG)
 
    
