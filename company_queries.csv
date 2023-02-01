@@ -1,0 +1,3406 @@
+ticker,name_x,search_query
+INCO,INTEL CORPORATION CORP,intel
+WB,WACHOVIA CORP.,wachovia
+GOOGL,GOOGLE INC CLASS A,google
+BLS,BELLSOUTH CORPORATION,bellsouth
+MER,MERRILL LYNCH & CO. INC.,merrill lynch
+WYE,WYETH,wyeth
+DELL,DELL INC.,dell
+ANTM,WELLPOINT INC,wellpoint
+NCRA,NEWS CORP. CL A,news cl
+WAMUQ,WASHINGTON MUTUAL CORP,washington mutual
+LEHMQ,LEHMAN BROTHERS HOLDINGS INC.,lehman brothers holdings
+DNA,GENENTECH INC.,genentech
+AABA,ALTABA INC,altaba
+ALD,HONEYWELL INTERNATIONAL INC,honeywell international
+TXU,TXU CORPORATION,txu
+BNI,BURLINGTON NORTHERN,burlington northern
+MON,MONSANTO,monsanto
+CMX,CAREMARK RX INC.,caremark rx
+TFC,TRUIST FINANCIAL CORP,truist financial
+VIAB,VIACOM INC CLASS B,viacom
+AT.,ALLTEL CORP.,alltel
+CB,CHUBB CORP,chubb
+CFC,COUNTRYWIDE FINANCIAL CORP.,countrywide financial
+NCC,NATIONAL CITY CORP.,national city
+GDW,GOLDEN WEST FINANCIAL CORPORATION,golden west financial
+HCA.2,HCA INC.,hca
+MHS,MEDCO HEALTH SOLUTIONS INC,medco health solutions
+GENZ,GENZYME CORP.,genzyme
+JAVA,SUN MICROSYSTEMS,sun microsystems
+PD,PHELPS DODGE CORPORATION,phelps dodge
+BSC.1,BEAR STEARNS COMPANIES,bear stearns companies
+FRX,FOREST LABORATORIES INC,forest laboratories
+MEL,MELLON FINANCIAL CORP.,mellon financial
+CPPRQ,OLD COPPER INC,old copper
+DTV,DIRECTV GROUP INC.,directv group
+MTLQQ,MOTORS LIQUIDATION CO,motors liquidation
+FSL.B,FREESCALE SEMICONDUCTOR INC. CL B,freescale semiconductor cl
+XTO,XTO ENERGY INC,xto energy
+EOP,EQUITY OFFICE PROPERTIES TRUST,equity office properties
+CCU.1,CLEAR CHANNEL COMMUNICATIONS INC.,clear channel communications
+HNZ,H.J. HEINZ CO.,heinz
+IGT,INTERNATIONAL GAME TECHNOLOGY,international game technology
+SCN,PROLOGIS,prologis
+JCI,JOHNSON CONTROLS INC,johnson controls
+BRCM,BROADCOM CORP CLASS A,broadcom
+QWST,QWEST COMMUNICATIONS INTERNATIONAL,qwest communications international
+SWY,SAFEWAY INC,safeway
+TGNA,GANNETT CO INC,gannett
+NFB,NORTH FORK BANCORPORATION INC.,north fork bancorporation
+EDS.,ELECTRONIC DATA SYSTEMS CORP.,electronic data systems
+STJ,ST JUDE MEDICAL,st jude medical
+HOT,STARWOOD HOTELS & RESORTS WORLDWID,starwood hotels resorts worldwid
+HET,HARRAHS ENTERTAINMENT CORP.,harrahs entertainment
+SLE,SARA LEE CORP.,sara lee
+MI,MARSHALL & ILSLEY CORP. (OLD),marshall ilsley old
+LCAPA,LIBERTY MEDIA CORP,liberty media
+NYX,NYSE EURONEXT,nyse euronext
+ASN,ARCHSTONE-SMITH TRUST,archstone smith
+PGN,PROGRESS ENERGY INC.,progress energy
+KMI.1,KINDER MORGAN INC.,kinder morgan
+FO,FORTUNE BRANDS INC,fortune brands
+WWY,WM WRIGLEY JR. CO.,wm wrigley jr
+HLT,HILTON HOTELS CORP.,hilton hotels
+CEG,CONSTELLATION ENERGY GROUP INC.,constellation energy group
+LU,LUCENT TECHNOLOGIES INC.,lucent technologies
+ASO.1,AMSOUTH BANCORPORATION,amsouth bancorporation
+FSH,FISHER SCIENTIFIC INTERNATIONAL IN,fisher scientific international in
+EP,EL PASO CORP.,el paso
+BJS,BJ SERVICES CO,bj services
+MUR,MURPHY OIL CORP,murphy oil
+UST.1,UST INC.,ust
+SOV,SOVEREIGN BANCORP INC.,sovereign bancorp
+SII,SMITH INTERNATIONAL,smith international
+CVH,COVENTRY HEALTH CARE INC,coventry health care
+MIR,MIRANT CORP,mirant
+GGP,GENERAL GROWTH PROPERTIES INC.,general growth properties
+NSM.2,NATIONAL SEMICONDUCTOR CORP,national semiconductor
+BMET,BIOMET INC.,biomet
+WEN.2,WENDYS INTERNATIONAL INC.,wendys international
+HCBK,HUDSON CITY BANCORP INC,hudson city bancorp
+ROH,ROHM & HAAS CO.,rohm haas
+ASD,AMERICAN STANDARD COS INC,american standard cos
+VMED,VIRGIN MEDIA INC,virgin media
+UVN,UNIVISION COMMUNICATIONS INC.,univision communications
+CBSS,COMPASS BANCSHARES,compass bancshares
+FNF.1,FIDELITY NATIONAL FINANCIAL INC.,fidelity national financial
+MEDI,MEDIMMUNE INC.,medimmune
+EQ,EMBARQ CORP.,embarq
+KSE,KEYSPAN CORPORATION,keyspan
+SAF,SAFECO CORP,safeco
+STR,QUESTAR CORP,questar
+CBH,COMMERCE BANCORP NJ,commerce bancorp nj
+ALTR,ALTERA CORP,altera
+AYE,ALLEGHENY ENERGY,allegheny energy
+CTX,CENTEX CORP.,centex
+BOT,CBOT HOLDINGS CL A,cbot holdings cl
+ABI,APPLERA CORP-APPLIED BIOSYSTEMS,applera applied biosystems
+BDK,THE BLACK & DECKER CORPORATION,the black decker
+HSP,HOSPIRA INC,hospira
+BEAS,BEA SYSTEMS,bea systems
+ACS,AFFILIATED COMPUTER SERVICES INC.,affiliated computer services
+BMC,BMC SOFTWARE INC.,bmc software
+MIK,MICHAELS STORES INC.,michaels stores
+H.4,REALOGY CORPORATION,realogy
+CAM,CAMERON INTERNATIONAL CORP,cameron international
+BRL,BARR PHARMACEUTICALS INC.,barr pharmaceuticals
+LYO,LYONDELL CHEMICAL CO.,lyondell chemical
+MOLX,MOLEX INC.,molex
+RX,IMS HEALTH INC.,ims health
+AV.1,AVAYA INC.,avaya
+SEPR,SEPRACOR INC.,sepracor
+OCR,OMNICARE INC,omnicare
+HMA,HEALTH MANAGEMENT ASSOCIATES INC C,health management associates
+GR,GOODRICH CORP,goodrich
+GRP.,GRANT PRIDECO,grant prideco
+CVC,CABLEVISION SYSTEMS CORP CLASS A,cablevision systems
+TLAB,TELLABS INC.,tellabs
+PBG,PEPSI BOTTLING,pepsi bottling
+AAMRQ,AMR CORP.,amr
+MWV,MEADWESTVACO CORP,meadwestvaco
+STAR,ISTAR REIT INC,istar reit
+DNB,DUN & BRADSTREET CORP,dun bradstreet
+AMLN,AMYLIN PHARMACEUTICALS INC.,amylin pharmaceuticals
+JOY,JOY GLOBAL INC,joy global
+FDO,FAMILY DOLLAR STORES INC,family dollar stores
+MRBK,MERCANTILE BANKSHARES CORPORATION,mercantile bankshares
+CCTYQ,CIRCUIT CITY STORES INC,circuit city stores
+PDE,PRIDE INTERNATIONAL,pride international
+TIN,TEMPLE-INLAND INC,temple inland
+CMVT,COMVERSE TECHNOLOGY INC.,comverse technology
+PEAK,HEALTHPEAK PROPERTIES INC,healthpeak properties
+ALD.1,ALLIED CAPITAL CORP,allied capital
+FNP,FIFTH & PACIFIC CO INC,fifth pacific
+KG,KING PHARMACEUTICALS,king pharmaceuticals
+GHC,GRAHAM HOLDINGS COMPANY CO CLASS B,graham holdings
+AGE,A.G. EDWARDS INC.,edwards
+JNC,NUVEEN INVESTMENTS,nuveen investments
+PTV,PACTIV CORP,pactiv
+AHEB GR,ALBERTO-CULVER CO.,alberto culver
+PPMIQ,PMI GROUP INC,pmi group
+MFE,MCAFEE,mcafee
+RMK,ARAMARK CORPORATION,aramark
+TRI.Z,TRIAD HOSPITALS INC.,triad hospitals
+PETM,PETSMART INC,petsmart
+HCR,MANOR CARE INC.,manor care
+CBCGQ,COLONIAL BANCGROUP,colonial bancgroup
+CEPH,CEPHALON INC,cephalon
+SBL,SYMBOL TECHNOLOGIES INC.,symbol technologies
+APCC.,AMERICAN POWER CONVERSION CORPORAT,american power conversion corporat
+HCC,HCC INSURANCE HOLDINGS INC.,hcc insurance holdings
+JNY,JONES GROUP INC,jones group
+PPDI,PHARMACEUTICAL PRODUCT DEVELOPMENT,pharmaceutical product development
+BEC,BECKMAN COULTER INC.,beckman coulter
+CEB,CEB INC,ceb
+CDWC,CDW CORPORATION,cdw
+UNS1,VIAVI SOLUTIONS INC,viavi solutions
+RA.1,RECKSON ASSOCIATES REALTY CORP.,reckson associates realty
+ES,NORTHEAST UTILITIES,northeast utilities
+NST,NSTAR,nstar
+EAS,ENERGY EAST CORP.,energy east
+DADE,DADE BEHRING HOLDINGS INC,dade behring holdings
+NVLS,NOVELLUS SYSTEMS INC.,novellus systems
+DEN,DENBURY INC,denbury
+CKFR,CHECKFREE CORP.,checkfree
+BMS,BEMIS INC,bemis
+PXP,PLAINS EXPLORATION & PRODUCTION CO,plains exploration production
+LIFE,LIFE TECHNOLOGIES CORP,life technologies
+HPT,HOSPITALITY PROPERTIES TRUST REIT,hospitality properties reit
+JEF,JEFFERIES GROUP INC.,jefferies group
+LNCR,LINCARE HOLDINGS INC.,lincare holdings
+XMSR,XM SATELLITE RADIO HOLDINGS CL A,xm satellite radio holdings cl
+MIL.,MILLIPORE CORP,millipore
+TE,TECO ENERGY INC,teco energy
+LSI,LSI CORP,lsi
+ACF,AMERICREDIT,americredit
+UB,UNIONBANCAL CORP.,unionbancal
+SVM.Z,SERVICEMASTER CO.,servicemaster
+HLTH,EMDEON CORP,emdeon
+PL,PROTECTIVE LIFE CORP.,protective life
+CVD,COVANCE INC.,covance
+NVE,NV ENERGY INC.,energy
+MLNM,MILLENNIUM PHARMACEUTICALS INC.,millennium pharmaceuticals
+LZ,LUBRIZOL CORP,lubrizol
+CEN,CERIDIAN CORP.,ceridian
+DPL,DPL INC.,dpl
+TSG,SABRE HOLDINGS CORPORATION,sabre holdings
+CPS,CHOICEPOINT INC.,choicepoint
+BRE,BRE PROPERTIES REIT INC,bre properties reit
+QLG,QLOGIC,qlogic
+WL,WILMINGTON TR,wilmington tr
+FTO,FRONTIER OIL,frontier oil
+ANN,ANN INC.,ann
+TNB,THOMAS & BETTS CORP.,thomas betts
+DBD,DIEBOLD NIXDORF INC,diebold nixdorf
+OMX,OFFICEMAX INC.,officemax
+SLR,SOLECTRON CORP.,solectron
+HUBB,HUBBELL INC,hubbell
+BNK,TD BANKNORTH INC.,td banknorth
+ENY,CIMAREX ENERGY,cimarex energy
+CLE,CLAIRES STORES INC.,claires stores
+SSCCQ,SMURFIT-STONE CONTAINER,smurfit stone container
+TMA,THORNBURG MORTGAGE INC.,thornburg mortgage
+GAS,AGL RESOURCES INC.,agl resources
+TRZ,TRIZEC PROPERTIES INC.,trizec properties
+IFIN,INVESTORS FINANCIAL SERVICES CORP.,investors financial services
+PNP,PAN PACIFIC RETAIL PROPERTIES INC,pan pacific retail properties
+NXL.,NEW PLAN EXCEL REALTY TRUST INC.,new plan excel realty
+AW,ALLIED WASTE INDUSTRIES INC.,allied waste industries
+RESP,RESPIRONICS,respironics
+CYTC,CYTYC CORPORATION,cytyc
+CYN,CITY NATIONAL CORP,city national
+STN.1,STATION CASINOS INC.,station casinos
+SVC,SERVICE CORPORATION INTERNATIONAL,service international
+RHDCQ,RH DONNELLY CO,rh donnelly
+VAL,VALSPAR CORP,valspar
+IDMCQ,INDYMAC BANCORP INC.,indymac bancorp
+LCC,US AIRWAYS GROUP INC.,us airways group
+BOL,BAUSCH & LOMB INC.,bausch lomb
+SFD,SMITHFIELD FOODS INC.,smithfield foods
+AMH,AMERUS GROUP CO.,amerus group
+PSD,PUGET ENERGY INC.,puget energy
+SUG,SOUTHERN UNION,southern union
+RSHCQ,RS LEGACY CORP,rs legacy
+GYI,GETTY IMAGES INC.,getty images
+SKYF.,SKY FINANCIAL GROUP,sky financial group
+IRF,INTERNATIONAL RECTIFIER CORP.,international rectifier
+CAL,CONTINENTAL AIRLINES B,continental airlines
+REY,THE REYNOLDS AND REYNOLDS COMPANY,the reynolds and reynolds
+GXP,GREAT PLAINS ENERGY INC,great plains energy
+SFG,STANCORP FINANCIAL GROUP INC.,stancorp financial group
+NVT,NAVTEQ CORPORATION,navteq
+TEK,TEKTRONIX INC.,tektronix
+GPRO,GEN-PROBE INC.,gen probe
+CSE,CAPITALSOURCE INC,capitalsource
+MVK,MAVERICK TUBE CORPORATION,maverick tube
+WMG,WARNER MUSIC GROUP CORP.,warner music group
+PPP.3,POGO PRODUCING CO.,pogo producing
+EYE,ADVANCED MEDICAL OPTICS,advanced medical optics
+NFS,NATIONWIDE FINANCIAL SERVICES INC.,nationwide financial services
+SKS,SAKS INC.,saks
+WTNY,WHITNEY HOLDING CORP,whitney holding
+VTS,VERITAS DGC INC.,veritas dgc
+CYT,CYTEC INDUSTRIES INC,cytec industries
+FCS,FAIRCHILD SEMICONDUCTOR INTERNATIO,fairchild semiconductor internatio
+LI,LAIDLAW INTL,laidlaw intl
+TBH,TELEFLEX INC,teleflex
+PHLY,PHILADELPHIA CONS HLDG,philadelphia cons hldg
+CLP,COLONIAL PROPERTIES TRUST REIT,colonial properties reit
+SY,SYBASE INC,sybase
+CNW,CON-WAY INC.,con way
+NHP,NATIONWIDE HEALTH PROPERTIES INC.,nationwide health properties
+PLCM,POLYCOM INC.,polycom
+THE,TODCO,todco
+RAMP,ACXIOM HOLDINGS INC,acxiom holdings
+OSIP,OSI PHARMACEUTICALS,osi pharmaceuticals
+TEG,INTEGRYS ENERGY GROUP INC.,integrys energy group
+LEAP,LEAP WIRELESS INTERNATIONAL INC,leap wireless international
+SIE,SIERRA HEALTH,sierra health
+JLG,JLG INDUSTRIES INC.,jlg industries
+VSEA,VARIAN SEMICONDUCTOR EQUIPMENT ASS,varian semiconductor equipment ass
+OSI,OSI RESTAURANT PARTNERS INC.,osi restaurant partners
+DYN,DYNEGY INC. (CL A),dynegy cl
+DLM,DEL MONTE FOODS,del monte foods
+CEMJQ,CHEMTURA CORP,chemtura
+KAR.1,ADESA INC.,adesa
+NOVL,NOVELL,novell
+BID,SOTHEBYS,sothebys
+HYSL,HYPERION SOLUTIONS CORPORATION,hyperion solutions
+PPS,POST PROPERTIES INC.,post properties
+TIE,TITANIUM METALS CORP.,titanium metals
+FLA,FLORIDA EAST COAST INDUSTRIES INC.,florida east coast industries
+NTRI,NUTRISYSTEM INC,nutrisystem
+KWKAQ,QUICKSILVER RESOURCES INC,quicksilver resources
+URS,URS CORP,urs
+DJ,DOW JONES & COMPANY INC.,dow jones
+KFN,KKR FINANCIAL CORP.,kkr financial
+BJ,BJS WHOLESALE CLUB HOLDINGS INC (P,bjs wholesale club holdings
+RYL,RYLAND GROUP INC.,ryland group
+IMCL,IMCLONE SYSTEMS INC.,imclone systems
+NLC,NALCO HOLDING,nalco holding
+TSFG,SOUTH FINANCIAL GRP,south financial grp
+FDRY,FOUNDRY NETWORKS INC.,foundry networks
+AZR.1,AZTAR CORPORATION,aztar
+CTV,COMMSCOPE,commscope
+MCRS,MICROS SYSTEMS INC,micros systems
+KCG,KNIGHT CAPITAL GROUP INC. CL A,knight capital group cl
+GAS.2,NICOR INC,nicor
+SHAW,SHAW GROUP INC.,shaw group
+THQI,THQ INC.,thq
+FRK,FLORIDA ROCK IND,florida rock ind
+VRX.1,VALEANT PHARMACEUTICALS,valeant pharmaceuticals
+MNT,MENTOR CORP,mentor
+ACLI,AMERICAN COMMERCIAL LINES INC.,american commercial lines
+PSYS.,PSYCHIATRIC SOLUTIONS INC,psychiatric solutions
+ADRX,ANDRX CORPORATION,andrx
+AQNT,AQUANTIVE,aquantive
+NEWCQ,NEW CENTURY FINANCIAL CORP.,new century financial
+VCLK,VALUECLICK INC.,valueclick
+HPC,HERCULES INC.,hercules
+ISE,INTERNATIONAL SECURITIES EXCHANGE,international securities exchange
+WRE,WASHINGTON REAL ESTATE INVESTMENT,washington real estate investment
+TRBS,TEXAS REGIONAL BANCSHARES INC.,texas regional bancshares
+GLYT,GENLYTE GROUP,genlyte group
+MRX,MEDICIS PHARMACEUTICAL CORP.,medicis pharmaceutical
+ADCT,ADC TELECOMMUNICATIONS,adc telecommunications
+CHRS,CHARMING SHOPPES,charming shoppes
+OS,OREGON STEEL MILLS INC.,oregon steel mills
+DRS,DRS TECHNOLOGIES,drs technologies
+FSTO,FOREST OIL CORP,forest oil
+GDI,GARDNER DENVER INC.,gardner denver
+WW,WATSON WYATT & CO HLDGS,watson wyatt hldgs
+COMS,3COM CORP,3com
+CWTR,COLDWATER CREEK INC.,coldwater creek
+AH.Z,ARMOR HOLDINGS,armor holdings
+CEI,CRESCENT REAL ESTATE EQUITY,crescent real estate equity
+MEE,MASSEY ENERGY CO.,massey energy
+WNG,WASHINGTON GROUP INTERNATIONAL,washington group international
+CYMI,CYMER INC.,cymer
+DSG,DICKS SPORTING INC,dicks sporting
+RT,RUBY TUESDAY INC,ruby tuesday
+PETC,PETCO ANIMAL SUPPLIES STORES INC.,petco animal supplies stores
+PSS,COLLECTIVE BRANDS INC.,collective brands
+DFG,DELPHI FINANCIAL GROUP INC. CL A,delphi financial group cl
+KYPH,KYPHON INC,kyphon
+UCBHQ,UCBH HOLDINGS INC.,ucbh holdings
+OCAS,OHIO CASUALTY,ohio casualty
+HTR,HUNTSMAN CORP,huntsman
+ICOS,ICOS CORPORATION,icos
+CGI.1,COMMERCE GROUP,commerce group
+WEBX,WEBEX COMMS,webex comms
+TRH,TRANSATLANTIC HOLDINGS,transatlantic holdings
+FNFG,FIRST NIAGARA FINANCIAL GROUP INC,first niagara financial group
+ILA,AQUILA INC,aquila
+NTY,NBTY  INC,nbty
+NAL,NEWALLIANCE BANCSHARES INC.,newalliance bancshares
+UCO.1,UNIVERSAL COMPRESSION HLDGS COM,universal compression hldgs
+THX,HOUSTON EXPL CO,houston expl
+APPB,APPLEBEES INTL,applebees intl
+AROPQ,AEROPOSTALE INC,aeropostale
+ARS.3,ALERIS INTERNATIONAL INC.,aleris international
+PNX,PHOENIX COS. INC.,phoenix cos
+CHAP,CHAPARRAL STEEL,chaparral steel
+PGL,PEOPLES ENERGY CORPORATION,peoples energy
+MPS,MPS GROUP,mps group
+MPG,MPG OFFICE TRUST REIT INC,mpg office reit
+HRH,HILB ROGAL & HOBBS,hilb rogal hobbs
+DQE,DUQUESNE LIGHT COMPANY,duquesne light
+AHMIQ,AMERICAN HOME MORTGAGE INVESTMENT,american home mortgage investment
+NFP,NATIONAL FINANCIAL PARTNERS CORP.,national financial partners
+ELX,EMULEX CORP,emulex
+AGP,AMERIGROUP CORP.,amerigroup
+BLUD,IMMUCOR INC,immucor
+HGSI,HUMAN GENOME SCIENCES INC.,human genome sciences
+MYOG,MYOGEN INC.,myogen
+LSS,LONE STAR TECH,lone star tech
+IKN,IKON OFFICE SOLUTIONS INC.,ikon office solutions
+HK.1,PETROHAWK ENERGY CORP,petrohawk energy
+FCL.2,FOUNDATION COAL HOLDINGS,foundation coal holdings
+HHS,HARTE HANKS INC,harte hanks
+ZNT,ZENITH NATIONAL INSURANCE CORP,zenith national insurance
+ANDW,ANDREW CORP.,andrew
+ESND,ESSENDANT INC,essendant
+FILE,FILENET CORPORATION,filenet
+BRGP,BEARINGPOINT INC.,bearingpoint
+LDG,LONGS DRUG STORES CORP.,longs drug stores
+AFFX,AFFYMETRIX INC.,affymetrix
+BEE,STRATEGIC HOTELS AND RESORTS REIT,strategic hotels and resorts reit
+NSS,NS GROUP INC.,ns group
+TWTC,TW TELECOM INC CLASS A,tw telecom
+ENERQ,ENERGY CONVERSION DEVICES INC,energy conversion devices
+AFR,AMERICAN FINANCIAL REALTY TRUST,american financial realty
+DLP,DELTA & PINE LAND,delta pine land
+TBL,TIMBERLAND CO,timberland
+BLC,BELO CORP. SERIES A,belo
+CNET.,CNET NETWORKS,cnet networks
+CNL,CLECO CORP.,cleco
+GBBK,GREATER BAY BANCORP,greater bay bancorp
+VARI,VARIAN INC,varian
+LTM,LIFE TIME FITNESS INC.,life time fitness
+GYMB,GYMBOREE CORP,gymboree
+DWNFQ,DOWNEY FINANCIAL CORP.,downey financial
+Y,ALLEGHANY  CORP,alleghany
+MAFB,MAF BANCORP,maf bancorp
+KCI,KINETIC CONCEPTS INC.,kinetic concepts
+GLBL,GLOBAL INDUSTRIES LTD.,global industries
+DHC,DIVERSIFIED HEALTHCARE TRUST,diversified healthcare
+LFB,LONGVIEW FIBRE COMPANY,longview fibre
+PSSI,PSS WORLD MEDICAL INC.,pss world medical
+PNK,PINNACLE ENTERTAINMENT INC,pinnacle entertainment
+ME,MARINER ENERGY,mariner energy
+MOGN,MGI PHARMA INC,mgi pharma
+CHZ,CHITTENDEN CORP,chittenden
+AVCT,AVOCENT CORP,avocent
+BUCY,BUCYRUS INTERNATIONAL,bucyrus international
+PALM,PALM INC.,palm
+PAS,PEPSIAMERICAS INC,pepsiamericas
+TRIDQ,TRIDENT MICROSYSTEMS INC,trident microsystems
+ZLC,ZALE CORP.,zale
+SRZ,SUNRISE SENIOR LIVING INC.,sunrise senior living
+IN,INTERMEC INC.,intermec
+BGPIQ,BORDERS GROUP INC,borders group
+TCC.1,TRAMMELL CROW COMPANY,trammell crow
+MEDX,MEDAREX INC,medarex
+GTRC,GUITAR CENTER INC.,guitar center
+BSG,BISYS GROUP,bisys group
+GW,GREY WOLF,grey wolf
+HEW,HEWITT ASSOCIATES INC,hewitt associates
+AMMD,AMERICAN MEDICAL SYSTEMS HOLDINGS,american medical systems holdings
+EAC.1,ENCORE ACQUISITION CO,encore acquisition
+PTRY,PANTRY INC.,pantry
+RAH,RALCORP HOLDINGS INC.,ralcorp holdings
+POS,CATALINA MARKETING CORP.,catalina marketing
+SWFT.1,SWIFT TRANS,swift trans
+TWB,TWEEN BRANDS,tween brands
+INGR.,INTERGRAPH CORPORATION,intergraph
+PCBC,PACIFIC CAPITAL BANCORP,pacific capital bancorp
+RGC,REGAL ENTERTAINMENT GROUP CLASS A,regal entertainment group
+RDA.1,THE READERS DIGEST ASSOCIATION INC,the readers digest association
+AM,AMERICAN GREETINGS CORP. CL A,american greetings cl
+SIRF,SIRF TECHNOLOGY HOLDINGS,sirf technology holdings
+PMCS,PMC-SIERRA INC.,pmc sierra
+ARRS,ARRIS GROUP INC.,arris group
+ARTC,ARTHROCARE CORP,arthrocare
+WHQA,W-H ENERGY SVCS,energy svcs
+PBKS,PROVIDENT BANKSHARES CORP,provident bankshares
+PULS,PULSE ELECTRONICS CORP.,pulse electronics
+TXI,TEXAS INDUSTRIES INC,texas industries
+STSA,STERLING FINANCIAL CORP,sterling financial
+DPTR,DELTA PETROLEUM CORP.,delta petroleum
+PER.1,PEROT SYSTEMS CORPORATION,perot systems
+YCC,YANKEE CANDLE COMPANY INC.,yankee candle
+GI,GIANT INDUSTRIES,giant industries
+IRC,INLAND REAL ESTATE CORP.,inland real estate
+VMSI,VENTANA MEDICAL SYSTEMS,ventana medical systems
+CBST,CUBIST PHARMACEUTICALS INC.,cubist pharmaceuticals
+INFA,INFORMATICA CORP.,informatica
+UNS,UNISOURCE ENERGY CORP.,unisource energy
+SRX,SRA INTERNATIONAL INC. CL A,sra international cl
+IMGC,INTERMAGNETICS GENERAL CORPORATION,intermagnetics general
+EAGL.1,EGL INC,egl
+BN,BANTA CORPORATION,banta
+MVL,MARVEL ENTERTAINMENT,marvel entertainment
+SFC.Z,SPIRIT FINANCE CORP.,spirit finance
+GISX,GLOBAL IMAGING SYSTEMS,global imaging systems
+LFGRQ,LANDAMERICA FINANCIAL GROUP,landamerica financial group
+EFD,EFUNDS CORP,efunds
+CRBCD,CITIZENS REPUBLIC BANCORP INC.,citizens republic bancorp
+ORB,ORBITAL SCIENCES CORP.,orbital sciences
+ARB,ARBITRON INC.,arbitron
+ARXT,ADAMS RESPIRATORY THERAPEUTICS INC,adams respiratory therapeutics
+PGPDQ,PILGRIMS PRIDE CORP,pilgrims pride
+USPI.1,UNITED SURGICAL PARTNERS INTERNATI,united surgical partners internati
+CRDN,CERADYNE INC.,ceradyne
+BFAM.1,BRIGHT HORIZONS FAMILY SOLUTIONS,bright horizons family solutions
+DTGF,DOLLAR THRIFTY AUTOMOTIVE GROUP IN,dollar thrifty automotive group in
+ISSX,INTERNET SECURITY SYSTEMS INC.,internet security systems
+KRON,KRONOS INC.,kronos
+ATMI,ATMI INC,atmi
+UAPH,UAP HOLDING CORP,uap holding
+BOBE,BOB EVANS FARMS INC,bob evans farms
+LIFC,LIFECELL,lifecell
+CRA,APPLERA CORP-CELERA GENOMICS,applera celera genomics
+GKIS,GOLD KIST INC.,gold kist
+JHTXQ,JACKSON HEWITT TAX SERVICE,jackson hewitt tax service
+CEC,CEC ENTERTAINMENT INC,cec entertainment
+KDN,KAYDON CORP.,kaydon
+PACR,PACER INTERNATIONAL INC,pacer international
+DCEL,DOBSON COMMUNICATIONS,dobson communications
+TR,TOOTSIE ROLL INDUSTRIES INC,tootsie roll industries
+CENT,CENTRAL GARDEN AND PET,central garden and pet
+CLNH,CENTERLINE HOLDING CO.,centerline holding
+WBSN,WEBSENSE INC.,websense
+RARE,RARE HOSPITALITY INTERNATIONAL,rare hospitality international
+RDK,RUDDICK CORP.,ruddick
+FTBK,FRONTIER FINANCIAL CORP,frontier financial
+HTG,HERITAGE PROPERTY INVESTMENT TRUST,heritage property investment
+ALAB,ALABAMA NATIONAL BANCORP,alabama national bancorp
+DNEX,DIONEX CORP,dionex
+DGIN.,DIGITAL INSIGHT CORPORATION,digital insight
+AAN.2,AARONS INC.,aarons
+CKR,CKE RESTAURANTS,cke restaurants
+HYDL,HYDRIL,hydril
+RBNC,REPUBLIC BANCORP INC.,republic bancorp
+BRY,BERRY PETROLEUM CO. CL A,berry petroleum cl
+ALO,ALPHARMA A,alpharma
+RTI,RTI INTERNATIONAL METALS INC,rti international metals
+BEZ,BALDOR ELECTRIC CO,baldor electric
+PLMD,POLYMEDICA CORP,polymedica
+FFFL,FIDELITY BANKSHARES INC.,fidelity bankshares
+KOMG,KOMAG INC,komag
+JH,JOHN H. HARLAND COMPANY,john harland
+AEA,ADVANCE AMERICA CASH ADVANCE CENTE,advance america cash advance cente
+AGII2,ARGONAUT GROUP,argonaut group
+ELNK,EARTHLINK INC.,earthlink
+BWNG,BROADWING CORPORATION,broadwing
+CNXT,CONEXANT SYSTEMS INC.,conexant systems
+NOVS,NOVASTAR FINANCIAL INC.,novastar financial
+QSFT,QUEST SOFTWARE INC.,quest software
+MLS.2,THE MILLS CORPORATION,the mills
+DJO,DJO,djo
+VMI,VALMONT INDS INC,valmont inds
+ERPLQ,ENERGY PARTNERS,energy partners
+NPBC,NATIONAL PENN BANCSHARES INC.,national penn bancshares
+FFEDQ,FIRSTFED FINANCIAL CORP,firstfed financial
+SHFL,SHUFFLE MASTER INC.,shuffle master
+GGC,GEORGIA GULF CORP,georgia gulf
+ATHR,ATHEROS COMMUNICATIONS INC.,atheros communications
+VTIV,INVENTIV HEALTH INC.,inventiv health
+RSTI,ROFIN-SINAR TECHNOLOGIES INC.,rofin sinar technologies
+GHCI,GENESIS HEALTHCARE,genesis healthcare
+COCOQ,CORINTHIAN COLLEGES UNDEFINED INC,corinthian colleges undefined
+TELK,TELIK INC.,telik
+HARB,HARBOR FLORIDA BANCSHARES INC.,harbor florida bancshares
+SBIB,STERLING BANCSHARES,sterling bancshares
+PFCB,P.F. CHANGS CHINA BISTRO INC.,changs china bistro
+FMNTQ,FREMONT GENERAL CORP.,fremont general
+BYI,BALLY TECHNOLOGIES INC.,bally technologies
+KVPHQ,KV PHARMACEUTICAL INC CLASS A,kv pharmaceutical
+EQY,EQUITY ONE INC.,equity one
+SVVS,SAVVIS INC,savvis
+KOSP,KOS PHARMACEUTICALS INC.,kos pharmaceuticals
+WRC,WARNACO GROUP INC.,warnaco group
+GRT,GLIMCHER REALTY TRUST REIT,glimcher realty reit
+PFFBQ,PFF BANCORP INC,pff bancorp
+MRD,MACDERMID INCORPORATED,macdermid
+LWSN,INFOR (US) INC.,infor us
+AAI,AIRTRAN HOLDINGS INC,airtran holdings
+IPCS,IPCS INC,ipcs
+AD,ADVO INC.,advo
+CTCO,COMMONWEALTH TELEPHONE ENTERPRISES,commonwealth telephone enterprises
+VAS,VIASYS HEALTHCARE INC,viasys healthcare
+THI,TIM HORTONS INC,tim hortons
+RBAK,REDBACK NETWORKS INC.,redback networks
+CORSQ,CORUS BANKSHARES INC,corus bankshares
+DTAS.,DIGITAS INC.,digitas
+ROSE,ROSETTA RESOURCES INC.,rosetta resources
+ENN,EQUITY INNS,equity inns
+GSL.1,GLOBAL SIGNAL INC.,global signal
+FBN,FURNITURE BRANDS INTERNATIONAL INC,furniture brands international
+SEH,SPARTECH CORP.,spartech
+LCAV,LCA VISION INC,lca vision
+HIH.1,HIGHLAND HOSPITALITY,highland hospitality
+NCI,NAVIGANT CONSULTING INC,navigant consulting
+PWAV,POWERWAVE TECHNOLOGIES INC.,powerwave technologies
+NCOG,NCO GROUP INC.,nco group
+TSY,TRUSTREET PROPERTIES INC.,trustreet properties
+ID,L-1 IDENTITY SOLUTIONS,identity solutions
+VCI,VALASSIS COMMUNICATIONS INC,valassis communications
+AHG,APRIA HEALTHCARE GROUP,apria healthcare group
+VPHM,VIROPHARMA INC,viropharma
+UAA,UNDER ARMOUR INC CLASS A,under armour
+WMGI,WRIGHT MEDICAL GROUP INC.,wright medical group
+GLB,GLENBOROUGH REALTY TRUST INCORPORA,glenborough realty incorpora
+RCNI,RCN,rcn
+GMST,GEMSTAR-TV GUIDE INTL. INC.,gemstar tv guide intl
+THOR,THORATEC CORP.,thoratec
+PXR.1,PAXAR CORP,paxar
+BKUNQ,BANKUNITED FINANCIAL CORP. CL A,bankunited financial cl
+CHG,CH ENERGY GROUP INC. (HOLDING CO.),ch energy group holding
+ECLP,ECLIPSYS CORP,eclipsys
+WIND.1,WIND RIVER SYSTEMS,wind river systems
+AWGI.XX1,ALDERWOODS GROUP INC.,alderwoods group
+RASF,RAIT FINANCIAL TRUST REIT TRUST,rait financial reit
+BSTE,BIOSITE,biosite
+WMS,WMS INDUSTRIES INC.,wms industries
+ZRAN,ZORAN CORP,zoran
+TALX,TALX,talx
+LUFK,LUFKIN INDUSTRIES INC.,lufkin industries
+UNTD,UNITED ONLINE INC.,united online
+KSWS,K-SWISS INC. CL A,swiss cl
+CCBI,COMMERCIAL CAPITAL BANCORP INC.,commercial capital bancorp
+JJZ,JACUZZI BRANDS INC.,jacuzzi brands
+MCDTA,MCDATA CORPORATION CL A,mcdata cl
+ARXX,AEROFLEX INC,aeroflex
+CHSI,CATALYST HEALTH SOLUTIONS INC.,catalyst health solutions
+STU,STUDENT LOAN CORP,student loan
+PSTI.,PER-SE TECHNOLOGIES INC.,per technologies
+DIGE,DIGENE CORP,digene
+BLGM,BUILDING MATERIALS HOLDING CORP,building materials holding
+PLLL,PARALLEL PETROLEUM,parallel petroleum
+ADVS,ADVENT SOFTWARE INC.,advent software
+PYX,PLAYTEX PROD,playtex prod
+TKLC,TEKELEC,tekelec
+FCTR,FIRST CHARTER,first charter
+ENS,ENERSYS,enersys
+TCF,CHEMICAL FINANCIAL CORP,chemical financial
+ATPAQ,ATP OIL AND GAS CORP,atp oil and gas
+CEDCQ,CENTRAL EUROPEAN DISTRIBUTION CORP,central european distribution
+KWD,KELLWOOD CO.,kellwood
+BKMU,BANK MUTUAL CORP,bank mutual
+OPSW,OPSWARE,opsware
+PMTI,PALOMAR MEDICAL TECHNOLOGIES INC.,palomar medical technologies
+BBBB,BLACKBOARD,blackboard
+TRA,TERRA INDUSTRIES INC.,terra industries
+ACPIQ,ANTHRACITE CAPITAL REIT INC,anthracite capital reit
+SPSNQ,SPANSION CL A,spansion cl
+BLOAQ,BLOCKBUSTER INC. CL A,blockbuster cl
+TQNT,TRIQUINT SEMICONDUCTOR INC.,triquint semiconductor
+FIF.1,FIN FEDERAL,fin federal
+MTLM,METAL MANAGEMENT,metal management
+ARRO,ARROW INTL INC,arrow intl
+EPIC,EPICOR SOFTWARE CORP.,epicor software
+ONXX,ONYX PHARMACEUTICALS INC.,onyx pharmaceuticals
+SMMX,SYMYX TECHNOLOGIES,symyx technologies
+IDC,INTERACTIVE DATA CORP,interactive data
+CELL,BRIGHTPOINT INC.,brightpoint
+ADVBQ,ADVANTA CL B,advanta cl
+APPX,APP PHARMACEUTICALS INC.,app pharmaceuticals
+CONR,CONOR MEDSYSTEMS INC.,conor medsystems
+SNWL,SONICWALL,sonicwall
+KPA,INNKEEPERS USA TRUST,innkeepers usa
+ROC,ROCKWOOD HOLDINGS INC.,rockwood holdings
+SAX,SAXON CAPITAL INC.,saxon capital
+RCRC,RC2 CORPORATION,rc2
+MCRL,MICREL INC.,micrel
+SCMR,SYCAMORE NETWORKS INC,sycamore networks
+CXR,COX RADIO INC,cox radio
+MATK,MARTEK BIOSCIENCES,martek biosciences
+SPSX,SUPERIOR ESSEX INC.,superior essex
+KBAY,KANBAY INTERNATIONAL INC.,kanbay international
+ARJ,ARCH CHEMICALS INC,arch chemicals
+CGX,CONSOLIDATED GRAPHICS INC,consolidated graphics
+RYAN,RYANS RESTAURANT GROUP INC.,ryans restaurant group
+IBI,INTERLINE BRANDS INC.,interline brands
+AMFIQ,AMCORE FINANCIAL,amcore financial
+NEWP,NEWPORT CORP.,newport
+GLDN.1,GOLDEN TELECOM,golden telecom
+PKY,PARKWAY PROPERTIES INC.,parkway properties
+AEGN,INSITUFORM TECHNOLOGIES INC. CL A,insituform technologies cl
+TZIX,TRIZETTO GROUP,trizetto group
+LEND,ACCREDITED HOME LENDERS HOLDING CO,accredited home lenders holding
+CKP,CHECKPOINT SYSTEM INC,checkpoint system
+CXG,CNX GAS,cnx gas
+WHCI,W HOLDING INC,holding
+PRX,PAR PHARMACEUTICAL COS. INC.,par pharmaceutical cos
+CMTY,COMMUNITY BANKS,community banks
+FOXH,FOXHOLLOW TECHNOLOGIES,foxhollow technologies
+WLSC,WILLIAMS SCOTSMAN INTERNATIONAL IN,williams scotsman international in
+CKXE,CKX INC.,ckx
+ZGEN,ZYMOGENETICS INC,zymogenetics
+SQA.A,SEQUA CORPORATION CL A,sequa cl
+SLXP,SALIX PHARMACEUTICALS LTD.,salix pharmaceuticals
+SMSC,STANDARD MICROSYSTEMS CORP.,standard microsystems
+HEROQ,HERCULES OFFSHORE INC,hercules offshore
+ADLR,ADOLOR CORP,adolor
+USIH,U.S.I. HOLDINGS CORP.,holdings
+CCRT,COMPUCREDIT HOLDINGS CORP,compucredit holdings
+KEA,KEANE INC,keane
+IWA,IOWA TELECOMMUNICATIONS SERVICES I,iowa telecommunications services
+CAO,CSK AUTO,csk auto
+TONEQ,TIERONE CORP,tierone
+STEI,STEWART ENTERPRISES INC. CL A,stewart enterprises cl
+CVTX,CV THERAPEUTICS,cv therapeutics
+CHTT,CHATTEM INC,chattem
+TLB,TALBOTS INC.,talbots
+KEYS,KEYSTONE AUTOMOTIVE INDUSTRIES,keystone automotive industries
+HTV,HEARST ARGYLE TV,hearst argyle tv
+MDST.,MID-STATE BANCSHARES,mid state bancshares
+WSC,WESCO FINANCIAL CORP.,wesco financial
+WPP,WAUSAU PAPER CORP.,wausau paper
+CHTRQ,CHARTER COMMUNICATIONS A,charter communications
+GVHR,GEVITY HR,gevity hr
+CBCRQ,CAPITOL BANCORP LTD,capitol bancorp
+COGT,COGENT INC.,cogent
+CPKI,CALIFORNIA PIZZA KITCHEN,california pizza kitchen
+DRL,DORAL FINANCIAL CORP,doral financial
+MFA,MFA FINANCIAL REIT INC,mfa financial reit
+TGIC,TRIAD GUARANTY INC,triad guaranty
+WITS,WITNESS SYSTEMS,witness systems
+OPEN.3,OPEN SOLUTIONS INC.,open solutions
+EPAX,AMBASSADORS GROUP INC.,ambassadors group
+MATR.,MATRIA HEALTHCARE INC.,matria healthcare
+TIVO,TIVO INC.,tivo
+SIRO,SIRONA DENTAL SYSTEMS INC.,sirona dental systems
+GSIC,GSI COMMERCE INC.,gsi commerce
+STL,PROVIDENT NEW YORK BANCORP,provident new york bancorp
+HNBC,HARLEYSVILLE NATIONAL CORP,harleysville national
+AMN,AMERON INTERNATIONAL CORPORATION,ameron international
+OXPS,OPTIONSXPRESS HOLDINGS,optionsxpress holdings
+HITT,HITTITE MICROWAVE CORP,hittite microwave
+CASC,CASCADE CORP,cascade
+GBNK,GUARANTY BANCORP,guaranty bancorp
+NOVN,NOVEN PHARM,noven pharm
+RYI.1,RYERSON INC.,ryerson
+LTC,LTC PROPERTIES REIT INC,ltc properties reit
+CQB,CHIQUITA BRANDS INTERNATIONAL INC.,chiquita brands international
+ULTI,ULTIMATE SOFTWARE GROUP INC,ultimate software group
+ALFA.1,ALFA CORP,alfa
+TWGP,TOWER GROUP INTERNATIONAL LTD.,tower group international
+ASCA,AMERISTAR CASINOS INC.,ameristar casinos
+SLFI,STERLING FINANCIAL CORP,sterling financial
+NDN,99 CENTS ONLY STORES,cents only stores
+ARBA,ARIBA INC,ariba
+ABCWQ,ANCHOR BANCORP WISCONSIN INC,anchor bancorp wisconsin
+ELK,ELKCORP,elkcorp
+ESLRQ,EVERGREEN SOLAR INC,evergreen solar
+KTO,K2 INC,k2
+LAB,LABRANCHE & CO,labranche
+SCRX,SCIELE PHARMA,sciele pharma
+ACO,AMCOL INTERNATIONAL CORP,amcol international
+HTCH,HUTCHINSON TECHNOLOGY INC.,hutchinson technology
+JOSB,JOS A BANK CLOTHIERS INC,jos bank clothiers
+NRF,NORTHSTAR REALTY FINANCE CORP.,northstar realty finance
+MPW,MEDICAL PROPERTIES TRUST REIT INC,medical properties reit
+GTW,GATEWAY INC.,gateway
+CVNS.1,COVANSYS,covansys
+TRXBQ,TRONOX INC CLASS B,tronox
+RGLD,ROYAL GOLD INC,royal gold
+SMA,SYMMETRY MEDICAL INC.,symmetry medical
+CJHBQ,CHAMPION ENTERPRISES,champion enterprises
+TRMPQ,TRUMP ENTERTAINMENT RESORTS INC.,trump entertainment resorts
+PHRM.,PHARMION,pharmion
+AGIXQ,ATHEROGENICS INC.,atherogenics
+PTMK,PATHMARK STORES INC,pathmark stores
+FTWRQ,FIBERTOWER CORP,fibertower
+CPX,COMPLETE PRODUCTION SERVICES INC.,complete production services
+MROI,MRO SOFTWARE INC.,mro software
+SRR,STRIDE RITE CORP,stride rite
+MDTL,MEDIS TECHNOLOGIES LTD,medis technologies
+PWER,POWER-ONE INC,power one
+MLAN,MIDLAND COMPANY,midland
+UIC,UNITED INDUSTRIAL,united industrial
+SFNT,SAFENET INC.,safenet
+GCT,GMH COMMUNITIES TRUST,gmh communities
+DIAL,WESTWOOD ONE INC.,westwood one
+ATRS.,ALTIRIS INC.,altiris
+LNY,LANDRYS RESTAURANTS INC.,landrys restaurants
+JRN,JOURNAL COMMUNICATIONS INC.,journal communications
+MOVE,MOVE INC.,move
+HOTT,HOT TOPIC INC.,hot topic
+ODSY,ODYSSEY HEALTHCARE INC,odyssey healthcare
+TW.1,21ST CENTURY INSURANCE,21st century insurance
+DEL,DELTIC TIMBER CORP,deltic timber
+FLOW,FLOW INTERNATIONAL CORP,flow international
+GKK,GRAMERCY CAPITAL CORP.,gramercy capital
+SPSS,SPSS INC,spss
+HGIC,HARLEYSVILLE GROUP INC.,harleysville group
+WCBO,WEST COAST BANCORP (OREGON),west coast bancorp oregon
+PLFE,PRESIDENTIAL LIFE CORP.,presidential life
+SWIM,THINKORSWIM GROUP,thinkorswim group
+ICO,INTERNATIONAL COAL GROUP INC.,international coal group
+FRCMQ,FAIRPOINT COMMS,fairpoint comms
+PRAI,PRA INTERNATIONAL,pra international
+PRTR.,PARTNERS TRUST FINL GRP,partners finl grp
+NWSB,NORTHWEST BANCORP INC.,northwest bancorp
+IWOV,INTERWOVEN INC,interwoven
+ABAX,ABAXIS INC,abaxis
+IFS,INFRASOURCE SERVICES,infrasource services
+OATS,WILD OATS MKT,wild oats mkt
+CNQR,CONCUR TECHNOLOGIES INC.,concur technologies
+KNBT,KNBT BANCORP,knbt bancorp
+SUPX,SUPERTEX INC,supertex
+FBTXQ,FRANKLIN BANK CORP,franklin bank
+GAPTQ,GREAT ATLANTIC & PACIFIC TEA CO.,great atlantic pacific tea
+SONO,SONOSITE INC,sonosite
+BDG.2,BANDAG INC.,bandag
+STAR.1,LONE STAR STEAKHOUSE & SALOON INC,lone star steakhouse saloon
+MBHIQ,MIDWEST BANC,midwest banc
+LDR,LANDAUER INC,landauer
+FSNMQ,FIRST STATE,first state
+XPRT,LECG CORP,lecg
+INTL.1,INTER-TEL INC,inter tel
+CBEY,CBEYOND INC,cbeyond
+JDAS,JDA SOFTWARE GROUP INC.,jda software group
+MSO,MARTHA STEWART LIVING OMNIMEDIA IN,martha stewart living omnimedia in
+BORL,BORLAND SOFTWARE CORP,borland software
+SUTMQ,SUN-TIMES MEDIA GROUP INC. CL A,sun times media group cl
+SAPE,SAPIENT CORP.,sapient
+RSCR,RES-CARE INC,res care
+IBNKQ,INTEGRA BANK CORP,integra bank
+GTIV,GENTIVA HEALTH SERVICES INC.,gentiva health services
+JRT,JER INVESTORS TRUST INC.,jer investors
+ASEI,AMERICAN SCIENCE AND ENGINEERING I,american science and engineering
+TUG,MARITRANS INC.,maritrans
+CHUX,OCHARLEYS INC.,ocharleys
+DVW,COVAD COMM GROUP,covad comm group
+ORH,ODYSSEY RE HOLDINGS CORP,odyssey re holdings
+MMR,MCMORAN EXPLORATION CO.,mcmoran exploration
+DSCP,DATASCOPE CORP,datascope
+FLTWQ,FLEETWOOD ENTR,fleetwood entr
+ITMN,INTERMUNE INC,intermune
+RA,RAILAMERICA INC.,railamerica
+FICC,FIELDSTONE INVESTMENT CORP.,fieldstone investment
+OO,OAKLEY INC,oakley
+CHIC,CHARLOTTE RUSSE HOLDING INC.,charlotte russe holding
+ILSE,INTRALASE CORP.,intralase
+BNE,BOWNE & CO INC,bowne
+UHT,UNIVERSAL HEALTH REALTY INCOME TRU,universal health realty income tru
+NTG.1,NATCO GRP CL A,natco grp cl
+PHIKQ,PETROLEUM HELICOPTERS NON VOTING I,petroleum helicopters
+CTCI,CT COMMUNICATIONS,ct communications
+GNSS,GENESIS MICROCHIP INC,genesis microchip
+NUCO,NUCO2,nuco2
+VTAL,VITAL IMAGES,vital images
+WEBM.,WEBMETHODS INC,webmethods
+WTSLQ,WET SEAL INC CLASS A,wet seal
+EXAR,EXAR CORP,exar
+ZOLT,ZOLTEK COS.,zoltek cos
+FPIC,FPIC INSURANCE GROUP INC.,fpic insurance group
+TFSM,24/7 REAL MEDIA INC.,real media
+AMIS,AMIS HOLDINGS,amis holdings
+CCBL,C-COR,cor
+FFCH,FIRST FINANCIAL HOLDINGS INC.,first financial holdings
+SFN,SPHERION CORP.,spherion
+MHL,MORTGAGEIT HOLDINGS INC.,mortgageit holdings
+IFCJ,INTERCHANGE FINANCIAL SERVICES COR,interchange financial services cor
+SINT,SI INTERNATIONAL,si international
+ANST,ANSOFT CORP,ansoft
+NRPH,NEW RIVER PHARMACEUTICALS INC.,new river pharmaceuticals
+FPFCQ,FIRST PLACE FINANCIAL CORP,first place financial
+RBN,ROBBINS & MYERS INC.,robbins myers
+LDSH,LADISH CO. INC.,ladish
+PFWD,PHASE FORWARD,phase forward
+CTBK,CITY BANK,city bank
+NETL,NETLOGIC MICROSYSTEMS,netlogic microsystems
+RDDYQ,REDDY ICE HOLDINGS INC.,reddy ice holdings
+PPD,PRE-PAID LEGAL SERVICES INC.,pre paid legal services
+CPTS,CONCEPTUS INC.,conceptus
+VIGN,VIGNETTE CORP.,vignette
+LUMCQ,LUMINENT MORTGAGE CAPITAL,luminent mortgage capital
+SVNTQ,SAVIENT PHARMACEUTICALS INC,savient pharmaceuticals
+ACTL,ACTEL CORP,actel
+JAS,JO-ANN STORES INC.,jo ann stores
+CT,CAPITAL TRUST INC. CL A,capital cl
+SNBI,STATE NATIONAL BANCSHARES INC.,state national bancshares
+BKC,BURGER KING HOLDINGS INC,burger king holdings
+TRMAQ,TRICO MARINE SERVICES INC,trico marine services
+ERT,ERESEARCH TECHNOLOGY INC.,eresearch technology
+IRWNQ,IRWIN FINANCIAL CORP,irwin financial
+KNXA,KENEXA CORP.,kenexa
+HPY,HEARTLAND PAYMENT SYSTEMS INC,heartland payment systems
+KNDL,KENDLE INTERNATIONAL INC.,kendle international
+SNIC,SONIC SOLUTIONS,sonic solutions
+EDR,EDUCATION REALTY TRUST INC. INC TR,education realty tr
+VITL,VITAL SIGNS,vital signs
+TRAD,TRADESTATION GP,tradestation gp
+ATAC,ATC TECHNOLOGY CORP.,atc technology
+XOXO,XO GROUP INC,xo group
+HNR,HARVEST NATURAL RESOURCES INC,harvest natural resources
+PPCO,PENWEST PHARMACEUTICALS,penwest pharmaceuticals
+EDO,EDO CORP.,edo
+OMEF,OMEGA FINAN CP,omega finan cp
+NPSI,NORTH PITTSBURGH SYSTEMS,north pittsburgh systems
+ARD,ARENA RESOURCES,arena resources
+ENMC,ENCORE MEDICAL CORPORATION,encore medical
+CNCT.,CONNETICS CORPORATION,connetics
+CRRC,COURIER CORP.,courier
+SSTI,SILICON STORAGE TECHNOLOGY,silicon storage technology
+SIXFQ,SIX FLAGS,six flags
+AGIL,AGILE SOFTWARE,agile software
+AFCE,AFC ENTERPRISES INC.,afc enterprises
+SYMM,SYMMETRICOM INC,symmetricom
+STL,STERLING BANCORP,sterling bancorp
+LSE,CAPLEASE INC.,caplease
+NSTC,NESS TECHNOLOGIES,ness technologies
+DRTE,DENDRITE INTERNATIONAL INC.,dendrite international
+HYC,HYPERCOM CORP,hypercom
+NFLDQ,NORTHFIELD LABORATORIES,northfield laboratories
+TNS,TNS INC.,tns
+CTO,CONSOLIDATED TOMOKA LAND,consolidated tomoka land
+HS,HEALTHSPRING INC.,healthspring
+CBRIQ,CMTSU INC,cmtsu
+ANEN,ANAREN INC.,anaren
+CYBS,CYBERSOURCE CORP,cybersource
+WRS,WINDROSE MEDICAL PROPERTIES TRUST,windrose medical properties
+ARDI,@ROAD INC.,road
+RTSX,RADIATION THERAPY SERVICES INC.,radiation therapy services
+SBKCQ,SECURITY BANK CORP.,security bank
+CNXS,CNS INC.,cns
+XLTC,EXCEL TECH,excel tech
+SVR,SYNIVERSE HOLDINGS INC.,syniverse holdings
+PDGI,PHARMANET DEVELOPMENT GROUP,pharmanet development group
+FLAG.1,FLAG FINANCIAL CORPORATION.,flag financial
+KFI,K&F INDUSTRIES HOLDINGS INC.,industries holdings
+IPSU,IMPERIAL SUGAR CO.,imperial sugar
+AACE,ACE CASH EXPRESS INC.,ace cash express
+OPTN.,OPTION CARE,option care
+CPV,CENTRACORE PROPERTIES TRUST,centracore properties
+YANB,YARDVILLE NATL BANCORP,yardville natl bancorp
+HMBNQ,HOMEBANC,homebanc
+CTDBQ,CITADEL BROADCASTING,citadel broadcasting
+BHS,BROOKFIELD HOMES CORP,brookfield homes
+PEET,PEETS COFFEE & TEA INC.,peets coffee tea
+VCBI,VIRGINIA COMMERCE BANCORP INC,virginia commerce bancorp
+ISYS,INTEGRAL SYSTEMS,integral systems
+PSPT,PEOPLESUPPORT INC.,peoplesupport
+ZOLL,ZOLL MEDICAL CORP.,zoll medical
+TAL,TRITON INTERNATIONAL INC,triton international
+SNTS,SANTARUS INC.,santarus
+GRB,GERBER SCIENTIFIC INC.,gerber scientific
+KNSY,KENSEY NASH CORP.,kensey nash
+DCGNQ,DECODE GENETICS INC.,decode genetics
+KEYW.1,ESSEX CORPORATION,essex
+CMLS,CUMULUS MEDIA INC CLASS A,cumulus media
+ADEX,ADE CORPORATION,ade
+ACAP,AMERICAN PHYSICIANS CAPITAL INC.,american physicians capital
+MRNA,MARINA BIOTECH INC.,marina biotech
+SMBI,SYMBION INC.,symbion
+LMS,LAMSON & SESSIONS CO(THE,lamson sessions the
+FINB,FIRST INDIANA,first indiana
+PQES,PROQUEST CO.,proquest
+HPOL,HARRIS INTERACTIVE INC,harris interactive
+ISLE,ISLE OF CAPRI CASINOS INC,isle capri casinos
+SCNB,SUFFOLK,suffolk
+CSWC,CAPITAL SOUTHWEST CORP,capital southwest
+ASYTQ,ASYST TECHNOLOGIES INC,asyst technologies
+SONE,S1 CORP,s1
+XJT,EXPRESSJET HOLDINGS INC,expressjet holdings
+OPLK,OPLINK COMMUNICATIONS INC.,oplink communications
+WXH,WINSTON HOTELS INC.,winston hotels
+EMAG,EMAGEON INC COM,emageon
+DTPI,DIAMOND MANAGEMENT & TECHNOLOGY CO,diamond management technology
+BELFB,BEL FUSE INC CLASS B,bel fuse
+LAVA,MAGMA DESIGN AUTOMATION INC,magma design automation
+SORCQ,SOURCE INTERLINK COS,source interlink cos
+SUR,CNA SURETY,cna surety
+MDS,MIDAS INC.,midas
+WOLF,GREAT WOLF RESORTS INC.,great wolf resorts
+BKI,BUCKEYE TECHNOLOGIES INC.,buckeye technologies
+NKT,NEWKIRK REALTY TRUST INC.,newkirk realty
+ANET,AUTHORIZE.NET HLDG,authorize net hldg
+DNDNQ,DENDREON CORP,dendreon
+GRNB,GREEN BANKSHARES INC.,green bankshares
+FSCI,FISHER COMMUNICATIONS INC.,fisher communications
+PWEI.XX1,PW EAGLE,pw eagle
+ACTG,ACACIA RESEARCH CORP,acacia research
+RADS,RADIANT SYSTEMS INC,radiant systems
+IDEV,INDEVUS PHARMACEUTICALS INC.,indevus pharmaceuticals
+GGL,GOODMAN GLOBAL INC.,goodman global
+ESGR,ENSTAR GROUP INC.,enstar group
+MWYGQ,MIDWAY GAMES,midway games
+STEL.,STELLENT INC.,stellent
+MDCC,MOLECULAR DEVICES CORPORATION,molecular devices
+NAFC,NASH FINCH CO.,nash finch
+LNETQ,LODGENET INTERACTIVE INC,lodgenet interactive
+SPCBQ,SPECTRUM BRANDS,spectrum brands
+ASVI,A S V INC,
+RVI,RETAIL VENTURES,retail ventures
+TOPP,TOPPS CO,topps
+BEXP,BRIGHAM EXPLORATION,brigham exploration
+PTIE,PAIN THERAPEUTICS INC,pain therapeutics
+STST,ARGON ST,argon st
+TXUI,TEXAS UNITED BANCSHARES INC.,texas united bancshares
+VLTR,VOLTERRA SEMICONDUCTOR CORP.,volterra semiconductor
+PRM,PRIMEDIA INC,primedia
+WTBA,WEST BANCORPORATION INC,west bancorporation
+CGC.2,CASCADE NATURAL GAS,cascade natural gas
+PKTR,PACKETEER,packeteer
+FRNTQ,FRONTIER AIRLINES,frontier airlines
+MCOAQ,MONACO COACH CORP,monaco coach
+VTRU,VERTRUE INC.,vertrue
+IMP,ITLA CAPITAL CORP.,itla capital
+ACMR,A.C. MOORE ARTS & CRAFTS INC.,moore arts crafts
+HRZB,HORIZON FINANCIAL CORP,horizon financial
+STEL,STELLARONE CORP.,stellarone
+VLCM,VOLCOM,volcom
+VOLT,VOLT INFORMATION SCIENCES INC,volt information sciences
+MIPS,MIPS TECHNOLOGIES INC.,mips technologies
+CCOWQ,CAPITAL CORP OF THE WEST COM NEW,capital the west new
+SBIT,SUMMIT BANCSHARES INC.,summit bancshares
+ECLG,ECOLLEGE.COM,ecollege
+CLFC,CENTER FINANCIAL CORP,center financial
+TALK.XX1,TALK AMERICA HOLDINGS INC.,talk america holdings
+PONR,PIONEER COS INC COM NEW,pioneer cos new
+TNOX,TANOX INC,tanox
+RPB,REPUBLIC PROPERTY TR COM,republic property tr
+EPEXQ,EDGE PETROLEUM CORP,edge petroleum
+ARTG,ART TECH GROUP,art tech group
+XRIT,X-RITE INC.,rite
+SURW,SUREWEST COMMUNICATIONS,surewest communications
+ELMG,EMS TECHNOLOGIES INC.,ems technologies
+CMOS,CREDENCE SYSTEMS,credence systems
+TICC,OXFORD SQUARE CAPITAL CORP,oxford square capital
+AVNX,AVANEX CORP,avanex
+PMACA,PMA CAPITAL CP A,pma capital cp
+TPTH,TRIPATH IMAGING INC.,tripath imaging
+MIG,MEADOWBROOK INSURANCE GROUP INC.,meadowbrook insurance group
+CSKEQ,CHESAPEAKE CORP,chesapeake
+IDWK,INTERNATIONAL DISPLAYWORKS INC.,international displayworks
+GETI,GENTEK INC.,gentek
+SCUR,SECURE COMPUTING,secure computing
+CITP,COMSYS IT PARTNERS,comsys it partners
+SGK,SCHAWK INC,schawk
+GRAN,BANK OF GRANITE,bank granite
+GEHL,GEHL CO,gehl
+IFLO,I-FLOW CORP,flow
+MFB,MAIDENFORM BRANDS INC.,maidenform brands
+EVVV,EV3 INC.,ev3
+NTBKQ,NETBANK INC.,netbank
+FRGBQ,FIRST REGIONAL BANCORP,first regional bancorp
+TXCOQ,TXCO RESOURCES,txco resources
+IUSA,INFOGROUP INC.,infogroup
+PLAY.1,PORTALPLAYER INC.,portalplayer
+ASPM,ASPECT MEDICAL SYSTEMS,aspect medical systems
+TRLG,TRUE RELIGION APPAREL INC.,true religion apparel
+SWWC,SOUTHWEST WATER CO.,southwest water
+DSCM,DRUGSTORE.COM,drugstore
+ORCC,ONLINE RESOURCES CORP.,online resources
+ALY,ALLIS-CHALMERS ENERGY INC.,allis chalmers energy
+TMYEQ,TRANSMERIDIAN EXPL INC,transmeridian expl
+MAPS,MAPINFO CORPORATION,mapinfo
+BTFG,BANCTRUST FINANCIAL GROUP INC.,banctrust financial group
+GBTB,G B & T BANCSHARES INC COM,bancshares
+AOB,AMERICAN ORIENTAL BIOENGINEERING I,american oriental bioengineering
+LGN,LODGIAN INC.,lodgian
+AACC,ASSET ACCEPTANCE CAPITAL CORP.,asset acceptance capital
+LF,LEAPFROG ENTERPRISES INC. CL A,leapfrog enterprises cl
+NWRE,NEOWARE,neoware
+IPX,INTERPOOL INC,interpool
+CASLQ,A M CASTLE,castle
+DLLR,DFC Global Corp.,dfc global
+MSSR,MCCORMICK & SCHMICKS SEAFOOD REST,mccormick schmicks seafood rest
+JRVR,JAMES RIVER GROUP INC,james river group
+TMR,MERIDIAN RESOURCE CORP.,meridian resource
+ITWO,I2 TECHNOLOGIES INC,i2 technologies
+WSII,WASTE SERVICES,waste services
+CPWM,COST PLUS INC.,cost plus
+FNBP.1,F N B CORP VA COM,va
+PORK,PREMIUM STANDARD FARMS,premium standard farms
+ZZ,SEALY CORP.,sealy
+PWFL,POWERFLEET INC,powerfleet
+DRA,COINMACH SERVICE CORP A,coinmach service
+SIZ.1,SIZELER PROPERTY INVESTORS INC.,sizeler property investors
+BCSI,BLUE COAT SYSTEMS INC,blue coat systems
+PLSB.,PLACER SIERRA BANCSHARES,placer sierra bancshares
+UBH,USB HOLDING,usb holding
+PLXT,PLX TECHNOLOGY INC,plx technology
+CLZR,CANDELA CORP,candela
+SYGR,SYNAGRO TECHNOLOGIES INC.,synagro technologies
+MEAS,MEASUREMENT SPECIALTIES INC,measurement specialties
+NREB,NORTHERN EMPIRE BANCSHARES,northern empire bancshares
+TUNE,MICROTUNE INC.,microtune
+BDE.,BOIS D ARC ENERGY INC.,bois arc energy
+PSEM,PERICOM SEMICONDUCTOR CORP.,pericom semiconductor
+RSTO,RESTORATION HARDWARE INC.,restoration hardware
+MERC,MERCER INTERNATIONAL INC,mercer international
+TINY,180 DEGREE CAPITAL INC,degree capital
+ENCY,ENCYSIVE PHARMACEUTICALS INC,encysive pharmaceuticals
+OHAI,NGP CAPITAL RESOURCES,ngp capital resources
+ADC,AGREE REALTY REIT CORP,agree realty reit
+GMXR,GMX RSCS,gmx rscs
+GKNT,GEEKNET INC.,geeknet
+OFG,ORIENTAL FINANCIAL GROUP INC.,oriental financial group
+WARR,WARRIOR ENERGY SERVICES CORPORATIO,warrior energy services corporatio
+PANC,PANACOS PHARMACEUTICALS INC,panacos pharmaceuticals
+BIRT,ACTUATE CORP.,actuate
+DITC,DITECH NETWORKS INC.,ditech networks
+GLAD,GLADSTONE CAPITAL CORP,gladstone capital
+SUNH.XX1,SUN HEALTHCARE GROUP INC COM NEW,sun healthcare group new
+SHS,SAUER INC,sauer
+ADZA,ADEZA BIOMEDICAL CORPORATION,adeza biomedical
+MGAM,MULTIMEDIA GAMES HOLDING CO. INC.,multimedia games holding
+MDCI,MEDICAL ACTION INDUSTRIES INC,medical action industries
+MAXY,MAXYGEN INC.,maxygen
+VRNM,DIVERSA CORP.,diversa
+INTV,INTERVOICE INC.,intervoice
+MTCT,MTC TECHNOLOGIES INC,mtc technologies
+CBBO,COLUMBIA BANCORP ORE COM,columbia bancorp ore
+CHRDD,CHORDIANT SOFTWARE INC.,chordiant software
+WBMD,WEBMD HEALTH CORP,webmd health
+IESC,INTEGRATED ELECTRICAL SERVICES INC,integrated electrical services
+IKAN,IKANOS COMMUNICATIONS INC,ikanos communications
+HSOA,HOME SOLUTIONS,home solutions
+AWBCQ,AMERICANWEST,americanwest
+BRNC,BRONCO DRILLING,bronco drilling
+IDIX,IDENIX PHARMACEUTICALS INC,idenix pharmaceuticals
+HRZL,HORIZON LINES INC.,horizon lines
+MDTH,MEDCATH CORP.,medcath
+MTLG,METROLOGIC INSTRUMENTS INC.,metrologic instruments
+SKP,SCPIE HOLDINGS INC.,scpie holdings
+SMF.1,SMART & FINAL,smart final
+NURO,NEUROMETRIX INC.,neurometrix
+SR,STANDARD REGISTER CO.,standard register
+VNBCQ,VINEYARD NATL BANCORP,vineyard natl bancorp
+RNOW,RIGHTNOW TECHNOLOGIES INC,rightnow technologies
+CYPB,CYPRESS BIOSCIENCE INC.,cypress bioscience
+PIKE,PIKE CORP,pike
+WFBC,WILLOW FINANCIAL BANCORP IN COM,willow financial bancorp in
+ENSI,ENERGY SOUTH INC.,energy south
+CKCM,CLICK COMMERCE INC.,click commerce
+CSARQ,CARAUSTAR IND,caraustar ind
+BDY,BRADLEY PHARMACEUTICALS,bradley pharmaceuticals
+BNT,BENTLEY PHARMACEUTICALS INC.,bentley pharmaceuticals
+VSCN,VISUAL SCIENCES INC COM,visual sciences
+ZIGO,ZYGO CORP,zygo
+SUPG,SUPERGEN INC.,supergen
+DDMX,DYNAMEX INC.,dynamex
+CLRK,COLOR KINETICS,color kinetics
+PRWT,PREMIERWEST BANCORP,premierwest bancorp
+HORC,HORIZON HEALTH CORP COM,horizon health
+IFOX,INFOCROSSING INC COM,infocrossing
+SMTL,SEMITOOL,semitool
+PHTN,PHOTON DYNAMICS,photon dynamics
+MHGC,MORGANS HOTEL GROUP CO.,morgans hotel group
+TMTA,TRANSMETA CORP.,transmeta
+STTX.,STEEL TECHNOLOGIES,steel technologies
+JRCOQ,JOURNAL REGISTER,journal register
+RVHLQ,RIVIERA HLDGS CORP COM,riviera hldgs
+RNAI,SIRNA THERAPEUTICS INC.,sirna therapeutics
+DWSN,DAWSON GEOPHYSICAL CO.,dawson geophysical
+TRGL,ZAZA ENERGY CORPORATION,zaza energy
+BRW,BRISTOL WEST HOLDINGS,bristol west holdings
+RHB,REHABCARE,rehabcare
+SBX,SEABRIGHT HOLDINGS INC.,seabright holdings
+MVC,MVC CAPITAL INC,mvc capital
+RADN,RADYNE CORP COM NEW,radyne new
+AUXL,AUXILIUM PHARMACEUTICALS INC.,auxilium pharmaceuticals
+AVNR,AVANIR PHARMACEUTICALS INC,avanir pharmaceuticals
+COGO,COGO GROUP INC.,cogo group
+CACH,CACHE INC,cache
+TMRK,TERREMARK WORLDWIDE,terremark worldwide
+HTRN,HEALTHTRONICS INC COM,healthtronics
+SWSI,SUPERIOR WELL SERVICES,superior well services
+SLPHQ,SULPHCO INC,sulphco
+TVL,LIN TV CORP.,lin tv
+HTMXQ,HARTMARX CORP,hartmarx
+ICTG.,ICT GROUP,ict group
+CFCP,COASTAL FINANCIAL CORPORATION,coastal financial
+IBCA,INTERVEST BANCSHARES CORP.,intervest bancshares
+FCGI,FIRST CONSULTING GROUP,first consulting group
+SMTB,SMITHTOWN BANCORP,smithtown bancorp
+CALCQ,CALIFORNIA COASTAL CMNTYS I COM NE,california coastal cmntys ne
+CEGE,CELL GENESYS,cell genesys
+SLXA,SOLEXA INC.,solexa
+RGFCQ,R & G FINANCIAL CORP,financial
+LVB,STEINWAY MUSICAL INSTRUMENTS INC.,steinway musical instruments
+COLY,COLEY PHARMACEUTICAL GROUP,coley pharmaceutical group
+AOGSQ,AURORA OIL & GAS CORP COM,aurora oil gas
+NNBR,NN INC,nn
+CMBC,COMMUNITY BANCORP INC.,community bancorp
+SUPR,SUPERIOR BANCORP,superior bancorp
+AATI,ADVANCED ANALOGIC TECHNOLOGIES,advanced analogic technologies
+IRIS,IRIS INTERNATIONAL INC.,iris international
+WWIN.1,WASTE INDUSTRIES USA,waste industries usa
+EMIS,EMISPHERE TECHNOLOGIES INC,emisphere technologies
+PLA,PLAYBOY ENTERPRISES CLASS B,playboy enterprises
+MGRM,MONOGRAM BIOSCIENCES INC.,monogram biosciences
+DRCT,DIRECT GENERAL CORPORATION,direct general
+BIVN,BIOENVISION INC COM,bioenvision
+GSXN,GASCO ENERGY INC,gasco energy
+FTD,FTD GROUP,ftd group
+CLK,CLARK INC.,clark
+CRN,CORNELL COS,cornell cos
+HNAB,HANA BIOSCIENCES INC.,hana biosciences
+SMDI.,SIRENZA MICRODEVICES,sirenza microdevices
+TST,THESTREET INC,thestreet
+TOA,TECHNICAL OLYMPIC USA,technical olympic usa
+CADE,CADENCE FINANCIAL CORP.,cadence financial
+NTLS,NTELOS HOLDINGS CORP.,ntelos holdings
+LEV,LEVITT CORP A,levitt
+GAIN,GLADSTONE INVESTMENT CORP,gladstone investment
+CBONQ,COMMUNITY,community
+MSPD,MINDSPEED TECHNOLOGIES INC.,mindspeed technologies
+CATS,CATASYS INC.,catasys
+NTRT,NETRATINGS,netratings
+INPC,INPHONIC,inphonic
+SYNM,SYNTROLEUM CORP.,syntroleum
+OVEN,TURBOCHEF TECHN,turbochef techn
+WEBM,WEBMEDIABRANDS INC.,webmediabrands
+MECAQ,MAGNA ENTMT CORP SUB VTG CL A NEW,magna entmt sub vtg cl new
+POWR,POWERSECURE INTERNATIONAL INC,powersecure international
+NYM,NYMAGIC INC COM,nymagic
+WPSC,WHEELING-PITTSBURGH,wheeling pittsburgh
+GFR,GREAT AMER FINL RES,great amer finl res
+CBAK,CHINA BAK BATTERY INC.,china bak battery
+SBLK,STAR BULK CARRIERS CORP.,star bulk carriers
+HRLY,HERLEY INDS,herley inds
+KIDBQ,KID BRANDS INC,kid brands
+ADBL,AUDIBLE INC.,audible
+TAYC,TAYLOR CAPITAL GROUP INC,taylor capital group
+SWW,SITEL CORPORATION,sitel
+GGLR,GEOGLOBAL RESOURCES INC,geoglobal resources
+NPSP,NPS PHARMACEUTICALS INC,nps pharmaceuticals
+MWP,MARKWEST HYDRO,markwest hydro
+GMCR,GREEN MOUNTAIN COFFEE ROASTERS INC,green mountain coffee roasters
+YDNT,YOUNG INNOVATIONS INC.,young innovations
+QRCP,QUEST RESOURCE CORP COM NEW,quest resource new
+MWIV,MWI VETERINARY SUPPLY INC.,mwi veterinary supply
+OPNT,OPNET TECHNOLOGIES INC.,opnet technologies
+EF,EDELMAN FINANCIAL GROUP INC.,edelman financial group
+AIC,AAMES INVESTMENT CORPORATION,aames investment
+CPC.2,CENTRAL PARKING,central parking
+MFIN,MEDALLION FINANCIAL CORP,medallion financial
+PFSB,PENNFED FINANCIAL SERVICES INC.,pennfed financial services
+SP,SP PLUS CORP,sp plus
+PRST,PRESSTEK INC.,presstek
+UPFC,UNITED PANAM FINANCIAL CORP.,united panam financial
+CHFN,CHARTER FINANCIAL CORP.,charter financial
+CRDB,CRAWFORD CLASS B,crawford
+ESCH,ESCHELON TELECOM INC,eschelon telecom
+MCBI,METROCORP BANCSHARES INC.,metrocorp bancshares
+TRMS,SYNAGEVA BIOPHARMA CORP.,synageva biopharma
+IGOI,IGO INC.,igo
+MFW,M&F WORLDWIDE CORP.,worldwide
+MRT,MORTONS RESTAURANT GROUP INC.,mortons restaurant group
+ZLCS,ZALICUS INC.,zalicus
+ARDNA,ARDEN GROUP INC CLASS A,arden group
+CSBK,CLIFTON SAVINGS BANCORP INC.,clifton savings bancorp
+ANX,ADVENTRX PHARMACEUTICALS INC.,adventrx pharmaceuticals
+UDRL,UNION DRILLING INC.,union drilling
+CNVR,CONVERA CORP,convera
+CACS,CARRIER ACCESS CORP.,carrier access
+NOBLQ,NOBLE INTL LTD COM,noble intl
+FADV,FIRST ADVANTAGE CORP A,first advantage
+FSYS,FUEL SYSTEMS SOLUTIONS INC.,fuel systems solutions
+OUTD,OUTDOOR CHANNEL HOLDINGS INC.,outdoor channel holdings
+PHHMQ,PALM HARBOR HOMES,palm harbor homes
+NSTR,NORTHSTAR NEUROSCIENCE INC.,northstar neuroscience
+EEEE,EDUCATE INC.,educate
+VIRL,VIRAGE LOGIC CP,virage logic cp
+TARRQ,TARRAGON,tarragon
+MRGE,MERGE HEALTHCARE INC.,merge healthcare
+TLEO,TALEO CORP CL A,taleo cl
+CTRX.,COTHERIX INC.,cotherix
+ULCM,ULTICOM INC,ulticom
+PNSNQ,PENSON WORLDWIDE INC,penson worldwide
+SYMSQ,SYMS CORP,syms
+SIRV,SIRVA,sirva
+DINE,REWARDS NETWORKS INC.,rewards networks
+CIDM,CINEDIGM DIGITAL CINEMA CORP. CL A,cinedigm digital cinema cl
+DEBS,DEB SHOPS INC.,deb shops
+HITK,HI TECH PHARMACAL INC,hi tech pharmacal
+CYCL,CENTENNIAL COMMUNICATIONS,centennial communications
+EGLT,EAGLE TEST SYSTEMS INC,eagle test systems
+NHWK,NIGHTHAWK RADIOLOGY HOLDINGS,nighthawk radiology holdings
+DZSI,DASAN ZHONE SOLUTIONS INC,dasan zhone solutions
+ALTUQ,ALTUS PHARMACEUTICALS INC,altus pharmaceuticals
+RAE,RAE SYSTEMS INC.,rae systems
+DR,DARWIN PROF UWRITER,darwin prof uwriter
+MBRX,METABASIS THERAPEUTICS INC COM,metabasis therapeutics
+RZTIQ,RASER TECHNOLOGIES INC.,raser technologies
+RLRN,RENAISSANCE LEARNING,renaissance learning
+FLDR,FLANDERS CORP,flanders
+TWPG,THOMAS WEISEL PARTNERS GROUP INC,thomas weisel partners group
+IGTE,IGATE CORP.,igate
+VSTA.1,VISTACARE (A),vistacare
+CLAY,CLAYTON HOLDINGS INC.,clayton holdings
+ESC,EMERITUS CORP,emeritus
+MLP,MAUI LAND AND PINEAPPLE INC,maui land and pineapple
+ABBC,ABINGTON COMMUNITY BANCORP INC.,abington community bancorp
+GNTA,GENTA INC.,genta
+PRVT,PRIVATE MEDIA GROUP INC COM,private media group
+CPD,CARACO PHARMACEUTICAL LABORATORIES,caraco pharmaceutical laboratories
+HOME,HOME FEDERAL BANCORP INC.,home federal bancorp
+BFCF,BFC FINANCIAL CORP CLASS A,bfc financial
+CPII,CPI INTERNATIONAL INC.,cpi international
+LEDR,MARKET LEADER INC.,market leader
+SBP,SANTANDER BANCORP,santander bancorp
+ANDS,ANADYS PHARMACEUTICALS,anadys pharmaceuticals
+NEXT.2,NEXTEST SYSTEMS CORP,nextest systems
+GTOPQ,GENITOPE CORP,genitope
+NL,NL INDUSTRIES INC,nl industries
+STAK,STAKTEK HLDGS INC COM,staktek hldgs
+CRWN,CROWN MEDIA HOLDINGS INC CLASS A,crown media holdings
+EICU,VISICU INC COM,visicu
+RSO,RESOURCE CAPITAL REIT CORP,resource capital reit
+VLG,VALLEY NATIONAL GASES INCORPORATED,valley national gases
+SOMX,SOMAXON PHARMACEUTICALS INC.,somaxon pharmaceuticals
+PARL,PARLUX FRAGRANCES INC.,parlux fragrances
+BFTH,BALLY TOTAL FITNESS,bally total fitness
+OHBIQ,ORLEANS HOMEBUILDERS INC.,orleans homebuilders
+BWTRQ,BASIN WTR INC COM,basin wtr
+OCPI,OPTICAL COMMUNICATION PRODS CL A,optical communication prods cl
+PGSW,PEGASUS WIRELESS CORP NV COM NEW,pegasus wireless new
+TTES,T-3 ENERGY SERVICES,energy services
+TBV,TIENS BIOTECH GROUP (USA) INC.,tiens biotech group usa
+P5N994,Petrocorp Inc Escrow,petrocorp escrow
+AVRNQ,AVENTINE RENEWABLE ENERGY HOLDINGS,aventine renewable energy holdings
+JCG,J. CREW GROUP INC.,crew group
+VSUNQ,VERASUN ENERGY CORP.,verasun energy
+CYRV,CRYSTAL RIVER CAPITAL,crystal river capital
+ROMA,ROMA FINANCIAL CORP.,roma financial
+OMTR,OMNITURE,omniture
+VOLC,VOLCANO CORP,volcano
+TWLL,TECHWELL,techwell
+LOOP,LOOPNET INC.,loopnet
+IDARQ,IDEARC,idearc
+ACV,ALBERTO-CULVER,alberto culver
+LDOS,SAIC INC,saic
+H9B1,HERC HOLDINGS INC,herc holdings
+NMX,NYMEX HOLDINGS INC.,nymex holdings
+BARE,BARE ESCENTUALS INC.,bare escentuals
+GHSEQ,GATEHOUSE MEDIA,gatehouse media
+APKT,ACME PACKET INC.,acme packet
+FMR,FIRST MERCURY FINANCIAL,first mercury financial
+VQ,VENOCO INC.,venoco
+AFSI,AMTRUST FINANCIAL SERVICES INC,amtrust financial services
+DIVX,DIVX INC.,divx
+KBW,KBW INC.,kbw
+VPFG,VIEWPOINT FINANCIAL GROUP,viewpoint financial group
+RTYFZ,REALTY FINANCE REIT INC,realty finance reit
+OPTM,OPTIUM CORP.,optium
+FACE,PHYSICIANS FORMULA HOLDINGS INC.,physicians formula holdings
+SUSS,SUSSER HOLDINGS CORP,susser holdings
+WNEB,WESTERN NEW ENGLAND BANCORP INC,western new england bancorp
+MANF,MANIFOLD CAPITAL CORP,manifold capital
+SXE.1,STANLEY INC,stanley
+CADX,CADENCE PHARMACEUTICALS INC,cadence pharmaceuticals
+TRBN,TRUBION PHARMACEUTICALS INC COM,trubion pharmaceuticals
+HNSN,HANSEN MEDICAL INC,hansen medical
+-,AFFORDABLE RESIDENTIAL COMMU - RIG,affordable residential commu rig
+REV&,REVLON INC RIGHT 01/19/2007,revlon right
+TLCP,TELECORP PCS INC - ESCROW,telecorp pcs escrow
+CHRD,CHORDIANT SOFTWARE,chordiant software
+PAET,PAETEC HOLDING CORP,paetec holding
+DYNIQ,DYNEGY INC.,dynegy
+HLTH,HLTH CORPORATION,hlth
+KFN,KKR FINANCIAL HOLDINGS,kkr financial holdings
+FRH,FREEDOM ACQUISITION HLDGS I COM,freedom acquisition hldgs
+MMPIQ,MERUELO MADDUX PROPERTIES INC.,meruelo maddux properties
+CDVIQ,CAL DIVE INTERNATIONAL INC,cal dive international
+OPXT,OPNEXT INC.,opnext
+HCD,HIGHLAND DISTRESSED OPPORT COM,highland distressed opport
+QRR,QUADRA REALTY TRUST INC COM,quadra realty
+SDXC,SWITCH & DATA FACILITIES COMPANY,switch data facilities
+NTQ,NTR ACQUISITION CO COM,ntr acquisition
+NEWS,NEWSTAR FINANCIAL INC,newstar financial
+HLYS,HEELYS INC,heelys
+PLTE,CLAYMONT STEEL HOLDINGS INC COM,claymont steel holdings
+USBE,US BIOENERGY,us bioenergy
+AHII,ANIMAL HEALTH INTERNATIONAL INC.,animal health international
+DBTK,DOUBLE-TAKE SOFTWARE,double take software
+ISLN,ISILON SYSTEMS,isilon systems
+TOUSQ,TOUSA INC,tousa
+OMPI,OBAGI MEDICAL PRODUCTS INC.,obagi medical products
+XTNT,XTENT INC.,xtent
+MIPIQ,MOLECULAR INSIGHT PHARM INC COM,molecular insight pharm
+CLEC,US LEC CORP.,us lec
+SLBA,SCHLUMBERGER LTD.,schlumberger
+GSF,GLOBALSANTAFE CORPORATION,globalsantafe
+XL,XL GROUP PLC,xl group
+CBE,COOPER INDUSTRIES INC.,cooper industries
+FWLT,FOSTER WHEELER LTD.,foster wheeler
+NWA,NORTHWEST AIRLINES W/1,northwest airlines
+WTM,WHITE MOUNTAINS INSURANCE GROUP LT,white mountains insurance group lt
+UTIW,UTI WORLDWIDE INC,uti worldwide
+AHL,ASPEN INSURANCE HOLDINGS LTD,aspen insurance holdings
+PTP,PLATINUM UNDERWRITERS HOLDINGS LTD,platinum underwriters holdings
+MRH,MONTPELIER RE HOLDINGS LTD.,montpelier re holdings
+IPCR,IPC HOLDNGS LTD,ipc holdngs
+ALTE,ALTERRA CAPITAL HOLDINGS LTD.,alterra capital holdings
+WCRX,WARNER CHILCOTT A (BERMUDA),warner chilcott bermuda
+EHC,ENCOMPASS HEALTH CORP,encompass health
+FRPT,FORCE PROTECTION,force protection
+APXSQ,APEX SILVER MINES,apex silver mines
+NAT,NORDIC AMERICAN TANKERS LTD,nordic american tankers
+WINN,WINN-DIXIE STORES INC. WI,winn dixie stores wi
+SFL,SHIP FINANCE INTERNATIONAL LTD,ship finance international
+GMR,GENERAL MARITIME,general maritime
+SYCRF,SYNCORA HOLDINGS LTD,syncora holdings
+GNKOQ,GENCO SHIPPING AND TRADING LTD,genco shipping and trading
+SMOD,SMART MODULAR TECHNOLOGIES (WWH)IN,smart modular technologies wwh in
+ALC,ASSISTED LIVING CONCEPTS INC. CL A,assisted living concepts cl
+HOFF,HORIZON OFFSHORE,horizon offshore
+GBLI,GLOBAL INDEMNITY PLC,global indemnity
+MSCS,MSC SOFTWARE,msc software
+URRE,URANIUM RESOURCES INC.,uranium resources
+CLWR,CLEARWIRE CORP CL A,clearwire cl
+XIDEQ,EXIDE TECHNOLOGIES,exide technologies
+RCCC,RURAL CELL A,rural cell
+VLCCF,KNIGHTSBRIDGE SHIPPING LTD,knightsbridge shipping
+BLX,BANCO LATINOAMERICANO DE COMERCIO,banco latinoamericano comercio
+SLH,SOLERA HOLDINGS INC.,solera holdings
+HAYZQ,HAYES LEMMERZ INTERNATIONAL INC. C,hayes lemmerz international
+PRSG,PRIMUS GUARANTY LTD,primus guaranty
+NEXC,NEXCEN BRANDS,nexcen brands
+GLBC,GLOBAL CROSSING,global crossing
+KNOL,KNOLOGY INC.,knology
+COHN,COHEN & CO. INC.,cohen
+OMRI,OMRIX BIOPHARMACEUTICALS,omrix biopharmaceuticals
+CWCO,CONSOLIDATED WATER LTD,consolidated water
+RRR,RSC HOLDINGS INC.,rsc holdings
+EBHIQ,EDDIE BAUER HOLDINGS INC.,eddie bauer holdings
+CV,CENTRAL VERMONT PUBLIC SERVICE COR,central vermont public service cor
+ATB,ARLINGTON TANKERS,arlington tankers
+GEOY,GEOEYE INC.,geoeye
+TPGI,THOMAS PROPERTIES GROUP REIT INC,thomas properties group reit
+MEH,MIDWEST AIR GROUP INC.,midwest air group
+MEND,MICRUS ENDOVASCULAR CORP,micrus endovascular
+PNCLQ,PINNACLE AIRLINES CORP,pinnacle airlines
+EMS,EMERGENCY MEDICAL SERVICES CORP.,emergency medical services
+ULTRF,ULTRAPETROL LTD,ultrapetrol
+SRVY,GREENFIELD ONLINE,greenfield online
+ONT,ON2 TECHNOLOGIES INC COM,on2 technologies
+FCSX,FCSTONE GROUP,fcstone group
+HUGH,HUGHES COMMUNICATIONS INC,hughes communications
+IBAS,IBASIS INC.,ibasis
+SKRRF,SCOTTISH RE GROUP LTD.,scottish re group
+DHT,DHT HOLDINGS INC.,dht holdings
+FXEN,FX ENERGY INC,fx energy
+ADPI,AMERICAN DENTAL PARTNERS,american dental partners
+VOCS,VOCUS INC,vocus
+QUMU,QUMU CORP,qumu
+ASIA,ASIAINFO-LINKAGE INC.,asiainfo linkage
+MAQ,MARATHON ACQUISITION CORP,marathon acquisition
+RAMRD,RAM HOLDINGS LTD.,ram holdings
+BJGP,BMP SUNSTONE CORP.,bmp sunstone
+COWN,COWEN GROUP INC.,cowen group
+BRLCQ,SYNTAX-BRILLIAN CORP,syntax brillian
+PNNT,PENNANTPARK INVESTMENT CORP,pennantpark investment
+BUF,MINRAD INTL INC COM,minrad intl
+SEN,SEMCO ENERGY INC COM,semco energy
+MSWP,MISSION WEST PROPERTIES REIT INC,mission west properties reit
+PCAP,PATRIOT CAPITAL FUNDING INC COM,patriot capital funding
+CYTR,CYTRX CORP.,cytrx
+DGIT,DG FASTCHANNEL INC.,dg fastchannel
+ININ,INTERACTIVE INTELLIGENCE INC.,interactive intelligence
+BKR,MICHAEL BAKER CORP.,michael baker
+CDZI,CADIZ INC,cadiz
+OBQI,OILSANDS QUEST INC,oilsands quest
+JAV,JAVELIN PHARMACEUTICALS INC COM,javelin pharmaceuticals
+TOMO,TOMOTHERAPY,tomotherapy
+KEYN,KEYNOTE SYSTEMS INC.,keynote systems
+MUX,MCEWEN MINING INC.,mcewen mining
+BPZRQ,BPZ RESOURCES INC,bpz resources
+XKEDX,KAYNE ANDERSON ENERGY DEVELOPMENT,kayne anderson energy development
+NWK,NETWORK EQUIPMENT TECHNOLOGIES INC,network equipment technologies
+BNHNA,BENIHANA A,benihana
+WPSLF,W.P. STEWART & CO. LTD.,stewart
+SNCI,SONIC INNOVATIONS INC.,sonic innovations
+WAVE,NEXTWAVE WIRELESS INC.,nextwave wireless
+KOSN,KOSAN BIOSCIENCES INC COM,kosan biosciences
+EIIN,ENERGY INFRASTRUCTURE ACQUI COM,energy infrastructure acqui
+CCIX,COLEMAN CABLE INC,coleman cable
+LABL,MULTI COLOR CORP,multi color
+GEOKQ,GEOKINETICS INC,geokinetics
+NRGN,NEUROGEN CORP,neurogen
+STEC,STEC INC.,stec
+DFCLQ,DELTA FINANCIAL CORP COM,delta financial
+OPTV,OPENTV CORP A,opentv
+APAGF,APCO OIL & GAS INTERNATIONAL INC.,apco oil gas international
+DEEPQ,SUPERIOR OFFSHORE INTERNATIONAL IN,superior offshore international in
+ALTH,ALLOS THERAPEUTICS INC.,allos therapeutics
+GRBEQ,GRUBB AND ELLIS,grubb and ellis
+FSR,FLAGSTONE REINSURANCE HOLDINGS LTD,flagstone reinsurance holdings
+BRT,BRT APARTMENTS CORP,brt apartments
+CTAC,1 800 CONTACTS,contacts
+BNVI,BIONOVO INC.,bionovo
+SGICQ,SILICON GRAPHICS INC COM NEW,silicon graphics new
+STRS,STRATUS PROPERTIES INC,stratus properties
+COMV,COMVERGE INC.,comverge
+TRCA,TERCICA INC.,tercica
+BMTI,BIOMIMETIC THERAPEUTICS INC.,biomimetic therapeutics
+UNCA,UNICA CORP.,unica
+BBND,BIGBAND NETWORKS,bigband networks
+ARUN,ARUBA NETWORKS INC.,aruba networks
+VRNM,VERENIUM CORP.,verenium
+SDTHQ,SHENGDATECH INC,shengdatech
+ENOC,ENERNOC INC,enernoc
+TBSI,TBS INTERNATIONAL PLC (CL A),tbs international cl
+ADY,FEIHE INTERNATIONAL INC.,feihe international
+EPHC,EPOCH HOLDINGS CORP.,epoch holdings
+CPHL,CASTLEPOINT HLDGS,castlepoint hldgs
+AMPL,AMPAL-AMERICAN ISRAEL CORP.,ampal american israel
+ABBC,ABINGTON BANCORP INC,abington bancorp
+PONE,PROTECTION ONE INC.,protection one
+FIRE,SOURCEFIRE,sourcefire
+SYUT,SYNUTRA INTERNATIONAL INC,synutra international
+NBFAQ,NOVA BIOSOURCE FUELS INC,nova biosource fuels
+KFED,K FED BANCORP COM,fed bancorp
+HTC,HUNGARIAN TEL & CABLE CORP COM,hungarian tel cable
+SIRT,SIRTRIS PHARM.,sirtris pharm
+GMTA,GANDER MOUNTAIN CO,gander mountain
+COV,COVIDIEN LTD.,covidien
+IMPCQ,IMPERIAL CAPITAL BANCORP INC,imperial capital bancorp
+MF,MF GLOBAL LTD.,mf global
+BZ,BOISE INC.,boise
+OWW,ORBITZ WORLDWIDE INC.,orbitz worldwide
+STAR,STARENT NETWORKS,starent networks
+DOLNQ,DOLAN,dolan
+DDUP,DATA DOMAIN,data domain
+BLOG,BLADELOGIC INC COM,bladelogic
+NZ,NETEZZA,netezza
+ZINCQ,HORSEHEAD CORP,horsehead
+AUTH,AUTHENTEC INC.,authentec
+HSWI,HSW INTERNATIONAL INC.,hsw international
+AIRV,AIRVANA INC.,airvana
+MI,MARSHALL & ILSLEY,marshall ilsley
+TT,TRANE INC.,trane
+MV,METAVANTE TECHNOLOGIES INC.,metavante technologies
+PCXCQ,PATRIOT COAL CORP,patriot coal
+GLG,GLG PARTNERS,glg partners
+ABII,ABRAXIS BIOSCIENCE (NEW),abraxis bioscience new
+ESMK,ESMARK,esmark
+-,MEDIS TECHNOLOGIES LTD - RTS,medis technologies rts
+SDOCQ,SANDRIDGE ENERGY INC,sandridge energy
+ES,ENERGYSOLUTIONS INC.,energysolutions
+GFGFQ,GUARANTY FINANCIAL GROUP,guaranty financial group
+TOH,HICKS ACQUISITION CO. I INC.,hicks acquisition
+CAGZ,CULLEN AGRICULTURAL HOLDING COM,cullen agricultural holding
+VM,VIRGIN MOBILE USA A,virgin mobile usa
+DUF,DUFF & PHELPS CORP. CL A,duff phelps cl
+GXDX,GENOPTIX INC.,genoptix
+CTCT,CONSTANT CONTACT INC,constant contact
+FGXI,FGX INTERNATIONAL HLDGS,fgx international hldgs
+PROJ,DELTEK INC.,deltek
+SFSF,SUCCESSFACTORS,successfactors
+TSON,TRANS1 INC.,trans1
+MAPP,MAP PHARMACEUTICALS INC.,map pharmaceuticals
+NSPH,NANOSPHERE INC,nanosphere
+PAR.3,3PAR INC.,3par
+VRAD,VIRTUAL RADIOLOGIC CORPORAT COM,virtual radiologic corporat
+CML,COMPELLENT TECHNOLOGIES,compellent technologies
+BFRM,BIOFORM MEDICAL INC,bioform medical
+ICXT,ICX TECHNOLOGIES INC COM,icx technologies
+CCGM,CHINA CGAME INC,china cgame
+INET,INTERNET BRANDS-CL A,internet brands cl
+FXRE,FX REAL ESTATE & ENTERTAINMENT INC,fx real estate entertainment
+-,SECURITY BANK CORP,security bank
+FXRE,FX REAL ESTATE & ENT RIGHTS,fx real estate ent rights
+-,CENTERLINE HOLDING CO RTS,centerline holding rts
+RISK,RISKMETRICS GROUP,riskmetrics group
+IPCM,IPC HEALTHCARE INC,ipc healthcare
+ARST,ARCSIGHT INC,arcsight
+ENTR,ENTROPIC COMMUNICATIONS INC,entropic communications
+-,WINTHROP REALTY TRUST - RTS,winthrop realty rts
+SOA,SOLUTIA INC.,solutia
+THRX,THERAVANCE INC.,theravance
+CMO,CAPSTEAD MORTGAGE REIT CORP,capstead mortgage reit
+TWTI.1,THIRD WAVE TECHNOLOGIES,third wave technologies
+EXXIQ,ENERGY XXI (BERMUDA) LTD,energy xxi bermuda
+AXYS,AXSYS TECHNOLOGIES,axsys technologies
+CSR,CHINA SECURITY & SURVEILLANCE TECH,china security surveillance tech
+CGRB,COUGAR BIOTECHNOLOGY,cougar biotechnology
+FSIN,FUSHI COPPERWELD INC.,fushi copperweld
+KTII,K-TRON INTERNATIONAL,tron international
+MHLD,MAIDEN HOLDINGS LTD,maiden holdings
+CANOQ,CANO PETROLEUM INC.,cano petroleum
+PMFG,PMFG INC.,pmfg
+PTEC,PHOENIX TECHNOLOGIES LTD.,phoenix technologies
+FEEDQ,AGFEED INDUSTRIES INC,agfeed industries
+VRUS,PHARMASSET,pharmasset
+FRM,FURMANITE CORP.,furmanite
+DMRC.1,DIGIMARC,digimarc
+SMTS,SOMANETICS CORP,somanetics
+HEVVQ,ENER1 INC,ener1
+ANVGQ,ALLIED NEVADA GOLD CORP,allied nevada gold
+HTS,HATTERAS FINANCIAL CORP.,hatteras financial
+NOG,NORTHERN OIL AND GAS INC,northern oil and gas
+VNUS,VNUS MEDICAL TECH,vnus medical tech
+QCOR,QUESTCOR PHARMACEUTICALS INC,questcor pharmaceuticals
+PHX,PHX MINERALS INC,phx minerals
+ENDRQ,ENDEAVOUR INTERNATIONAL CORP,endeavour international
+LSR,LIFE SCIENCES RESEARCH,life sciences research
+ABAT,ADVANCED BATTERY TECHNOLOGIES INC,advanced battery technologies
+SYNO,SYNOVIS LIFE TECH,synovis life tech
+TSTRQ,TERRESTAR CORP,terrestar
+HOGS,ZHONGPIN INC.,zhongpin
+NCOC,NATIONAL COAL CORP COM NEW,national coal new
+AXAS,ABRAXAS PETROLEUM CORP,abraxas petroleum
+VLNCQ,VALENCE TECHNOLOGY INC,valence technology
+BMBM,FREEDOM HOLDING CORP,freedom holding
+PROS,PROCENTURY CORP COM,procentury
+MPR,MET-PRO CORP.,met pro
+UBNK,UNITED FINANCIAL BANCORP INC,united financial bancorp
+THMD,THERMADYNE HOLDINGS CORP.,thermadyne holdings
+DNBK,DANVERS BANCORP,danvers bancorp
+OPTR,OPTIMER PHARMACEUTICALS INC.,optimer pharmaceuticals
+BOLT,BOLT TECHNOLOGY CORP,bolt technology
+QNTA,QUANTA CAPITAL HOLDINGS,quanta capital holdings
+BCON,BEACON POWER CORP.,beacon power
+ISPH,INSPIRE PHARMACEUTICALS,inspire pharmaceuticals
+ENTU,ENTRUST,entrust
+STBC,STATE BANCORP,state bancorp
+SYMX,SYNTHESIS ENERGY SYSTEMS INC,synthesis energy systems
+DYAX,DYAX CORP.,dyax
+APSG,APPLIED SIGNAL TECH,applied signal tech
+CSA,COGDELL SPENCER INC,cogdell spencer
+MIND,MIND TECHNOLOGY INC,mind technology
+HUSA,HOUSTON AMERICAN ENERGY CORP,houston american energy
+PENX,PENFORD CORP.,penford
+ICOC,ICO INC NEW COM,ico new
+TVLYQ,TRI-VALLEY CORP,tri valley
+GCOM,GLOBECOMM SYSTEM INC,globecomm system
+CHDX,CHINDEX INTERNATIONAL INC,chindex international
+AGL.1,ANGELICA CORP COM,angelica
+CSCX,CARDIAC SCIENCE CORP,cardiac science
+TSYS,TELECOMMUNICATION SYSTEMS INC. CL,telecommunication systems cl
+CBRX,COLUMBIA LABORATORIES INC.,columbia laboratories
+ASI,AMERICAN SAFETY INSURANCE HOLDINGS,american safety insurance holdings
+CALD,CALLIDUS SOFTWARE INC,callidus software
+MASB,MASSBANK CORP READ MASS COM,massbank read mass
+DBLE,DOUBLE EAGLE PETROLEUM CO.,double eagle petroleum
+CLDA,CLINICAL DATA IN,clinical data in
+DMAN,DEMANDTEC INC,demandtec
+AEZ,AMERICAN OIL & GAS INC,american oil gas
+RDEA,ARDEA BIOSCIENCES INC.,ardea biosciences
+VITA,ORTHOVITA,orthovita
+OLP,ONE LIBERTY PROPERTIES REIT INC,one liberty properties reit
+ACCL,ACCELRYS INC,accelrys
+MNR,MONMOUTH REAL ESTATE INVESTMENT RE,monmouth real estate investment re
+CVTR,CARE INVESTMENT TRUST INC.,care investment
+METR,METRO BANCORP INC.,metro bancorp
+CALP,CALIPER LIFE SCIENCES,caliper life sciences
+AMCP,AMCOMP INC COM,amcomp
+MBRKQ,MIDDLEBROOK PHARMACEUTICAL COM,middlebrook pharmaceutical
+KS,KAPSTONE PAPER AND PACKAGING CORP,kapstone paper and packaging
+LPHIQ,LIFE PARTNERS HOLDINGS INC,life partners holdings
+WEST,WESTINGHOUSE SOLAR INC.,westinghouse solar
+CFSG,CHINA FIRE & SECURITY GROUP,china fire security group
+GNET,GLOBAL TRAFFIC NETWORK INC.,global traffic network
+WATG,WONDER AUTO TECHNOLOGY INC.,wonder auto technology
+REX,REX AMERICAN RESOURCES CORP,rex american resources
+GRIF,INDUS REALTY TRUST INC,indus realty
+RICK,RICKS CABARET INTERNATIONAL INC.,ricks cabaret international
+GEOI,GEORESOURCES INC.,georesources
+EBTX,ENCORE BANCSHARES INC.,encore bancshares
+RNN,REXAHN PHARMACEUTICALS INC,rexahn pharmaceuticals
+REVU,EDUCATION HOLDINGS 1 INC,education holdings
+HRBN,HARBIN ELECTRIC INC.,harbin electric
+HQSM,HQ SUSTAINABLE MARITIME INDUSTRIES,hq sustainable maritime industries
+FUQI,FUQI INTERNATIONAL INC,fuqi international
+CSKI,CHINA SKY ONE MEDICAL INC,china sky one medical
+EGT,ELIXIR GAMING TECHNOLOGIES INC.,elixir gaming technologies
+STSI,STAR SCIENTIFIC INC.,star scientific
+CPSL,CHINA PRECISION STEEL INC.,china precision steel
+HOME,HOME FEDERAL BANCORP INC,home federal bancorp
+ACUR,ACURA PHARMACEUTICALS INC,acura pharmaceuticals
+BWY,BWAY HOLDING CO,bway holding
+FXCB,FOX CHASE BANCORP INC.,fox chase bancorp
+GRHHQ,GREENHUNTER RESOURCES INC,greenhunter resources
+LWAY,LIFEWAY FOODS INC,lifeway foods
+SUTR,SUTOR TECHNOLOGY GROUP LTD,sutor technology group
+SHF,SCHIFF NUTRITION INTERNATIONAL INC,schiff nutrition international
+BIDZ,BIDZ.COM INC,bidz
+MSHL,MEI PHARMA INC,mei pharma
+BAGL,EINSTEIN NOAH RESTAURANT GROUP INC,einstein noah restaurant group
+BFSB,BROOKLYN FEDERAL BANCORP IN COM,brooklyn federal bancorp in
+ARTL,ARISTOTLE CORP COM NEW,aristotle new
+ABI,APPLIED BIOSYSTEMS INC.,applied biosystems
+LPS,LENDER PROCESSING SERVICES INC.,lender processing services
+CRA,CELERA,celera
+PMFG,PEERLESS MANUFACTURING CO.,peerless manufacturing
+CNIT,CHINA INFORMATION TECHNOLOGY INC.,china information technology
+TKTM,TICKETMASTER ENTERTAINMENT,ticketmaster entertainment
+ILG,INTERVAL LEISURE GROUP INC,interval leisure group
+2870498Z,DIGIMARCS DIGITAL WATERMAN,digimarcs digital waterman
+APCVZ&,FRESENIUS KABI PHARMACEUTHLD,fresenius kabi pharmaceuthld
+GRH,GREENHUNTER ENERGY INC WTS,greenhunter energy wts
+RHIEQ,RHI ENTERTAINMENT INC.,rhi entertainment
+RAX,RACKSPACE HOSTING INC,rackspace hosting
+FSC,OAKTREE SPECIALTY LENDING CORP,oaktree specialty lending
+CFL,BRINKS HOME SECURITY HOLDINGS,brinks home security holdings
+GMRRQ,General Maritime Corp.,general maritime
+FACT,FACET BIOTECH,facet biotech
+-,GREENHUNTER ENERGY INC-WARRANT,greenhunter energy
+INVHY,INVITEL HLDGS A/S ADS,invitel hldgs ads
+JERT,JER INVESTORS TRUST REIT INC,jer investors reit
+MJN,MEAD JOHNSON NUTRITION,mead johnson nutrition
+TETAB,TETON ADVISORS INC,teton advisors
+ZZ-R-W,SEALY CORP-RTS W/I,sealy rts
+AIPC,AMERICAN ITALIAN PASTA A,american italian pasta
+ABVT,ABOVENET INC.,abovenet
+AMRX,AMNEAL PHARMACEUTICALS INC CLASS A,amneal pharmaceuticals
+DGI,DIGITALGLOBE INC,digitalglobe
+CSR,CSR LTD,csr
+SIGA,SIGA TECHNOLOGIES INC,siga technologies
+MITI,MICROMET INC.,micromet
+CAST,CHINACAST EDUCATION CORP,chinacast education
+SWI,SOLARWINDS INC,solarwinds
+YORW,YORK WATER,york water
+NKSH,NATIONAL BANKSHARES INC,national bankshares
+RENT,RENTRAK CORP,rentrak
+ATSI,ATS MEDICAL,ats medical
+TUC,MAC-GRAY CORP.,mac gray
+SUMT,SUMTOTAL SYSTEMS INC.,sumtotal systems
+HMPRD,HAMPTON ROADS BANKSHARES INC.,hampton roads bankshares
+DECC,D & E COMMUNICATIONS INC COM,communications
+AMPH,AMERICAN PHYSICIAN SV GP,american physician sv gp
+CHLN,CHINA HOUSING & LAND DEVELOPMENT I,china housing land development
+ISTA,ISTA PHARMACEUTICALS INC.,ista pharmaceuticals
+ROCM,ROCHESTER MEDICAL CORP,rochester medical
+TIER,TIER TECHNOLOGIES INC B,tier technologies
+ASGR,AMERICA SERVICE GROUP INC.,america service group
+USBI,UNITED SECURITY BANCSHARES INC.,united security bancshares
+PESI,PERMA-FIX ENVIRONMENTAL SERVICES I,perma fix environmental services
+APAC,APAC CUSTOMER SERVICES INC.,apac customer services
+HTWR,HEARTWARE INTERNATIONAL INC,heartware international
+VASC,VASCULAR SOLUTIONS INC.,vascular solutions
+MYRX,MYREXIS INC,myrexis
+URZ,URANERZ ENERGY CORP,uranerz energy
+ESBF,ESB FINANCIAL CORP.,esb financial
+TOBC,TOWER BANCORP,tower bancorp
+MAKO,MAKO SURGICAL CORP.,mako surgical
+ALLI,ALLION HEALTHCARE INC.,allion healthcare
+BSTC,BIOSPECIFICS TECHNOLOGIES CORP,biospecifics technologies
+CLRT,CLARIENT,clarient
+ALNC,ALLIANCE FINANCIAL CORP.,alliance financial
+ACTI,ACTIVIDENTITY CORP,actividentity
+GSIT,GSI TECHNOLOGY INC,gsi technology
+PNNW,PENNICHUCK CORP.,pennichuck
+ISRL,ISRAMCO INC,isramco
+RPRX,REPROS THERAPEUTICS INC,repros therapeutics
+GOOD,GLADSTONE COMMERCIAL REIT CORP,gladstone commercial reit
+RBI,SPORT SUPPLY GROUP INC DEL COM,sport supply group del
+TRCR,TRANSCEND SERVICES INC.,transcend services
+UTRA,UNIVERSAL TRAVEL,universal travel
+FRS,FRISCHS RESTAURANTS INC,frischs restaurants
+SPEC,SPECTRUM CONTROL,spectrum control
+PVSW,PERVASIVE SOFTWARE INC,pervasive software
+CRED,CREDO PETROLEUM CORP.,credo petroleum
+AHCI,ALLIED HEALTHCARE INTL,allied healthcare intl
+HDIX,HOME DIAGNOSTICS INC DEL COM,home diagnostics del
+HWK,HAWK CORP CL A,hawk cl
+WEDC,WHITE ELECTR DESIGNS CORP COM,white electr designs
+UBET,YOUBET COM INC COM,youbet
+WEL,BOOTS & COOTS INC COM NEW,boots coots new
+CRTX,CORNERSTONE THERAPEUTICS INC,cornerstone therapeutics
+DDIC,DDI CORP.,ddi
+NGAC,NORTH AMERN GALVANZNG & CTN COM,north amern galvanzng ctn
+CHBT,CHINA-BIOTICS INC.,china biotics
+BDSI,BIODELIVERY SCIENCES INTERNATIONAL,biodelivery sciences international
+OPEN,OPENTABLE INC,opentable
+NOVA,NOVAMED INC.,novamed
+PZG,PARAMOUNT GOLD AND SILVER CORP,paramount gold and silver
+SAAS,INCONTACT INC.,incontact
+FPU,FLORIDA PUB UTILS CO COM,florida pub utils
+CGA,CHINA GREEN AGRICULTURE INC,china green agriculture
+EML,EASTERN,eastern
+HGRD,HEALTH GRADES INC.,health grades
+DRCO,DYNAMICS RESEARCH CORP,dynamics research
+AMCS,AMICAS,amicas
+PRPX,PORTEC RAIL PRODUCTS,portec rail products
+SRSL,SRS LABS INC.,srs labs
+MDF,METROPOLITAN HEALTH NETWORKS INC.,metropolitan health networks
+WBCO,WASHINGTON BANKING,washington banking
+FTGX,FIBERNET TELECOM GRP INC COM PAR $,fibernet telecom grp par
+HTCO,HICKORY TECH CORP.,hickory tech
+FFKY,FIRST FINANCIAL SERVICE CORP,first financial service
+BARI,BANCORP RHODE ISLAND,bancorp rhode island
+CBNK,CHICOPEE BANCORP INC,chicopee bancorp
+DX,DYNEX CAPITAL REIT INC,dynex capital reit
+CBNJ,CAPE BANCORP INC,cape bancorp
+LEGC,LEGACY BANCORP INC/MA,legacy bancorp ma
+CHTP,CHELSEA THERAPEUTICS INTERNATIONAL,chelsea therapeutics international
+OFI,OVERHILL FARMS INC.,overhill farms
+TOD,TODD SHIPYARDS CORP.,todd shipyards
+EIHI,EASTERN INSURANCE HOLDINGS INC.,eastern insurance holdings
+MIGP,MERCER INSURANCE,mercer insurance
+CNU,CONTINUCARE CORP,continucare
+ZAP,ZAPATA CORP.,zapata
+SATC,SATCON TECHNOLOGY CORP.,satcon technology
+ITLN,INTELLON CORP COM,intellon
+DDRX,DIEDRICH COFFEE INC COM NEW,diedrich coffee new
+MEMS,MEMSIC INC.,memsic
+GIW,WILBER CORP,wilber
+DWSN,TGC INDUSTRIES,tgc industries
+MEDQ,MEDQUIST,medquist
+MTXX,MATRIXX INITIATIVES,matrixx initiatives
+VTGDF,VANTAGE DRILLING,vantage drilling
+MATR,Mattersight Corporation,mattersight
+NLCI,NOBEL LEARNING COMMUNITIES INC.,nobel learning communities
+HEAT,SMARTHEAT INC.,smartheat
+CBOU,CARIBOU COFFEE CO. INC.,caribou coffee
+CTFO,CHINA TRANSINFO TECHNOLOGY CORP.,china transinfo technology
+KFFB,KENTUCKY FIRST FEDERAL BANCORP,kentucky first federal bancorp
+FCAL,FIRST CALIFORNIA FINANCIAL GROUP I,first california financial group
+CBNRQ,CUBIC ENERGY INC,cubic energy
+ARL,AMERICAN REALTY INVESTORS INC,american realty investors
+NIVS,NIVS INTELLIMEDIA TECHNOLOGY GROUP,nivs intellimedia technology group
+CAAS,CHINA AUTOMOTIVE SYSTEMS INC,china automotive systems
+CHEV,CHEVIOT FINANCIAL CORP.,cheviot financial
+HBOS,HERITAGE FINL GROUP COM,heritage finl group
+TCI,TRANSCONTINENTAL REALTY INVESTORS,transcontinental realty investors
+LGTY,LOGILITY INC COM,logility
+HAWKQ,SEAHAWK DRILLING,seahawk drilling
+CFN,CAREFUSION CORP,carefusion
+EM,EMDEON INC,emdeon
+PMT,PENNYMAC MORTGAGE INVESTMENT TRUST,pennymac mortgage investment
+CYS,CYPRESS SHARPRIDGE INVESTMENTS INC,cypress sharpridge investments
+IVR,INVESCO MORTGAGE CAPITAL REIT INC,invesco mortgage capital reit
+-,ZION OIL & GAS INC - RTS,zion oil gas rts
+DTV,DIRECTV,directv
+LSTZA,LIBERTY MEDIA CORP. LIBERTY STARZ,liberty media liberty starz
+TLCR,TALECRIS BIOTHERAPEUTICS HOLDINGS,talecris biotherapeutics holdings
+ART,ARTIO GLOBAL INVESTORS INC CLASS A,artio global investors
+AONEQ,A123 SYSTEMS INC,a123 systems
+NWBI,NORTHWEST BANCSHARES INC,northwest bancshares
+DOLE,DOLE FOOD CO. INC.,dole food
+AGAM,AGA MEDICAL HOLDINGS,aga medical holdings
+STRI,STR HOLDINGS INC,str holdings
+RUE,RUE21 INC,rue21
+CXS,CREXUS INVESTMENT CORP.,crexus investment
+ARCL,ARCHIPELAGO LEARNING INC.,archipelago learning
+VITC,VITACOST.COM INC,vitacost
+ACOM,ANCESTRY.COM INC.,ancestry
+GTEC,GLOBAL DEFENSE TECH,global defense tech
+DYNP,DUOYUAN PRINTING INC,duoyuan printing
+LIWA,LIHUA INTERNATIONAL INC,lihua international
+CLWRR,CLEARWIRE CORP,clearwire
+TW6,TOWERS WATSON  CLASS A,towers watson
+MFGLQ,MF GLOBAL HOLDINGS LTD,mf global holdings
+GOLE,GOLAR LNG ENGY LTD USD1.00,golar lng engy usd1
+SFN,SFN GROUP CORP.,sfn group
+GRM,GRAHAM PACKAGING CO. INC.,graham packaging
+TRNO,TERRENO REALTY REIT CORP,terreno realty reit
+CHSP,CHESAPEAKE LODGING TRUST REIT,chesapeake lodging reit
+OABC,OMNIAMERICAN BANCORP INC.,omniamerican bancorp
+SLRC,SLR INVESTMENT CORP,slr investment
+CLU,CELLU TISSUE HOLDINGS,cellu tissue holdings
+FSR,FLAGSTONE REINSURANCE HOLDINGS SA,flagstone reinsurance holdings
+BRKB,BERKSHIRE HATHAWAY INC CLASS B,berkshire hathaway
+COV,COVIDIEN PLC,covidien
+TT,TRANE TECHNOLOGIES PLC,trane technologies
+CBE,COOPER INDUSTRIES PLC CL A,cooper industries cl
+WCRX,WARNER CHILCOTT PLC CLASS A,warner chilcott
+GNA,GERDAU AMERISTEEL CORP COM,gerdau ameristeel
+DEXO,DEX ONE CORP.,dex one
+JAGGF,JAGUAR MINING INC,jaguar mining
+PWER,POWER-ONE INC.,power one
+REN,RESOLUTE ENERGY CORP.,resolute energy
+XRTX,XYRATEX LTD,xyratex
+KOG,KODIAK OIL AND GAS CORP,kodiak oil and gas
+EPL,ENERGY PARTNERS LTD.,energy partners
+HVB,HUDSON VALLEY HOLDING CORP,hudson valley holding
+WAVX,WAVES SYSTEMS CORP CLASS A,waves systems
+SPMD,SUPERMEDIA INC.,supermedia
+PCYC,PHARMACYCLICS INC,pharmacyclics
+GBDC,GOLUB CAPITAL BDC INC,golub capital bdc
+BELM,BELL MICROPRODUCTS INC COM,bell microproducts
+TCRD,FIRST EAGLE ALTERNATIVE CAPITAL BD,first eagle alternative capital bd
+BTN,BALLANTYNE STRONG INC,ballantyne strong
+BOFI,BOFI HOLDING INC,bofi holding
+KEI,KEITHLEY INSTRUMENTS,keithley instruments
+NEI,NETWORK ENGINES INC.,network engines
+CODE,SPANSION INC. CL A,spansion cl
+DFZ,RG BARRY CORP,rg barry
+FURX,FURIEX PHARMACEUTICALS INC,furiex pharmaceuticals
+CHINA,CDC CORP. CL A,cdc cl
+MHRCQ,MAGNUM HUNTER RESOURCES CORP,magnum hunter resources
+DLA,DELTA APPAREL INC,delta apparel
+EXMCQ,EXCEL MARITIME CARRIERS,excel maritime carriers
+JOEZ,DIFFERENTIAL BRANDS GROUP INC,differential brands group
+PURE,PURE BIOSCIENCE,pure bioscience
+VHC,VIRNETX HOLDING CORP,virnetx holding
+BOOT,LACROSSE FOOTWEAR INC.,lacrosse footwear
+AOXG,AOXING PHARMACEUTICAL INC,aoxing pharmaceutical
+CGC,CAPITAL GOLD CORP COM NEW,capital gold new
+EPM,EVOLUTION PETROLEUM CORP,evolution petroleum
+OCNW,OCCAM NETWORKS,occam networks
+LMNR,LIMONEIRA,limoneira
+BALT,BALTIC TRADING LTD,baltic trading
+KITDQ,KIT DIGITAL INC,kit digital
+MERU,MERU NETWORKS INC,meru networks
+VIAS,VIASYSTEMS GROUP INC.,viasystems group
+EURX,EURAND N V SHS,eurand shs
+SENO,SENORX INC.,senorx
+RLOC,REACHLOCAL INC,reachlocal
+EXL,EXCEL TRUST REIT INC,excel reit
+ADGE,AMERICAN DG ENERGY INC,american dg energy
+PZZ,PROSPECT MEDICAL HOLDINGS INC.,prospect medical holdings
+NYMX,NYMOX PHARMACEUTICAL CORP,nymox pharmaceutical
+HOKUQ,HOKU CORP,hoku
+GST,GASTAR EXPLORATION INC,gastar exploration
+GEGSQ,GLOBAL GEOPHYSICAL SERVICES INC,global geophysical services
+FUBC,1ST UNITED BANCORP INC,1st united bancorp
+DVOXQ,DYNAVOX INC CLASS A,dynavox
+RODM,RODMAN & RENSHAW CAP GRP,rodman renshaw cap grp
+AXTI,AXT INC,axt
+RURL,RURAL/METRO CORP.,rural metro
+CNVO,CONVIO INC.,convio
+ACHI,R1 RCM INC,r1 rcm
+TPCG,TPC GROUP INC.,tpc group
+NYNY,EMPIRE RESORTS,empire resorts
+USEG,US ENERGY CORP,us energy
+FSII,FSI INTERNATIONAL INC.,fsi international
+INHX,INHIBITEX INC,inhibitex
+GFC,GEROVA FINANCIAL GROUP LTD.,gerova financial group
+APPY,ASPENBIO PHARMA INC.,aspenbio pharma
+SLTM,SOLTA MEDICAL INC.,solta medical
+MILLQ,MILLER ENERGY RESOURCES INC,miller energy resources
+ANTH,ANTHERA PHARMACEUTICALS INC,anthera pharmaceuticals
+SGS,STREAM GLOBAL SERVICES INC.,stream global services
+CIJN,CDC CL A,cdc cl
+GVFG,GEROVA FINANCIAL GROUP LTD,gerova financial group
+QLIK,QLIK TECHNOLOGIES INC.,qlik technologies
+ONE,HIGHER ONE HOLDINGS INC.,higher one holdings
+MDMD,MEDIAMIND TECHNOLOGIES INC.,mediamind technologies
+GMANQ,GORDMANS STORES INC,gordmans stores
+4110095Z,CONTANGO ORE INC,contango ore
+GGP,GGP INC,ggp
+SBRA,SABRA HEALTH CARE REIT INC,sabra health care reit
+SUNH,SUN HEALTHCARE GROUP INC.,sun healthcare group
+KFFG,KAISER FEDERAL FINANCIAL GROUP,kaiser federal financial group
+HBOS,HERITAGE FINANCIAL GROUP INC,heritage financial group
+CTGO,CONTANGO ORE INC,contango ore
+NTSP,NETSPEND HOLDINGS INC.,netspend holdings
+MMI,MOTOROLA MOBILITY HOLDINGS INC.,motorola mobility holdings
+BOX,SEACUBE CONTAINER LEASING LTD.,seacube container leasing
+STU,STUDENT LOAN ESCROW,student loan escrow
+COV,COVIDIEN,covidien
+JCG,J CREW GROUP INC (ESCROW),crew group escrow
+ECYT,ENDOCYTE INC,endocyte
+SUNS,SLR SENIOR INVESTMENT CORP,slr senior investment
+MCC,MEDLEY CAPITAL CORP,medley capital
+EPOC,EPOCRATES INC.,epocrates
+GNOM,COMPLETE GENOMICS INC.,complete genomics
+FRF,FORTEGRA FINANCIAL CORP.,fortegra financial
+SWFT,SWIFT TRANSPORTATION  CLASS A,swift transportation
+FSL,FREESCALE SEMICONDUCTOR LTD,freescale semiconductor
+GORO,GOLD RESOURCE CORP,gold resource
+HDY,HYPERDYNAMICS CORP,hyperdynamics
+OCZTQ,OCZ TECHNOLOGY GROUP CORP,ocz technology group
+MEDH,MEDQUIST HOLDINGS INC,medquist holdings
+ARR,ARMOUR RESIDENTIAL REIT INC,armour residential reit
+ARX,AEROFLEX HOLDING CORP,aeroflex holding
+TPLMQ,TRIANGLE PETE CORP,triangle pete
+TVIA,TERRAVIA INC,terravia
+AUMN,GOLDEN MINERALS,golden minerals
+ACTV,ACTIVE NETWORK INC.,active network
+RPTP,RAPTOR PHARMACEUTICAL CORP.,raptor pharmaceutical
+VGZ,VISTA GOLD CORP,vista gold
+FRP,FAIRPOINT COMMUNICATIONS INC,fairpoint communications
+LCRY,LECROY CORP.,lecroy
+TMS,TMS INTERNATIONAL CORP. CL A,tms international cl
+FRNK,FRANKLIN FINANCIAL CORP,franklin financial
+MKTG,RESPONSYS INC,responsys
+URG,UR ENERGY INC,ur energy
+ICLK,INTERCLICK,interclick
+HILL,DOT HILL SYSTEMS CORP.,dot hill systems
+MDWCQ,MIDWAY GOLD CORP,midway gold
+UPI,UROPLASTY INC.,uroplasty
+AMPE,AMPIO PHARMACEUTICALS INC,ampio pharmaceuticals
+DUSA,DUSA PHARMACEUTICALS INC.,dusa pharmaceuticals
+VOG,VOYAGER OIL & GAS INC,voyager oil gas
+SGA,SAGA COMMUNICATIONS INC CLASS A,saga communications
+MTOX,MEDTOX SCIENTIFIC INC.,medtox scientific
+SURG,SYNERGETICS USA INC.,synergetics usa
+RVM,REVETT MINING INC,revett mining
+ESSX,ESSEX RENT CORP,essex rent
+ATX,COSTA CO CLASS A,costa
+BBNK,BRIDGE CAPITAL HOLDINGS,bridge capital holdings
+WCAA,WCA WASTE CORP,wca waste
+NMFC,NEW MOUNTAIN FINANCE CORP,new mountain finance
+UNTKQ,UNITEK GLOBAL SERVICES INC,unitek global services
+CXPO,CRIMSON EXPLORATION INC.,crimson exploration
+TSRX,TRIUS THERAPEUTICS INC.,trius therapeutics
+CBKN,CAPITAL BANK CORP.,capital bank
+FFNTQ,FRIENDFINDER NETWORKS INC,friendfinder networks
+ININ,INTERACTIVE INTELLIGENCE GROUP INC,interactive intelligence group
+DLLR,DFC GLOBAL CORP,dfc global
+GRB,GERBER SCIENTIFIC ESCROW,gerber scientific escrow
+LMCA,LIBERTY MEDIA CORP CLASS A,liberty media
+LSTZA,LIBERTY INTERACTIVE CORP LIBERTY S,liberty interactive liberty
+CYS,CYS INVESTMENTS REIT INC,cys investments reit
+ASTX,ASTEX PHARMACEUTICALS INC,astex pharmaceuticals
+BEAM,BEAM INC,beam
+FIO,FUSION-IO INC,fusion io
+VHS,VANGUARD HEALTH SYSTEMS INC.,vanguard health systems
+AWAY,HOMEAWAY INC,homeaway
+WAIR,WESCO AIRCRAFT HOLDINGS INC,wesco aircraft holdings
+CJES,C&J ENERGY SERVICES INC.,energy services
+AMTG,APOLLO RESIDENTIAL MORTGAGE INC.,apollo residential mortgage
+KIORQ,KIOR INC CLASS A,kior
+TEA,TEAVANA HOLDINGS INC.,teavana holdings
+MTGE,AMERICAN CAPITAL MORTGAGE INVESTME,american capital mortgage investme
+TNGO,TANGOE INC,tangoe
+PWAVQ,POWERWAVE TECHNOLOGIES INC,powerwave technologies
+MITT,AG MORTGAGE INVESTMENT TRUST REIT,mortgage investment reit
+FDUS,FIDUS INVESTMENT CORP,fidus investment
+MHRWW,MAGNUM HUNTER RESOURCES EQUITY WAR,magnum hunter resources equity war
+XLS,EXELIS INC.,exelis
+DGIT,DIGITAL GENERATION INC,digital generation
+N3RN,NTELOS HOLDINGS,ntelos holdings
+MOVE,MOVE INC,move
+LMOS,LUMOS NETWORKS CORP,lumos networks
+BNHN,BENIHANA INC.,benihana
+6COP,COVIDIEN,covidien
+DDMGQ,DIGITAL DOMAIN MEDIA GROUP INC,digital domain media group
+DIAL,WESTWOOD ONE INC CLASS A,westwood one
+OSHWQ,ORCHARD SUPPLY HARDWARE STORES COR,orchard supply hardware stores cor
+OSHSQ,ORCHARD SUPPLY HARDWARE STORES PRE,orchard supply hardware stores pre
+MODL,MMODAL INC.,mmodal
+RSE,ROUSE PROPERTIES INC.,rouse properties
+RSE,ROUSE PROPERTIES INC RTS,rouse properties rts
+HTSI,HARRIS TEETER SUPERMARKETS INC,harris teeter supermarkets
+SNECQ,SANCHEZ ENERGY INC,sanchez energy
+RNDY,ROUNDYS INC,roundys
+BCEI,BONANZA CREEK ENERGY INC,bonanza creek energy
+HLSSF,HOME LOAN SERVICING SOLUTIONS LTD,home loan servicing solutions
+GWAY,GREENWAY MEDICAL TECHNOLOGIES INC.,greenway medical technologies
+FXAI,FX ALLIANCE INC,fx alliance
+GSEHQ,GSE HOLDING INC,gse holding
+CEMP,MELINTA THERAPEUTICS INC,melinta therapeutics
+UNS,UNS ENERGY CORP,uns energy
+HSH,HILLSHIRE BRANDS,hillshire brands
+ARCT,AMERICAN REALTY CAPITAL TRUST INC,american realty capital
+CRBC,CITIZENS REPUBLIC BANCORP INC,citizens republic bancorp
+TUMI,TUMI HOLDINGS INC,tumi holdings
+GEVA,SYNAGEVA BIOPHARMA CORP.,synageva biopharma
+EVER,EVERBANK FINANCIAL CORP,everbank financial
+ESIC,EASYLINK SERVICES INTERNATIONAL CO,easylink services international
+SIR,SELECT INCOME REIT,select income reit
+UAMY,UNITED STATES ANTIMONY CORP,united states antimony
+ET,EXACTTARGET INC.,exacttarget
+BNNY,ANNIES INC,annies
+ARSD,ARABIAN AMERICAN DEVELOPMENT CO.,arabian american development
+GDRZF,GOLD RESERVE INC CLASS A,gold reserve
+GSVC,GSV CAPITAL CORP,gsv capital
+BLOX,INFOBLOX INC,infoblox
+WMC,WESTERN ASSET MORTGAGE CAPITAL REI,western asset mortgage capital rei
+DWRE,DEMANDWARE INC,demandware
+WRLS,TELULAR CORP.,telular
+SVVC,FIRSTHAND TECHNOLOGY VALUE CF,firsthand technology value cf
+MM,MILLENNIAL MEDIA INC,millennial media
+RLOGQ,RAND LOGISTICS INC,rand logistics
+IMUC,IMMUNOCELLULAR THERAPEUTICS LTD,immunocellular therapeutics
+DGAS,DELTA NATURAL GAS INC,delta natural gas
+GYRO,GYRODYNE CO. OF AMERICA INC.,gyrodyne america
+SIFI,SI FINANCIAL GROUP INC,si financial group
+INMD,INTEGRAMED AMERICA INC.,integramed america
+SYRG,SRC ENERGY CORP,src energy
+FMNB,FARMERS NATIONAL BANC CORP,farmers national banc
+ADNC,AUDIENCE INC,audience
+EDG,EDGEN GROUP INC CL A,edgen group cl
+ZAZA,ZAZA ENERGY CORPORATION,zaza energy
+SARA,SARATOGA RESOURCES INC,saratoga resources
+BLMT,BSB BANCORP INC,bsb bancorp
+HRZN,HORIZON TECHNOLOGY FINANCE CORP,horizon technology finance
+PEOP,PEOPLES FEDERAL BANCSHARES INC,peoples federal bancshares
+DSCI,DERMA SCIENCES INC,derma sciences
+AE,ADAMS RESOURCES AND ENERGY INC,adams resources and energy
+LION,FIDELITY SOUTHERN CORP,fidelity southern
+HIFS,HINGHAM INSTITUTION FOR SAVINGS,hingham institution for savings
+WWAY,WESTWAY GROUP INC.,westway group
+FESLQ,FORBES ENERGY SERVICES LTD,forbes energy services
+MFI,MICROFINANCIAL INC,microfinancial
+CNDO,CORONADO BIOSCIENCES INC,coronado biosciences
+ASMB,ASSEMBLY BIOSCIENCES INC,assembly biosciences
+MEDW,MEDIWARE INFORMATION SYSTEMS INC.,mediware information systems
+ENVI,ENVIVIO INC,envivio
+PERFQ,PERFUMANIA HOLDINGS INC,perfumania holdings
+AMBTQ,AMBIENT CORP,ambient
+VSB,VANTAGESOUTH BANCSHARES INC,vantagesouth bancshares
+EPL,EPL OIL & GAS INC,epl oil gas
+CBF,CAPITAL BANK FINANCIAL CORP CLASS,capital bank financial
+EOX,EMERALD OIL INC.,emerald oil
+-,ALLOS THERAPEUTICS INC- SPIN OFF,allos therapeutics spin off
+KTF,MONDELEZ INTERNATIONAL INC CLASS A,mondelez international
+ADT,ADT CORPORATION,adt
+SHFL,SHFL ENTERTAINMENT INC,shfl entertainment
+ELOQ,ELOQUA INC,eloqua
+0557910D,HYSTER-YALE MATERIALS HANDLING INC,hyster yale materials handling
+SRSCQ,SEARS CDA INC,sears cda
+KYAK,KAYAK SOFTWARE CORP. CL A,kayak software cl
+DRTX,DURATA THERAPEUTICS INC,durata therapeutics
+AMRE,AMREIT INC.,amreit
+HPTX,HYPERION THERAPEUTICS INC,hyperion therapeutics
+EOX,EMERALD OIL INC,emerald oil
+CNSI,COMVERSE INC,comverse
+SMPL,SIMPLICITY BANCORP INC,simplicity bancorp
+RKUS,RUCKUS WIRELESS INC,ruckus wireless
+KYTH,KYTHERA BIOPHARMACEUTICALS INC,kythera biopharmaceuticals
+LOCK,LIFELOCK INC.,lifelock
+SCM,STELLUS CAPITAL INVESTMENT CORP,stellus capital investment
+JMI,JAVELIN MORTGAGE INVESTMENT CORP.,javelin mortgage investment
+TRLA,TRULIA INC,trulia
+AXLL,AXIALL CORP,axiall
+STRZA,STARZ,starz
+CWGL,CRIMSON WINE GROUP LTD,crimson wine group
+TWGP,TOWER GROUP INTERNATIONAL LTD,tower group international
+ARRS,ARRIS INTERNATIONAL INC,arris international
+OFG,OFG BANCORP,ofg bancorp
+SCTY,SOLARCITY CORP,solarcity
+GPT,GRAMERCY PROPERTY TRUST  INC,gramercy property
+XOOM,XOOM CORPORATION,xoom
+WHF,WHITEHORSE FINANCE INC,whitehorse finance
+OFS,OFS CAPITAL CORP,ofs capital
+CHFN,CHARTER FINANCIAL CORP,charter financial
+LPDX,LIPOSCIENCE INC,liposcience
+CNOB,CONNECTONE BANCORP INC,connectone bancorp
+CST,CST BRANDS INC,cst brands
+FOXA,TWENTY FIRST CENTURY FOX INC CLASS,twenty first century fox
+NWSA,NEWS CORP CLASS A,news
+DYN,DYNEGY INC,dynegy
+GPT,GRAMERCY PROPERTY REIT TRUST,gramercy property reit
+BKW,BURGER KING WORLDWIDE INC,burger king worldwide
+SSB,SOUTH STATE CORP,south state
+KCG,KCG HOLDINGS INC CLASS A,kcg holdings
+RESI,FRONT YARD RESIDENTIAL CORP,front yard residential
+TAM,TAMINCO CORP,taminco
+REMY,REMY INTERNATIONAL INC,remy international
+AVIV,AVIV REIT INC.,aviv reit
+STML,STEMLINE THERAPEUTICS INC,stemline therapeutics
+VRNG,VRINGO INC,vringo
+RALY,RALLY SOFTWARE DEVELOPMENT CORP,rally software development
+AFOP,ALLIANCE FIBER OPTIC PRODUCTS INC,alliance fiber optic products
+CUNB,CU BANCORP,cu bancorp
+SSNI,SILVER SPRING NETWORKS INC,silver spring networks
+EQU,EQUAL ENERGY LTD,equal energy
+FSGI,FIRST SECURITY GROUP INC.,first security group
+FMFC,FIRST M & F CORP.,first
+PFLT,PENNANTPARK FLOATING RATE CAPITAL,pennantpark floating rate capital
+DRLCQ,DORAL FINANCIAL CORP,doral financial
+UNXLQ,UNI-PIXEL INC,uni pixel
+EVRYQ,EVERYWARE GLOBAL INC,everyware global
+RCPT,RECEPTOS INC,receptos
+NTSC,NATIONAL TECHNICAL SYSTEMS INC.,national technical systems
+FNBCQ,FIRST NBC BANK HOLDING,first nbc bank holding
+EARN,ELLINGTON RESIDENTIAL MORTGAGE REI,ellington residential mortgage rei
+PCYO,PURE CYCLE CORP,pure cycle
+GARS,GARRISON CAPITAL INC,garrison capital
+TSC,TRISTATE CAPITAL HOLDINGS INC,tristate capital holdings
+PSIX,POWER SOLUTIONS INTERNATIONAL INC,power solutions international
+FCSC,FIBROCELL SCIENCE INC,fibrocell science
+CYNI,CYAN INC,cyan
+TGTX,TG THERAPEUTICS INC,tg therapeutics
+MEIP,MEI PHARMA INC,mei pharma
+EACIQ,ERICKSON INC,erickson
+ENTA,ENANTA PHARMACEUTICALS INC,enanta pharmaceuticals
+PLMT,PALMETTO BANCSHARES INC.,palmetto bancshares
+STRP,STRAIGHT PATH COMMUNICATIONS INC C,straight path communications
+ATX,COSTA INC CLASS A,costa
+A60,ACTAVIS INC,actavis
+EVHC,ENVISION HEALTHCARE HOLDINGS INC,envision healthcare holdings
+CWENA,NRG YIELD INC CLASS A,nrg yield
+ATHL,ATHLON ENERGY INC,athlon energy
+TPRE,SIRIUSPOINT LTD,siriuspoint
+STCK,BMC STOCK HOLDINGS INC,bmc stock holdings
+PETX,ARATANA THERAPEUTICS INC,aratana therapeutics
+ONTX,ONCONOVA THERAPEUTICS INC,onconova therapeutics
+CBSTZ,CUBIST PHARMACEUTICALS RIGHTS EXP,cubist pharmaceuticals rights exp
+MHR,MAGNUM HUNTER RESOURCES - WTS,magnum hunter resources wts
+FTDCQ,GUE LIQ COS INC,gue liq cos
+AHP,ASHFORD HOSPITALITY PRIME REIT INC,ashford hospitality prime reit
+UNTD,UNITED ONLINE INC,united online
+HART,BIOSTAGE INC,biostage
+CACQ,CAESARS ACQUISITION CLASS A,caesars acquisition
+MHR,MAGNUM HUNTER RESOURCES CORP,magnum hunter resources
+ZU,ZULILY INC CLASS A,zulily
+SFXEQ,SFX ENTERTAINMENT INC,sfx entertainment
+XCO RT,EXCO RESOURCES RIGHTS EXPIRING JAN,exco resources rights expiring jan
+TETAA,TETON ADVISORS INC CLASS A,teton advisors
+PLKI,POPEYES LOUISIANA KITCHEN INC,popeyes louisiana kitchen
+ELNK,EARTHLINK HOLDINGS CORP,earthlink holdings
+CNVR,CONVERSANT INC,conversant
+GSTCQ,GASTAR EXPLORATION INC,gastar exploration
+GMCR,KEURIG GREEN MOUNTAIN INC,keurig green mountain
+TW,TOWERS WATSON,towers watson
+SPNV,SUPERIOR ENERGY SVCS INC,superior energy svcs
+OASPQ,OASIS PETROLEUM INC,oasis petroleum
+UNTCQ,UNIT CORP,unit
+QLGC,QLOGIC CORP.,qlogic
+FREDQ,FREDS INC CLASS A,freds
+CTRL,CONTROL4 CORP,control4
+LDRH,LDR HOLDING CORP,ldr holding
+NTLS,NTELOS HOLDINGS CORP,ntelos holdings
+MVNR,MAVENIR SYSTEMS INC,mavenir systems
+GGQ7,GOOGLE INC CLASS C,google
+X*,US STEEL CORP,us steel
+SALT,SCORPIO BULKERS INC,scorpio bulkers
+AUB,ATLANTIC UNION BANKSHARES CORP,atlantic union bankshares
+2NAB,NORTH ATLANTIC DRILLING LTD,north atlantic drilling
+TLMR,TALMER BANCORP INC CLASS A,talmer bancorp
+LEAP,LEAP WIRELESS INTERNATIONAL CVR,leap wireless international cvr
+CSBK,CLIFTON BANCORP INC,clifton bancorp
+NAVI,NAVIENT CORP,navient
+NADL,NORTH ATLANTIC DRILLING LTD,north atlantic drilling
+ENVE,ENVENTIS CORP,enventis
+FWLT,FOSTER WHEELER AG,foster wheeler
+TIME,TIME INC,time
+NYRT,NEW YORK REIT INC,new york reit
+IMS,IMS HEALTH HOLDINGS INC,ims health holdings
+HCT,AMERICAN REALTY CAPITAL HEALTHCARE,american realty capital healthcare
+AAMC,ALTISOURCE ASSET MANAGEMENT CORP,altisource asset management
+NM,NAVIOS MARITIME INC,navios maritime
+1KX,KOFAX LTD,kofax
+DHT,DHT HOLDINGS INC,dht holdings
+SB,SAFE BULKERS INC,safe bulkers
+CTRE,CARETRUST REIT INC,caretrust reit
+REI,RING ENERGY INC,ring energy
+NNA,NAVIOS MARITIME ACQUISITION CORP,navios maritime acquisition
+E1OA,EROS STX GLOBAL CORP CLASS A,eros stx global
+SGBK,STONEGATE BANK,stonegate bank
+ASC,ARDMORE SHIPPING CORP,ardmore shipping
+GALT,GALECTIN THERAPEUTICS INC,galectin therapeutics
+NWBO,NORTHWEST BIOTHERAPEUTICS INC,northwest biotherapeutics
+TREC,TRECORA RESOURCES,trecora resources
+CORR,CORENERGY INFRASTRUCTURE TRUST REI,corenergy infrastructure rei
+CYTR,CYTRX CORP,cytrx
+BPTH,BIO PATH HOLDINGS INC,bio path holdings
+ORM,OWENS REALTY MORTGAGE REIT INC,owens realty mortgage reit
+SGM,STONEGATE MORTGAGE CORP,stonegate mortgage
+AMZGQ,AMERICAN EAGLE ENERGY CORP,american eagle energy
+ASPX,AUSPEX PHARMACEUTICALS INC,auspex pharmaceuticals
+CSCD,CASCADE MICROTECH INC,cascade microtech
+XNCR,XENCOR INC,xencor
+NNVC,NANOVIRICIDES INC,nanoviricides
+0DA,DORIAN LPG LTD,dorian lpg
+VTSS,VITESSE SEMICONDUCTOR INC,vitesse semiconductor
+CTT,CATCHMARK TIMBER TRUST INC CLASS A,catchmark timber
+CLBS,CALADRIUS BIOSCIENCES INC,caladrius biosciences
+SNOW,INTRAWEST RESORTS HOLDINGS INC,intrawest resorts holdings
+OPB,OPUS BANK,opus bank
+OPWR,OPOWER INC,opower
+ATNM,ACTINIUM PHARMACEUTICALS INC,actinium pharmaceuticals
+ICEL,CELLULAR DYNAMICS INTERNATIONAL IN,cellular dynamics international in
+TSRE,TRADE STREET RESIDENTIAL REIT INC,trade street residential reit
+GLRI,GLORI ENERGY INC,glori energy
+XXII,CENTURY GROUP  INC,century group
+LBMH,LIBERATOR MEDICAL HOLDINGS INC,liberator medical holdings
+TRIV,TRIVASCULAR TECHNOLOGIES INC,trivascular technologies
+JS1,SQUARE  FINANCIAL INC CLASS A,square financial
+NYNY,EMPIRE RESORTS INC,empire resorts
+NCFT,NORCRAFT COMPANIES INC,norcraft companies
+RGDO,REGADO BIOSCIENCES INC,regado biosciences
+BRDR,BORDERFREE INC,borderfree
+CARA,CARA THERAPEUTICS INC,cara therapeutics
+RCAPQ,RCS CAPITAL CORP,rcs capital
+TIPT,TIPTREE INC,tiptree
+QRHC,QUEST RESOURCE HOLDING CORP,quest resource holding
+ARCW,ARC GROUP WORLDWIDE INC,arc group worldwide
+COVS,COVISINT CORP,covisint
+NRF,NORTHSTAR REALTY FINANCE REIT CORP,northstar realty finance reit
+FNFV,FIDELITY NATIONAL FINANCIAL INC,fidelity national financial
+SSEIQ,SEVENTY SEVEN ENERGY INC,seventy seven energy
+TAXA,LIBERTY TAX INC CLASS A,liberty tax
+-,CONTRA FURIEX PHARMACEUTICALS,contra furiex pharmaceuticals
+AST,ASTERIAS BIOTHERAPEUTICS INC SERIE,asterias biotherapeutics serie
+LTRPA,LIBERTY TRIPADVISOR HOLDINGS INC S,liberty tripadvisor holdings
+ETP,ENERGY TRANSFER PARTNERS UNITS,energy transfer partners units
+BH/WS,BIGLARI HOLDINGS INC-RTS,biglari holdings rts
+AY,ATLANTICA SUSTAINABLE INFRASTRUCTU,atlantica sustainable infrastructu
+2T4,TERRAFORM POWER INC CLASS A,terraform power
+NAO,NORDIC AMERICAN OFFSHORE LTD,nordic american offshore
+ZSPH,ZS PHARMA INC,zs pharma
+FCB,FCB FINANCIAL HOLDINGS INC CLASS A,fcb financial holdings
+TSE,TRINSEO,trinseo
+ZFGN,LARIMAR THERAPEUTICS INC,larimar therapeutics
+OCUL,OCULAR THERAPEUTIX INC,ocular therapeutix
+CCS,CENTURY COMMUNITIES INC,century communities
+1R3,ROKA BIOSCIENCE INC,roka bioscience
+LOXO,LOXO ONCOLOGY INC,loxo oncology
+LBRDK,LIBERTY BROADBAND CORP SERIES C,liberty broadband
+AINC,ASHFORD INC,ashford
+LPG,DORIAN LPG LTD,dorian lpg
+YHOO,YAHOO! INC,yahoo
+COV,COVIDIEN ORD,covidien ord
+STJ,ST JUDE MEDICAL INC,st jude medical
+GGP,GENERAL GROWTH PROPERTIES REIT INC,general growth properties reit
+BF/B,BROWN FORMAN CORP CLASS B,brown forman
+UA,UNDER ARMOUR A INC,under armour
+VAL,VALSPAR CORP.,valspar
+HUB.B,HUBBELL INC. CL B,hubbell cl
+GXP,GREAT PLAINS ENERGY INC.,great plains energy
+ULTI,ULTIMATE SOFTWARE GROUP INC.,ultimate software group
+RGLD,ROYAL GOLD INC.,royal gold
+DYN,DYNEGY INC.,dynegy
+BEE,STRATEGIC HOTELS & RESORTS INC.,strategic hotels resorts
+CST,CST BRANDS INC.,cst brands
+FNFG,FIRST NIAGARA FINANCIAL GROUP INC.,first niagara financial group
+ENS,ENERSYS INC.,enersys
+AHL,ASPEN INSURANCE HOLDINGS LTD.,aspen insurance holdings
+MFA,MFA FINANCIAL INC.,mfa financial
+AWAY,HOMEAWAY INC.,homeaway
+SWFT,SWIFT TRANSPORTATION CO.,swift transportation
+CEB,CORPORATE EXECUTIVE BOARD CO.,corporate executive board
+KS,KAPSTONE PAPER & PACKAGING CORP.,kapstone paper packaging
+DGI,DIGITALGLOBE INC.,digitalglobe
+DBD,DIEBOLD INC.,diebold
+KLXI,KLX INC,klx
+CSG,CHAMBERS STREET PROPERTIES,chambers street properties
+HPY,HEARTLAND PAYMENT SYSTEMS INC.,heartland payment systems
+IVR,INVESCO MORTGAGE CAPITAL INC.,invesco mortgage capital
+SBRA,SABRA HEALTHCARE REIT INC.,sabra healthcare reit
+RGC,REGAL ENTERTAINMENT GROUP,regal entertainment group
+AFSI,AMTRUST FINANCIAL SERVICES INC.,amtrust financial services
+CYS,CYS INVESTMENTS INC,cys investments
+WBMD,WEBMD HEALTH CORP.,webmd health
+LTC,LTC PROPERTIES INC.,ltc properties
+HLSS,HOME LOAN SERVICING SOLUTIONS LTD,home loan servicing solutions
+TAL,TAL INTERNATIONAL GROUP INC.,tal international group
+FNFV,FNFV GROUP INC,fnfv group
+ARR,ARMOUR RESIDENTIAL REIT INC.,armour residential reit
+EDR,EDUCATION REALTY TRUST REIT INC,education realty reit
+BOBE,BOB EVANS FARMS INC.,bob evans farms
+ABAX,ABAXIS INC.,abaxis
+NWBI,NORTHWEST BANCSHARES INC.,northwest bancshares
+PNK,PINNACLE ENTERTAINMENT INC.,pinnacle entertainment
+STAR,ISTAR FINANCIAL REIT INC,istar financial reit
+CMO,CAPSTEAD MORTGAGE CORP.,capstead mortgage
+BOFI,BOFI HOLDING INC.,bofi holding
+RESI,ALTISOURCE RESIDENTIAL REIT CORP,altisource residential reit
+UTIW,UTI WORLDWIDE INC.,uti worldwide
+VOLC,VOLCANO CORP.,volcano
+SFL,SHIP FINANCE INTERNATIONAL LTD.,ship finance international
+ZINC,HORSEHEAD HOLDING CORP.,horsehead holding
+CALD,CALLIDUS SOFTWARE INC.,callidus software
+NAT,NORDIC AMERICAN TANKERS LTD.,nordic american tankers
+ACTG,ACACIA RESEARCH CORP.-ACACIA TECHN,acacia research acacia techn
+SYRG,SYNERGY RESOURCES CORP,synergy resources
+TPRE,THIRD POINT REINSURANCE LTD,third point reinsurance
+BCEI,BONANZA CREEK ENERGY INC.,bonanza creek energy
+NCI,NAVIGANT CONSULTING INC.,navigant consulting
+ABY,ABENGOA YIELD PLC,abengoa yield
+LABL,MULTI-COLOR CORP.,multi color
+RTI,RTI INTERNATIONAL METALS INC.,rti international metals
+OFG,OFG BANCORP.,ofg bancorp
+VWR,VWR CORP CORP,vwr
+DEL,DELTIC TIMBER CORP.,deltic timber
+IPCM,IPC THE HOSPITALIST CO. INC.,ipc the hospitalist
+WAIR,WESCO AIRCRAFT HOLDINGS INC.,wesco aircraft holdings
+RENT,RENTRAK CORP.,rentrak
+TRNO,TERRENO REALTY CORP.,terreno realty
+WMC,WESTERN ASSET MORTGAGE CAPITAL COR,western asset mortgage capital cor
+STOR,STORE CAPITAL CORP,store capital
+MHLD,MAIDEN HOLDINGS LTD.,maiden holdings
+CBF,CAPITAL BANK FINANCIAL CORP.,capital bank financial
+MHR,MAGNUM HUNTER RESOURCES CORP.,magnum hunter resources
+TR,TOOTSIE ROLL INDUSTRIES INC.,tootsie roll industries
+TNGO,TANGOE INC.,tangoe
+CMLS,CUMULUS MEDIA INC.,cumulus media
+NTRI,NUTRISYSTEM INC.,nutrisystem
+CKP,CHECKPOINT SYSTEMS INC.,checkpoint systems
+KFX,KOFAX LTD,kofax
+NBCB,FIRST NBC BANK HOLDING ORD,first nbc bank holding ord
+PHIIK,PETROLEUM HELICOPTERS NON VOTING I,petroleum helicopters
+MITT,AG MORTGAGE INVESTMENT TRUST INC.,mortgage investment
+SN,SANCHEZ ENERGY CORP.,sanchez energy
+XOXO,XO GROUP INC.,xo group
+CEMP,CEMPRA INC,cempra
+DX,DYNEX CAPITAL INC.,dynex capital
+RT,RUBY TUESDAY INC.,ruby tuesday
+ASEI,AMERICAN SCIENCE & ENGINEERING INC,american science engineering
+HVB,HUDSON VALLEY HOLDING CORP.,hudson valley holding
+REX,REX AMERICAN RESOURCES CORP.,rex american resources
+ENOC,ENERNOC INC.,enernoc
+ADC,AGREE REALTY CORP.,agree realty
+HHS,HARTE-HANKS INC.,harte hanks
+NEWS,NEWSTAR FINANCIAL INC.,newstar financial
+NNBR,NN INC.,nn
+LDR,LANDAUER INC.,landauer
+PHX,PANHANDLE OIL & GAS INC.,panhandle oil gas
+TPLM,TRIANGLE PETROLEUM CORP,triangle petroleum
+YORW,YORK WATER CO.,york water
+BKMU,BANK MUTUAL CORP.,bank mutual
+EXXI,ENERGY XXI (BERMUDA) LTD.,energy xxi bermuda
+FRNK,FRANKLIN FINANCIAL CORP. VIRGINIA,franklin financial virginia
+FRP,FAIRPOINT COMMUNICATIONS INC.,fairpoint communications
+BELFB,BEL FUSE INC. CL B,bel fuse cl
+SGBK,STONEGATE BANK ORD,stonegate bank ord
+OLP,ONE LIBERTY PROPERTIES INC.,one liberty properties
+PSIX,POWER SOLUTIONS INTERNATIONAL INC.,power solutions international
+CRD.B,CRAWFORD & CO. CL B,crawford cl
+WTBA,WEST BANCORP,west bancorp
+STCK,STOCK BUILDING SUPPLY HOLDINGS INC,stock building supply holdings
+AXAS,ABRAXAS PETROLEUM CORP.,abraxas petroleum
+ABCW,ANCHOR BANCORP WISCONSIN INC,anchor bancorp wisconsin
+ENTR,ENTROPIC COMMUNICATIONS INC.,entropic communications
+SUBK,SUFFOLK BANCORP,suffolk bancorp
+SFXE,SFX ENTERTAINMENT INC,sfx entertainment
+ZFGN,ZAFGEN INCINARY,zafgen incinary
+NKSH,NATIONAL BANKSHARES INC.,national bankshares
+SSE,SEVENTY SEVEN ENERGY INC,seventy seven energy
+RPRX,REPROS THERAPEUTICS INC.,repros therapeutics
+LMNR,LIMONEIRA CO.,limoneira
+NWBO,NORTHWEST BIOTHERAPEUTICS INC.,northwest biotherapeutics
+CSCD,CASCADE MICROTECH INC.,cascade microtech
+ISLE,ISLE OF CAPRI CASINOS INC.,isle capri casinos
+VTSS,VITESSE SEMICONDUCTOR CORP.,vitesse semiconductor
+AAC,AAC HLDG INC,aac hldg
+LION,FIDELITY SOUTHERN CORP.,fidelity southern
+HERO,HERCULES OFFSHORE INC.,hercules offshore
+SQBK,SQUARE  FINANCIAL INC CLASS A,square financial
+BSTC,BIOSPECIFICS TECHNOLOGIES CORP.,biospecifics technologies
+OCUL,OCULAR THERAPEUTIX INC (PROPOSED),ocular therapeutix proposed
+CTT,CATCHMARK TIMBER TRUST INC TRUST C,catchmark timber
+DSCI,DERMA SCIENCES INC.,derma sciences
+LBKRV,LIBERTY BROADBAND SUBSCRIPTION RIG,liberty broadband subscription rig
+CAS,A.M. CASTLE & CO.,castle
+ISRL,ISRAMCO INC.,isramco
+NYNY,EMPIRE RESORTS INC.,empire resorts
+SYUT,SYNUTRA INTERNATIONAL INC.,synutra international
+TBK,TRIUMPH BANCORP INC,triumph bancorp
+VTG,VANTAGE DRILLING,vantage drilling
+ANV,ALLIED NEVADA GOLD CORP,allied nevada gold
+TKAI,TOKAI PHARMACEUTICALS INC,tokai pharmaceuticals
+YDLE,YODLEE INC,yodlee
+FSAM,FIFTH STREET ASSET MANAGEMENT INC,fifth street asset management
+LWAY,LIFEWAY FOODS INC.,lifeway foods
+FXEN,FX ENERGY INC.,fx energy
+RSTRF,RESTAURANT BRANDS INT EXCH UNITS,restaurant brands int exch units
+PTIE,PAIN THERAPEUTICS INC.,pain therapeutics
+HNR,HARVEST NATURAL RESOURCES INC.,harvest natural resources
+MIND,MITCHAM INDUSTRIES INC.,mitcham industries
+SSRG,SYMMETRY SURGICAL INC,symmetry surgical
+-,FURIEX PHARMACEUTICALS INC CVR,furiex pharmaceuticals cvr
+TIPT,TIPTREE FINANCIAL INC CLASS A,tiptree financial
+GALT,GALECTIN THERAPEUTICS INC.,galectin therapeutics
+RCAP,RCS CAPITAL CORP CLASS A,rcs capital
+NL,NL INDUSTRIES INC.,nl industries
+MILL,MILLER ENERGY RESOURCES INC.,miller energy resources
+ULTR,ULTRAPETROL (BAHAMAS) LTD.,ultrapetrol bahamas
+ARCW,ARC GROUP WORLDWIDE INC.,arc group worldwide
+EAC,ERICKSON INC,erickson
+BPZ,BPZ RESOURCES INC.,bpz resources
+KWK,QUICKSILVER RESOURCES INC.,quicksilver resources
+AMZG,AMERICAN EAGLE ENERGY CORP,american eagle energy
+LTXB,LEGACYTEXAS FINANCIAL GROUP INC,legacytexas financial group
+FNBC,FIRST NBC BANK HOLDING,first nbc bank holding
+-,PROVIDENCE SERVICE CORP,providence service
+CACQ,CAESARS ACQUISITION ORD CLASS A,caesars acquisition ord
+PATI,PATRIOT TRANSPORTATION HOLDING INC,patriot transportation holding
+GPT,GRAMERCY PROPERTY TRUST REIT INC,gramercy property reit
+INOV,INOVALON HOLDINGS INC CLASS A,inovalon holdings
+HIFR,INFRAREIT INC,infrareit
+ONCE,SPARK THERAPEUTICS INC,spark therapeutics
+CJES,C&J ENERGY SERVICES INC,energy services
+DEA,EASTERLY GOVERNMENT PROPERTIES INC,easterly government properties
+HDP,HORTONWORKS INC,hortonworks
+ENTL,ENTELLUS MEDICAL INC,entellus medical
+FLKS,FLEX PHARMA INC,flex pharma
+CNXR,CONNECTURE INC,connecture
+AJX,GREAT AJAX CORP,great ajax
+CJES,C&J ENERGY SERVICES LTD,energy services
+GOGL,GOLDEN OCEAN GROUP LTD,golden ocean group
+JMG,JOURNAL MEDIA GROUP INC,journal media group
+SWFT,SWIFT TRANSPORTATION ORD CLASS A,swift transportation ord
+NYLDA,NRG YIELD INC CLASS A,nrg yield
+TBRA,TOBIRA THERAPEUTICS INC,tobira therapeutics
+FOX,TWENTY-FIRST CENTURY FOX INC CLASS,twenty first century fox
+MORE,MONOGRAM RESIDENTIAL REIT INC TRUS,monogram residential reit trus
+TLN,TALEN ENERGY CORP,talen energy
+KING,KING DIGITAL ENTERTAINMENT PLC,king digital entertainment
+SNR,NEW SENIOR INVESTMENT GROUP INC,new senior investment group
+SUM,SUMMIT MATERIALS INC CLASS A,summit materials
+PDVW,PACIFIC DATAVISION INC,pacific datavision
+UDF,UNITED DEVELOPMENT IV ORD,united development iv ord
+NVIV,INVIVO THERAPEUTICS HOLDINGS CORP,invivo therapeutics holdings
+CPRX,CATALYST PHARMACEUTICALS INC,catalyst pharmaceuticals
+PARR,PAR PETROLEUM CORP,par petroleum
+AFMD,AFFIMED NV,affimed
+HLTH,NOBILIS HEALTH CORP,nobilis health
+RELY,REAL INDUSTRY INC,real industry
+QCRH,QCR HOLDINGS INC.,qcr holdings
+OCAT,OCATA THERAPEUTICS INC,ocata therapeutics
+CWCO,CONSOLIDATED WATER CO. INC.,consolidated water
+BRG,BLUEROCK RESIDENTIAL GROWTH REIT C,bluerock residential growth reit
+APTS,PREFERRED APARTMENT COMMUNITIES RE,preferred apartment communities re
+RLGT,RADIANT LOGISTIC INC,radiant logistic
+NXRT,NEXPOINT RESIDENTIAL TRUST INC TRU,nexpoint residential tru
+ORC,ORCHID ISLAND CAPITAL INC,orchid island capital
+FOMX,FOAMIX PHARMACEUTICALS LTD,foamix pharmaceuticals
+NCOM,NATIONAL COMMERCE CORP,national commerce
+FENX,FENIX PARTS INC,fenix parts
+PRTO,PROTEON THERAPEUTICS INC,proteon therapeutics
+SIXD,6D GLOBAL TECHNOLOGIES INC,6d global technologies
+FSB,FRANKLIN FINANCIAL NETWORK INC,franklin financial network
+CRMD,CORMEDIX INC,cormedix
+COLL,COLLEGIUM PHARMACEUTICAL INC,collegium pharmaceutical
+MDGN,MEDGENICS INC,medgenics
+ROX,CASTLE BRANDS INC,castle brands
+AGRX,AGILE THERAPEUTICS INC,agile therapeutics
+CBYL,CARBYLAN THERAPEUTICS INC,carbylan therapeutics
+CVRS,CORINDUS VASCULAR ROBOTICS INC,corindus vascular robotics
+CDTX,CIDARA THERAPEUTICS INC,cidara therapeutics
+IRMD,IRADIMED CORP,iradimed
+ABEO,ABEONA THERAPEUTICS INC,abeona therapeutics
+RKDA,ARCADIA BIOSCIENCES INC,arcadia biosciences
+APIC,APIGEE CORP,apigee
+ZAIS,ZAIS GROUP HOLDINGS INC CLASS A,zais group holdings
+CDRB,CODE REBEL CORP,code rebel
+-,BIOSCRIP INC RIGHTS COAC TEMP,bioscrip rights coac temp
+BXLT,BAXALTA INC,baxalta
+CPGX,COLUMBIA PIPELINE GROUP INC,columbia pipeline group
+BW,BABCOCK AND WILCOX ENTERPRISES INC,babcock and wilcox enterprises
+CCP,CARE CAPITAL PROPERTIES INC,care capital properties
+MESG,XURA INC,xura
+GLBL,TERRAFORM GLOBAL INC CLASS A,terraform global
+CFMS,CONFORMIS INC,conformis
+GNRT,GENER8 MARITIME INC,gener8 maritime
+BETR,AMPLIFY SNACK BRANDS INC,amplify snack brands
+LOB,LIVE OAK BANCSHARES INC,live oak bancshares
+MCFT,MCBC HOLDINGS INC,mcbc holdings
+GI,ENDOCHOICE HOLDINGS INC,endochoice holdings
+NVLS,NIVALIS THERAPEUTICS INC,nivalis therapeutics
+ZYNE,ZYNERBA PHARMACEUTICALS INC,zynerba pharmaceuticals
+PUB,PEOPLES UTAH,peoples utah
+VTVT,VTV THERAPEUTICS INC CLASS A,vtv therapeutics
+CATB,CATABASIS PHARMACEUTICALS INC,catabasis pharmaceuticals
+GOOGL,ALPHABET INC CLASS A,alphabet
+PARR,PAR PACIFIC HOLDINGS INC,par pacific holdings
+FCPT,FOUR CORNERS PROPERTY INC TRUST,four corners property
+NRE,NORTHSTAR REALTY EUROPE CORP,northstar realty europe
+PDVW,PDVWIRELESS INC,pdvwireless
+MPSX,MULTI PACKAGING SOLUTIONS INTERNAT,multi packaging solutions internat
+AC,ASSOCIATED CAPITAL GROUP INC CLASS,associated capital group
+EDGE,EDGE THERAPEUTICS INC,edge therapeutics
+DMTX,DIMENSION THERAPEUTICS INC,dimension therapeutics
+ARRS,ARRIS INTERNATIONAL PLC,arris international
+INVA,INNOVIVA INC,innoviva
+-,DYAX CORP CVR,dyax cvr
+OCX,ONCOCYTE CORP,oncocyte
+NYNYR,EMPIRE RESORTS INC- RIGHTS,empire resorts rights
+ULTR,ULTRAPETROL LTD,ultrapetrol
+NVTR,NUVECTRA CORP,nuvectra
+AFI,ARMSTRONG FLOORING INC,armstrong flooring
+UDF,UNITED DEVELOPMENT IV,united development iv
+QHC,QUORUM HEALTH CORP,quorum health
+-,SECOND SIGHT MEDICAL PRD CSH ASSEN,second sight medical prd csh assen
+GNL,GLOBAL NET LEASE INC,global net lease
+SRG,SERITAGE GROWTH PROPERTIES  CLA,seritage growth properties cla
+ABY,ATLANTICA YIELD PLC,atlantica yield
+CPXX,CELATOR PHARMACEUTICALS INC,celator pharmaceuticals
+BMCH,BMC STOCK HOLDINGS INC,bmc stock holdings
+PJT,PJT PARTNERS INC CLASS A,pjt partners
+COTV,COTIVITI HOLDINGS INC,cotiviti holdings
+CHCT,COMMUNITY HEALTHCARE TRUST INC,community healthcare
+CIO,CITY OFFICE REIT INC,city office reit
+CENT,CENTRAL GARDEN & PET CO.,central garden pet
+MNOV,MEDICINOVA INC.,medicinova
+FMNB,FARMERS NATIONAL BANC CORP.,farmers national banc
+CMRE,COSTAMARE INC,costamare
+AVXL,ANAVEX LIFE SCIENCES CORP,anavex life sciences
+CARO,CAROLINA FINANCIAL CORP,carolina financial
+STS,SUPREME INDUSTRIES INC CLASS A,supreme industries
+NIHD,NII HOLDINGS INC,nii holdings
+SILC,SILICOM LTD,silicom
+NERV,MINERVA NEUROSCIENCES INC,minerva neurosciences
+AVNU,AVENUE FINANCIAL HOLDINGS INC,avenue financial holdings
+ACNB,ACNB CORP.,acnb
+TPHS,TRINITY PLACE HOLDINGS INC,trinity place holdings
+SIFI,SI FINANCIAL GROUP INC.,si financial group
+LIND,LINDBLAD EXPEDITIONS HOLDINGS INC,lindblad expeditions holdings
+FNWB,FIRST NORTHWEST BAN,first northwest ban
+SYN,SYNTHETIC BIOLOGICS INC,synthetic biologics
+LSBG,LAKE SUNAPEE BANK GROUP ORD,lake sunapee bank group ord
+FPI,FARMLAND PARTNERS INC,farmland partners
+AVGR,AVINGER INC,avinger
+ITEK,INOTEK PHARMACEUTICALS CORP,inotek pharmaceuticals
+AQMS,AQUA METALS INC,aqua metals
+FCFP,FIRST COMMUNITY FINANCIAL PARTNERS,first community financial partners
+CDXC,CHROMADEX CORP,chromadex
+STRS,STRATUS PROPERTIES INC.,stratus properties
+BCRH,BLUE CAPITAL REINSURANCE HOLDINGS,blue capital reinsurance holdings
+TTNP,TITAN PHARMACEUTICALS INC,titan pharmaceuticals
+ICBK,COUNTY BANCORP INC,county bancorp
+HNNA,HENNESSY ADVISORS INC,hennessy advisors
+ALJJ,ALJ REGIONAL INC,alj regional
+FBIO,FORTRESS BIOTECH INC,fortress biotech
+UFAB,UNIQUE FABRICATING INC,unique fabricating
+AXSM,AXSOME THERAPEUTICS INC,axsome therapeutics
+MSBI,MIDLAND STATES BANCORP INC,midland states bancorp
+GLYC,GLYCOMIMETICS INC,glycomimetics
+EIGR,EIGER BIOPHARMACEUTICALS INC,eiger biopharmaceuticals
+PVBC,PROVIDENT BANCORP ORD,provident bancorp ord
+CRVS,CORVUS PHARMACEUTICALS INC,corvus pharmaceuticals
+SNDX,SYNDAX PHARMACEUTICALS INC,syndax pharmaceuticals
+WINS,WINS FINANCE HOLDINGS INC,wins finance holdings
+GRIF,GRIFFIN INDUSTRIAL REALTY INC,griffin industrial realty
+AMIC,AMERICAN INDEPENDENCE CORP,american independence
+XL,XL GROUP LTD,xl group
+TRTN,TRITON INTERNATIONAL LTD,triton international
+CHUBK,COMMERCEHUB SERIES C INC,commercehub
+CHUBA,COMMERCEHUB SERIES A INC,commercehub
+LSBG,LAKE SUNAPEE BANK GROUP,lake sunapee bank group
+PVBC,PROVIDENT BANCORP,provident bancorp
+CHCT,COMMUNITY HEALTHCARE TRUST INC TRU,community healthcare tru
+PARR RT,PAR PACIFIC RIGHTS EXP  SEPT INC,par pacific rights exp sept
+PTHN,PATHEON NV,patheon
+FNFV,FNFV GROUP,fnfv group
+APFH,ADVANCEPIERRE FOODS HOLDINGS INC,advancepierre foods holdings
+HONE,HARBORONE BANCORP INC,harborone bancorp
+PTGX,PROTAGONIST THERAPEUTICS INC,protagonist therapeutics
+GMRE,GLOBAL MEDICAL REIT INC,global medical reit
+CLSD,CLEARSIDE BIOMEDICAL INC,clearside biomedical
+NH,NANTHEALTH INC,nanthealth
+KDMN,KADMON,kadmon
+PBNC,PARAGON COMMERCIAL CORP,paragon commercial
+VSM,VERSUM MATERIALS INC,versum materials
+MTGE,MORTGAGE INVESTMENT CORP,mortgage investment
+ASIX,ADVANSIX INC,advansix
+KDMN,KADMON INC,kadmon
+YUMC,YUM CHINA HOLDINGS INC,yum china holdings
+LEXEA,LIBERTY EXPEDIA HOLDINGS INC SERIE,liberty expedia holdings serie
+QCP,QUALITY CARE PROPERTIES INC,quality care properties
+MTGE,MTGE INVESTMENT CORP,mtge investment
+-,RESTRICTED CONTRA FERROGLOBE UNIT,restricted contra ferroglobe unit
+OSTKR,OVERSTOCK.COM INC RTS,overstock rts
+XOG,EXTRACTION OIL GAS INC,extraction oil gas
+GOLF,ACUSHNET HOLDINGS CORP,acushnet holdings
+NTB,BANK OF NT BUTTERFIELD & SON LTD,bank nt butterfield son
+FBK,FB FINANCIAL CORP,fb financial
+WAAS,AQUAVENTURE HOLDINGS LTD,aquaventure holdings
+MRT,MEDEQUITIES REALTY INC TRUST,medequities realty
+QTNA,QUANTENNA COMMUNICATIONS INC,quantenna communications
+INSW,INTERNATIONAL SEAWAYS INC,international seaways
+RARX,RA PHARMACEUTICALS INC,ra pharmaceuticals
+GNMX,AEVI GENOMIC MEDICINE INC,aevi genomic medicine
+TRHC,TABULA RASA HEALTHCARE INC,tabula rasa healthcare
+CSTR,CAPSTAR FINANCIAL HOLDINGS INC,capstar financial holdings
+FLGT,FULGENT GENETICS INC,fulgent genetics
+OBLN,OBALON THERAPEUTICS INC,obalon therapeutics
+BIVV,BIOVERATIV INC,bioverativ
+EDR,EDUCATION REALTY TRUST REIT INC TR,education realty reit tr
+UPL,ULTRA PETROLEUM CORP,ultra petroleum
+CDEV,CENTENNIAL RESOURCE DEVELOPMENT IN,centennial resource development in
+SRCI,SRC ENERGY INC,src energy
+ARCH,ARCH COAL INC CLASS A,arch coal
+CHSP,CHESAPEAKE LODGING TRUST REIT TRUS,chesapeake lodging reit trus
+BTU,PEABODY ENERGY CORP,peabody energy
+GDI,GARDNER DENVER HOLDINGS INC,gardner denver holdings
+REN,RESOLUTE ENERGY CORP,resolute energy
+MTGE,MTGE INVESTMENT REIT CORP,mtge investment reit
+KLDX,KLONDEX MINES LTD,klondex mines
+QCRH,QCR HOLDINGS INC,qcr holdings
+JAG,JAGGED PEAK ENERGY INC,jagged peak energy
+SBBP,STRONGBRIDGE BIOPHARMA,strongbridge biopharma
+ARD,ARDAGH GROUP SA CLASS A,ardagh group
+MGEN,MIRAGEN THERAPEUTICS INC,miragen therapeutics
+SN,SANCHEZ ENERGY CORP,sanchez energy
+KURA,KURA ONCOLOGY INC,kura oncology
+PCSB,PCSB FINANCIAL CORP,pcsb financial
+SLP,SIMULATIONS PLUS INC,simulations plus
+SOI,SOLARIS OILFIELD INFRASTRUCTURE IN,solaris oilfield infrastructure in
+GNK,GENCO SHIPPING AND TRADING LTD,genco shipping and trading
+DSKE,DASEKE INC,daseke
+PHX,PANHANDLE OIL AND GAS INC CLASS A,panhandle oil and gas
+PIRS,PIERIS PHARMACEUTICALS INC,pieris pharmaceuticals
+TIPT,TIPTREE INC CLASS A,tiptree
+CNAT,CONATUS PHARMACEUTICALS INC,conatus pharmaceuticals
+VBIV,VBI VACCINES INC,vbi vaccines
+KINS,KINGSTONE COMPANIES INC,kingstone companies
+CUBN,COMMERCE UNION BANCSHARES INC,commerce union bancshares
+ESXB,COMMUNITY BANKERS CORP TRUST,community bankers
+SBCP,SUNSHINE BANCORP INC,sunshine bancorp
+CHMI,CHERRY HILL MORTGAGE INVESTMENT RE,cherry hill mortgage investment re
+WRD,WILDHORSE RESOURCE DEVELOPMENT COR,wildhorse resource development cor
+CADE,CADENCE BANCORPORATION CLASS A,cadence bancorporation
+FGBI,FIRST GUARANTY BANCSHARES INC,first guaranty bancshares
+PSDO,PRESIDIO INC,presidio
+NXEO,NEXEO SOLUTIONS INC,nexeo solutions
+BHVN,BIOHAVEN PHARMACEUTICAL HOLDING CO,biohaven pharmaceutical holding
+EVBN,EVANS BANCORP INC,evans bancorp
+RGCO,RGC RESOURCES INC,rgc resources
+NODK,NI HOLDINGS INC,ni holdings
+ISTR,INVESTAR HOLDING CORP,investar holding
+RICK,RCI HOSPITALITY HOLDINGS INC,rci hospitality holdings
+KREF,KKR REAL ESTATE FINANCE INC TRUST,kkr real estate finance
+SBOW,SILVERBOW RESOURCES INC,silverbow resources
+INSE,INSPIRED ENTERTAINMENT INC,inspired entertainment
+PKBK,PARKE BANCORP INC,parke bancorp
+LLEX,LILIS ENERGY INC,lilis energy
+NVLN,NOVELION THERAPEUTICS INC,novelion therapeutics
+ROSE,ROSEHILL RESOURCES INC CLASS A,rosehill resources
+JCAP,JERNIGAN CAPITAL INC,jernigan capital
+VIVE,VIVEVE MEDICAL INC,viveve medical
+SMHI,SEACOR MARINE HOLDINGS INC,seacor marine holdings
+PLSE,PULSE BIOSCIENCES INC,pulse biosciences
+VERI,VERITONE INC,veritone
+ACNB,ACNB CORP,acnb
+OVID,OVID THERAPEUTICS INC,ovid therapeutics
+MNOV,MEDICINOVA INC,medicinova
+ENFC,ENTEGRA FINANCIAL CORP,entegra financial
+ANAB,ANAPTYSBIO INC,anaptysbio
+MTNB,MATINAS BIOPHARMA HOLDINGS INC,matinas biopharma holdings
+CLPR,CLIPPER REALTY INC,clipper realty
+METC,RAMACO RESOURCES INC,ramaco resources
+SGH,SMART GLOBAL HOLDINGS INC,smart global holdings
+AKCA,AKCEA THERAPEUTICS INC,akcea therapeutics
+WOW,WIDEOPENWEST INC,wideopenwest
+DYAX,DYAX CORP CVR,dyax cvr
+ATNX,ATHENEX INC,athenex
+TRTX,TPG RE FINANCE TRUST INC TRUST,tpg re finance
+GPMT,GRANITE POINT MORTGAGE TRUST INC T,granite point mortgage
+SAFE,SAFETY INCOME & GROWTH INC (PROPOS,safety income growth propos
+GTHX,G1 THERAPEUTICS INC,g1 therapeutics
+SNNA,SIENNA BIOPHARMACEUTICALS INC,sienna biopharmaceuticals
+CLXT,CALYXT INC,calyxt
+TNTR,TINTRI INC,tintri
+-,HAMILTON BEACH BRANDS CLASS B,hamilton beach brands
+CNNE,CANNAE HOLDINGS INC,cannae holdings
+CEIX,CONSOL ENERGY INC,consol energy
+MLNT,MELINTA THERAPEUTICS,melinta therapeutics
+PQG,PQ GROUP HOLDINGS INC,pq group holdings
+DCPH,DECIPHERA PHARMACEUTICALS INC,deciphera pharmaceuticals
+SEND,SENDGRID INC,sendgrid
+CBTX,CBTX INC,cbtx
+RBB,RBB BANCORP,rbb bancorp
+AQ,AQUANTIA CORP,aquantia
+OPTN,OPTINOSE INC,optinose
+CELC,CELCUITY INC,celcuity
+MBIN,MERCHANTS BANCORP,merchants bancorp
+RNGR,RANGER ENERGY SERVICES INC,ranger energy services
+MCB,METROPOLITAN BANK HOLDING CORP,metropolitan bank holding
+HAIR,RESTORATION ROBOTICS INC,restoration robotics
+ALNA,ALLENA PHARMACEUTICALS INC,allena pharmaceuticals
+RBNC,RELIANT BANCORP INC,reliant bancorp
+GLIBA,GCI LIBERTY INC CLASS A,gci liberty
+ILPT,INDUSTRIAL LOGISTICS PROPERTIES TR,industrial logistics properties tr
+MNLO,MENLO THERAPEUTICS INC,menlo therapeutics
+CURO,CURO GROUP HOLDINGS CORP,curo group holdings
+SBT,STERLING BANCORP INC,sterling bancorp
+LBRT,LIBERTY OILFIELD SERVICES INC CLAS,liberty oilfield services clas
+LBC,LUTHER BURBANK CORP,luther burbank
+CASA,CASA SYSTEMS INC,casa systems
+ARMO,ARMO BIOSCIENCES INC,armo biosciences
+ODT,ODONATE THERAPEUTICS INC,odonate therapeutics
+CUE,CUE BIOPHARMA INC,cue biopharma
+-,BABCOCK AND WILCOX ENTERPRISES INC,babcock and wilcox enterprises
+RFL,RAFAEL HOLDINGS INC CLASS B,rafael holdings
+RDVT,RED VIOLET INC,red violet
+BHR,BRAEMAR HOTELS RESORTS INC,braemar hotels resorts
+APY,APERGY CORP,apergy
+CPLG,COREPOINT LODGING INC,corepoint lodging
+XAN,EXANTAS CAPITAL CORP,exantas capital
+BXMT,BLACKSTONE MORTGAGE TRUST REIT CLA,blackstone mortgage reit cla
+LILAK,LIBERTY LATIN AMERICA LTD CLASS C,liberty latin america
+CLNC,COLONY CREDIT REAL ESTATE INC CLAS,colony credit real estate clas
+FG,FGL,fgl
+SMPL,THE SIMPLY GOOD FOODS COMPANY,the simply good foods
+CLBK,COLUMBIA FINANCIAL INC,columbia financial
+CBAY,CYMABAY THERAPEUTICS INC,cymabay therapeutics
+EAF,GRAFTECH INTERNATIONAL LTD,graftech international
+INNT,INNOVATE BIOPHARMACEUTICALS INC,innovate biopharmaceuticals
+OBNK,ORIGIN BANCORP INC,origin bancorp
+AMR,ALTA MESA RESOURCES INC CLASS A,alta mesa resources
+AMEH,APOLLO MEDICAL HOLDINGS INC,apollo medical holdings
+SMTA,SPIRIT MTA REIT,spirit mta reit
+CASI,CASI PHARMACEUTICALS INC,casi pharmaceuticals
+VKTX,VIKING THERAPEUTICS INC,viking therapeutics
+RCKT,ROCKET PHARMACEUTICALS INC,rocket pharmaceuticals
+CYRX,CRYOPORT INC,cryoport
+ZOM,ZOMEDICA PHARMACEUTICALS CORP,zomedica pharmaceuticals
+CTSO,CYTOSORBENTS CORP,cytosorbents
+CATC,CAMBRIDGE BANCORP,cambridge bancorp
+FCBP,FIRST CHOICE BANCORP,first choice bancorp
+IIPR,INNOVATIVE INDUSTRIAL PROPERTIES I,innovative industrial properties
+FDBC,FIDELITY D AND D BANCORP INC,fidelity and bancorp
+SLCT,SELECT BANCORP INC,select bancorp
+FSNN,FUSION CONNECT INC,fusion connect
+BCML,BAYCOM CORP,baycom
+FRBA,FIRST BANK,first bank
+SURF,SURFACE ONCOLOGY INC,surface oncology
+VUZI,VUZIX CORP,vuzix
+MRNS,MARINUS PHARMACEUTICALS INC,marinus pharmaceuticals
+CVON,CONVERGEONE HOLDINGS INC CLASS A,convergeone holdings
+IEA,INFRASTRUCTURE AND ENERGY ALTERNAT,infrastructure and energy alternat
+BPRN,THE BANK OF PRINCETON,the bank princeton
+OPBK,OP BANCORP,op bancorp
+MBIO,MUSTANG BIO INC,mustang bio
+BFST,BUSINESS FIRST BANCSHARES INC,business first bancshares
+UBX,UNITY BIOTECHNOLOGY INC,unity biotechnology
+LEVL,LEVEL ONE BANCORP INC,level one bancorp
+LAND,GLADSTONE LAND REIT CORP,gladstone land reit
+FCCO,FIRST COMMUNITY CORP,first community
+ESQ,ESQUIRE FINANCIAL HOLDINGS INC,esquire financial holdings
+PDLB,PDL COMMUNITY BANCORP,pdl community bancorp
+SVRA,SAVARA INC,savara
+STXB,SPIRIT OF TEXAS BANCSHARES INC,spirit texas bancshares
+BWB,BRIDGEWATER BANCSHARES INC,bridgewater bancshares
+CBFV,CB FINANCIAL SERVICES INC,cb financial services
+SSTI,SHOTSPOTTER INC,shotspotter
+FENC,FENNEC PHARMACEUTICALS INC,fennec pharmaceuticals
+BOMN,BOSTON OMAHA CORP CLASS A,boston omaha
+ALDX,ALDEYRA THERAPEUTICS INC,aldeyra therapeutics
+XELA,EXELA TECHNOLOGIES INC,exela technologies
+IOTS,ADESTO TECHNOLOGIES CORP,adesto technologies
+LASR,NLIGHT INC,nlight
+UMRX,UNUM THERAPEUTICS INC,unum therapeutics
+ADMA,ADMA BIOLOGICS INC,adma biologics
+TYME,TYME TECHNOLOGIES INC,tyme technologies
+EVLO,EVELO BIOSCIENCES INC,evelo biosciences
+SBPH,SPRING BANK PHARMACEUTICALS INC,spring bank pharmaceuticals
+TORC,RESTORBIO,restorbio
+ACMR,ACM RESEARCH CLASS A INC,acm research
+EOLS,EVOLUS INC,evolus
+HSDT,HELIUS MEDICAL TECHNOLOGIES INC CL,helius medical technologies cl
+COOL,POLARITYTE INC,polarityte
+CWBR,COHBAR INC,cohbar
+LIVX,LIVEXLIVE MEDIA INC,livexlive media
+ASNS,ARSANIS INC,arsanis
+CLNC,COLONY CREDIT REAL ESTATE INC,colony credit real estate
+RVI,RETAIL VALUE INC,retail value
+OPBK,OPEN BANK,open bank
+BPR,BROOKFIELD PROPERTY REIT INC CLASS,brookfield property reit
+-,A SCHULMAN INC,schulman
+BOFI,AXOS FINANCIAL INC,axos financial
+KLXE,KLX ENERGY SERVICES HOLDINGS INC,klx energy services holdings
+ZFGN,ZAFGEN INC,zafgen
+LQDA,LIQUIDIA TECHNOLOGIES INC,liquidia technologies
+APTX,APTINYX INC,aptinyx
+AVRO,AVROBIO INC,avrobio
+ALLK,ALLAKOS INC,allakos
+TCDA,TRICIDA INC,tricida
+FTSV,FORTY SEVEN INC,forty seven
+RUBY,RUBIUS THERAPEUTICS INC,rubius therapeutics
+AQST,AQUESTIVE THERAPEUTICS INC,aquestive therapeutics
+BRY,BERRY PETROLEUM CORP,berry petroleum
+KZR,KEZAR LIFE SCIENCES INC,kezar life sciences
+IIIV,I3 VERTICALS INC CLASS A,i3 verticals
+CNST,CONSTELLATION PHARMACEUTICALS INC,constellation pharmaceuticals
+AMAL,AMALGAMATED BANK CLASS A,amalgamated bank
+MGTA,MAGENTA THERAPEUTICS INC,magenta therapeutics
+SRRK,SCHOLAR ROCK HOLDING CORP,scholar rock holding
+VRCA,VERRICA PHARMACEUTICALS INC,verrica pharmaceuticals
+ECOR,ELECTROCORE,electrocore
+CCB,COASTAL FINANCIAL CORP,coastal financial
+PCB,PACIFIC CITY FINANCIAL CORP,pacific city financial
+STIM,NEURONETICS INC,neuronetics
+KNSA,KINIKSA PHARMACEUTICALS LTD CLASS,kiniksa pharmaceuticals
+CRNX,CRINETICS PHARMACEUTICALS INC,crinetics pharmaceuticals
+REPL,REPLIMUNE GROUP INC,replimune group
+EIDX,EIDOS THERAPEUTICS INC,eidos therapeutics
+XERS,XERIS PHARMACEUTICALS INC,xeris pharmaceuticals
+PTE,POLARITYTE INC,polarityte
+AX,AXOS FINANCIAL INC,axos financial
+GTX,GARRETT MOTION INC,garrett motion
+MLNT,MELINTA THERAPEUTICS INC,melinta therapeutics
+ACA,ARCOSA INC,arcosa
+MCFT,MASTERCRAFT BOAT HOLDINGS INC,mastercraft boat holdings
+AGE,AGEX THERAPEUTICS INC,agex therapeutics
+-,XOMA CORP,xoma
+-,PULSE BIOSCIENCES INC,pulse biosciences
+GPMT,GRANITE POINT MORTGAGE TRUST INC,granite point mortgage
+TRTX,TPG RE FINANCE TRUST INC,tpg re finance
+NXRT,NEXPOINT RESIDENTIAL TRUST INC,nexpoint residential
+LTHM,LIVENT CORP,livent
+YMAB,Y MABS THERAPEUTICS INC,mabs therapeutics
+SIBN,SI BONE INC,si bone
+-,APARTMENT INVESTMENT DUMMY STOCK D,apartment investment dummy stock
+SAFE,SAFEHOLD INC,safehold
+ARVN,ARVINAS INC,arvinas
+FOXA,FOX CORP CLASS A,fox
+AXNX,AXONICS MODULATION TECHNOLOGIES IN,axonics modulation technologies in
+THOR,SYNTHORX INC,synthorx
+XXII,22ND CENTURY GROUP INC,22nd century group
+XFOR,X4 PHARMACEUTICALS INC,x4 pharmaceuticals
+DOW,DOW INC,dow
+CYCN,CYCLERION THERAPEUTICS INC,cyclerion therapeutics
+PVBC,PROVIDENT BANCORP INC,provident bancorp
+KTB,KONTOOR BRANDS INC,kontoor brands
+FG,FGL INC,fgl
+AM,ANTERO MIDSTREAM CORP,antero midstream
+NG,NOVAGOLD RESOURCES INC,novagold resources
+VRRM,VERRA MOBILITY CORP CLASS A,verra mobility
+OEC,ORION ENGINEERED CARBONS SA,orion engineered carbons
+BAND,BANDWIDTH INC CLASS A,bandwidth
+MGY,MAGNOLIA OIL GAS CORP CLASS A,magnolia oil gas
+AFIN,AMERICAN FIN INC TRUST CLASS A,american fin
+CTRA,CONTURA ENERGY INC,contura energy
+OSW,ONESPAWORLD HOLDINGS LTD,onespaworld holdings
+URGN,UROGEN PHARMA LTD,urogen pharma
+TRWH,TWIN RIVER WORLDWIDE HOLDINGS INC,twin river worldwide holdings
+WTRE,WATFORD HOLDINGS LTD,watford holdings
+ATEX,PDVWIRELESS INC,pdvwireless
+EFC,ELLINGTON FINANCIAL INC,ellington financial
+CARE,CARTER BANK AND TRUST,carter bank and
+BFC,BANK FIRST NATIONAL CORP,bank first national
+PAYS,PAYSIGN INC,paysign
+AMTB,AMERANT BANCORP INC CLASS A,amerant bancorp
+KRYS,KRYSTAL BIOTECH INC,krystal biotech
+MNRL,BRIGHAM MINERALS INC CLASS A,brigham minerals
+SILK,SILK ROAD MEDICAL INC,silk road medical
+NBEV,NEW AGE BEVERAGES CORP,new age beverages
+GRTS,GRITSTONE ONCOLOGY INC,gritstone oncology
+FLMN,FALCON MINERALS CORP CLASS A,falcon minerals
+SIC,SELECT INTERIOR CONCEPTS INC CLASS,select interior concepts
+BYSI,BEYONDSPRING INC,beyondspring
+MRKR,MARKER THERAPEUTICS INC,marker therapeutics
+DSSI,DIAMOND S SHIPPING INC,diamond shipping
+HFFG,HF FOODS GROUP INC,hf foods group
+OPRX,OPTIMIZERX CORP,optimizerx
+KALV,KALVISTA PHARMACEUTICALS INC,kalvista pharmaceuticals
+INS,INTELLIGENT SYSTEMS CORP,intelligent systems
+TPTX,TURNING POINT THERAPEUTICS INC,turning point therapeutics
+TMDX,TRANSMEDICS GROUP INC,transmedics group
+FVCB,FVCBANKCORP INC,fvcbankcorp
+TH,TARGET HOSPITALITY CORP,target hospitality
+NESR,NATIONAL ENERGY SERVICES REUNITED,national energy services reunited
+KOD,KODIAK SCIENCES INC,kodiak sciences
+ALTM,ALTUS MIDSTREAM COMPANY CLASS A CL,altus midstream cl
+IMXI,INTERNATIONAL MONEY EXPRESS INC,international money express
+GTYH,GTY TECHNOLOGY HOLDINGS INC,gty technology holdings
+GTXI,GTXI INC - CVR,gtxi cvr
+-,BABCOCK & WILCOX,babcock wilcox
+BFC,BANK FIRST CORP,bank first
+FCAP,FIRST CAPITAL INC,first capital
+PCB,PCB BANCORP,pcb bancorp
+MNSB,MAINSTREET BANCSHARES,mainstreet bancshares
+ATEX,ANTERIX INC,anterix
+PLMR,PALOMAR HOLDINGS INC,palomar holdings
+MBIN,MERCHANTS BANCORP  ADR REPRESENTIN,merchants bancorp representin
+SVC,SERVICE PROPERTIES TRUST,service properties
+BBIO,BRIDGEBIO PHARMA INC,bridgebio pharma
+PROS,PROSIGHT GLOBAL INC,prosight global
+RMBI,RICHMOND MUTUAL BANCORPORATION INC,richmond mutual bancorporation
+MNSB,MAINSTREET BANCSHARES INC,mainstreet bancshares
+STOK,STOKE THERAPEUTICS INC,stoke therapeutics
+TCRR,TCR2 THERAPEUTICS INC,tcr2 therapeutics
+HCAT,HEALTH CATALYST INC,health catalyst
+AVDR,AVEDRO INC,avedro
+LVGO,LIVONGO HEALTH INC,livongo health
+PNTG,PENNANT GROUP INC,pennant group
+VAPO,VAPOTHERM INC,vapotherm
+NOVA,SUNNOVA ENERGY INTERNATIONAL INC,sunnova energy international
+ZYXI,ZYNEX INC,zynex
+SFL,SFL LTD,sfl
+FRAF,FRANKLIN FINANCIAL SERVICES CORP,franklin financial services
+KRTX,KARUNA THERAPEUTICS INC,karuna therapeutics
+PBFS,PIONEER BANCORP INC,pioneer bancorp
+MMAC,MMA CAPITAL HOLDINGS INC,mma capital holdings
+BXRX,BAUDAX BIO INC,baudax bio
+NVST,ENVISTA HOLDINGS CORP,envista holdings
+BRBR,BELLRING BRANDS INC CLASS A,bellring brands
+NXTC,NEXTCURE INC,nextcure
+PHAT,PHATHOM PHARMACEUTICALS INC,phathom pharmaceuticals
+CRTX,CORTEXYME INC,cortexyme
+DTIL,PRECISION BIOSCIENCES INC,precision biosciences
+APRE,APREA THERAPEUTICS INC,aprea therapeutics
+SWTX,SPRINGWORKS THERAPEUTICS INC,springworks therapeutics
+IGMS,IGM BIOSCIENCES INC,igm biosciences
+RRBI,RED RIVER BANCSHARES INC,red river bancshares
+MCBS,METROCITY BANKSHARES INC,metrocity bankshares
+SPFI,SOUTH PLAINS FINANCIAL INC,south plains financial
+MBIN,MERCHANTS BANCORP REPRESENTIN,merchants bancorp representin
+APLT,APPLIED THERAPEUTICS INC,applied therapeutics
+VIE,VIELA BIO INC,viela bio
+HBT,HBT FINANCIAL INC,hbt financial
+OYST,OYSTER POINT PHARMA INC,oyster point pharma
+GDI,INGERSOLL RAND INC,ingersoll rand
+BPYU,BROOKFIELD PROPERTY REIT INC CLASS,brookfield property reit
+BRY,BERRY,berry
+IR,INGERSOLL RAND INC,ingersoll rand
+PPD,PPD INC,ppd
+SDGR,SCHRODINGER INC,schrodinger
+CFB,CROSSFIRST BANKSHARES INC,crossfirst bankshares
+ARQT,ARCUTIS BIOTHERAPEUTICS INC,arcutis biotherapeutics
+BDTX,BLACK DIAMOND THERAPEUTICS INC,black diamond therapeutics
+RVMD,REVOLUTION MEDICINES INC,revolution medicines
+CSTL,CASTLE BIOSCIENCES INC,castle biosciences
+BEAM,BEAM THERAPEUTICS INC,beam therapeutics
+MORF,MORPHIC HOLDING INC,morphic holding
+VIR,VIR BIOTECHNOLOGY INC,vir biotechnology
+BTAI,BIOXCEL THERAPEUTICS INC,bioxcel therapeutics
+BCEL,ATRECA INC CLASS A,atreca
+OPRT,OPORTUN FINANCIAL CORP,oportun financial
+OTIS,OTIS WORLDWIDE CORP,otis worldwide
+MSGE,MADISON SQUARE GARDEN ENTERTAINMEN,madison square garden entertainmen
+ARNC,ARCONIC CORP,arconic
+PSNL,PERSONALIS INC,personalis
+AKRO,AKERO THERAPEUTICS INC,akero therapeutics
+CLMS,CALAMOS ASSET MANAGEMENT INC. SHS Prvt,calamos asset management shs prvt
+ARCH,ARCH RESOURCES INC CLASS A,arch resources
+BSGM,BIOSIG TECHNOLOGIES INC,biosig technologies
+CTO,CTO REALTY GROWTH INC,cto realty growth
+EVFM,EVOFEM BIOSCIENCES INC,evofem biosciences
+AMCR,AMCOR PLC,amcor
+APG,API GROUP CORP,api group
+BIPC,BROOKFIELD INFRASTRUCTURE CORP CLA,brookfield infrastructure cla
+CHX,CHAMPIONX CORP,championx
+BRMK,BROADMARK REALTY CAPITAL INC,broadmark realty capital
+RPAY,REPAY HOLDINGS CORP CLASS A,repay holdings
+FREQ,FREQUENCY THERAPEUTICS INC,frequency therapeutics
+RLMD,RELMADA THERAPEUTICS INC,relmada therapeutics
+ARCT,ARCTURUS THERAPEUTICS HOLDINGS INC,arcturus therapeutics holdings
+PRVB,PROVENTION BIO INC,provention bio
+PAE,PAE INC CLASS A,pae
+ZNTL,ZENTALIS PHARMACEUTICALS INC,zentalis pharmaceuticals
+NLTX,NEOLEUKIN THERAPEUTICS INC,neoleukin therapeutics
+IMVT,IMMUNOVANT INC,immunovant
+ACEL,ACCEL ENTERTAINMENT INC CLASS A,accel entertainment
+PASG,PASSAGE BIO INC,passage bio
+RAPT,RAPT THERAPEUTICS INC,rapt therapeutics
+ALRS,ALERUS FINANCIAL CORP,alerus financial
+ORIC,ORIC PHARMACEUTICALS INC,oric pharmaceuticals
+ALTA,ALTABANCORP,altabancorp
+MGHL,MORGAN GROUP HOLDING COMPANY,morgan group holding
+BEPC,BROOKFIELD RENEWABLE SUBORDINATE V,brookfield renewable subordinate
+XPEL,XPEL INC,xpel
+KROS,KEROS THERAPEUTICS INC,keros therapeutics
+BCLI,BRAINSTORM CELL THERAPEUTICS INC,brainstorm cell therapeutics
+PACK,RANPAK HOLDINGS CORP CLASS A,ranpak holdings
+SITM,SITIME CORP,sitime
+AOUT,AMERICAN OUTDOOR BRANDS INC,american outdoor brands
+MAXN,MAXEON SOLAR TECHNOLOGIES LTD,maxeon solar technologies
+NBEV,NEWAGE INC,newage
+RPRX,ROYALTY PHARMA PLC CLASS A,royalty pharma
+RLAY,RELAY THERAPEUTICS INC,relay therapeutics
+VRM,VROOM INC,vroom
+PCVX,VAXCYTE INC,vaxcyte
+FMTX,FORMA THERAPEUTICS HLDG INC,forma therapeutics hldg
+BLI,BERKELEY LIGHTS INC,berkeley lights
+RXT,RACKSPACE TECHNOLOGY INC,rackspace technology
+SLQT,SELECTQUOTE INC,selectquote
+ACI,ALBERTSONS COMPANY INC CLASS A,albertsons
+LMND,LEMONADE INC,lemonade
+GOCO,GOHEALTH INC CLASS A,gohealth
+NARI,INARI MEDICAL INC,inari medical
+ALVR,ALLOVIR INC,allovir
+NKTX,NKARTA INC,nkarta
+RNA,AVIDITY BIOSCIENCES INC,avidity biosciences
+ANNX,ANNEXON INC,annexon
+VITL,VITAL FARMS INC,vital farms
+AMTI,APPLIED MOLECULAR TRANSPORT,applied molecular transport
+NRIX,NURIX THERAPEUTICS INC,nurix therapeutics
+GBIO,GENERATION BIO,generation bio
+ALXO,ALX ONCOLOGY HOLDINGS INC,alx oncology holdings
+AKUS,AKOUOS INC,akouos
+STRO,SUTRO BIOPHARMA INC,sutro biopharma
+MEG,MONTROSE ENVIRONMENTAL GRP INC,montrose environmental grp
+AFIB,ACUTUS MEDICAL INC,acutus medical
+ITOS,ITEOS THERAPEUTICS INC,iteos therapeutics
+PLRX,PLIANT THERAPEUTICS INC,pliant therapeutics
+VYNE,VYNE THERAPEUTICS INC,vyne therapeutics
+WLL,WHITING PETROLEUM CORP,whiting petroleum
+WLLAW,WHITING PETROLEUM EQUITY WARRANTS,whiting petroleum equity warrants
+WLLBW,WHITING PETROLEUM EQUITY WARRANTS,whiting petroleum equity warrants
+VNT,VONTIER CORP,vontier
+NTST,NETSTREIT CORP,netstreit
+PLYM,PLYMOUTH INDUSTRIAL REIT INC,plymouth industrial reit
+INZY,INOZYME PHARMA INC,inozyme pharma
+SAVA,CASSAVA SCIENCES INC,cassava sciences
+COFS,CHOICEONE FINANCIAL SERVICES INC,choiceone financial services
+LNSR,LENSAR INC,lensar
+ADRO,ADURO BIOTECH CVR,aduro biotech cvr
+BALY,BALLY S CORP,bally
+CARE,CARTER BANKSHARES TRUST,carter bankshares
+-,GAMING AND LEISURE CASH ACCR CVR,gaming and leisure cash accr cvr
+LQDA,LIQUIDIA CORP,liquidia
+CTO,CTO REALTY GROWTH INC CASH ACCRUAL,cto realty growth cash accrual
+AIRC,APARTMENT INCOME REIT CORP,apartment income reit
+EBC,EASTERN BANKSHARES INC,eastern bankshares
+PMVP,PMV PHARMACEUTICALS INC,pmv pharmaceuticals
+ALGM,ALLEGRO MICROSYSTEMS INC,allegro microsystems
+PTVE,PACTIV EVERGREEN INC,pactiv evergreen
+BNL,BROADSTONE NET LEASE INC CLASS A,broadstone net lease
+STTK,SHATTUCK LABS INC,shattuck labs
+PRLD,PRELUDE THERAPEUTICS INC,prelude therapeutics
+KYMR,KYMERA THERAPEUTICS INC,kymera therapeutics
+PRAX,PRAXIS PRECISION MEDICINES INC,praxis precision medicines
+AVIR,ATEA PHARMACEUTICALS,atea pharmaceuticals
+GAN,GAN LTD,gan
+KRON,KRONOS BIO INC,kronos bio
+EAR,EARGO,eargo
+-,SL GREEN REALTY CORP CASH ACCRUAL,sl green realty cash accrual
+RVI,Retail Value Inc Cash Accrual,retail value cash accrual
+GORO_X,FORTITUDE GOLD CORP,fortitude gold
+AVIR,ATEA PHARMACEUTICALS INC,atea pharmaceuticals
+EAR,EARGO INC,eargo
+-,BM TECHNOLOGIES CONTRA,bm technologies contra
+INDT,INDUS REALTY TRUST INC,indus realty
+INDT,INDUS REALTY CASH ACCRUAL,indus realty cash accrual
+CGNT,COGNYTE SOFTWARE LTD,cognyte software
+MAX,MEDIAALPHA INC CLASS A,mediaalpha
+DMTK,DERMTECH INC,dermtech
+ATOM,ATOMERA INC,atomera
+CCCC,C4 THERAPEUTICS INC,c4 therapeutics
+ORGO,ORGANOGENESIS HOLDINGS INC CLASS A,organogenesis holdings
+DYN,DYNE THERAPEUTICS INC,dyne therapeutics
+ATHA,ATHIRA PHARMA INC,athira pharma
+GATO,GATOS SILVER INC,gatos silver
+TSHA,TAYSHA GENE THERAPIES INC,taysha gene therapies
+INBX,INHIBRX INC,inhibrx
+AMAL,AMALGAMATED FINANCIAL,amalgamated financial
+NETI,ENETI INC,eneti
+SHC,SOTERA HEALTH COMPANY,sotera health
+UPST,UPSTART HOLDINGS INC,upstart holdings
+WOOF,PETCO HEALTH AND WELLNESS COMPANY,petco health and wellness
+SANA,SANA BIOTECHNOLOGY INC,sana biotechnology
+PAND,PANDION THERAPEUTICS HOLDCO INC,pandion therapeutics holdco
+SPNT,SIRIUSPOINT LTD,siriuspoint
+SEER,SEER INC CLASS A,seer
+SGFY,SIGNIFY HEALTH INC CLASS A,signify health
+BNL,BROADSTONE NET LEASE INC,broadstone net lease
+TLS,TELOS CORPORATION CORP,telos
+BCAB,BIOATLA INC,bioatla
+HYFM,HYDROFARM HOLDINGS GROUP INC,hydrofarm holdings group
+SBTX,SILVERBACK THERAPEUTICS INC,silverback therapeutics
+CGEM,CULLINAN ONCOLOGY INC,cullinan oncology
+VOR,VOR BIOPHARMA INC,vor biopharma
+KNTE,KINNATE BIOPHARMA INC,kinnate biopharma
+BOLT,BOLT BIOTHERAPEUTICS INC,bolt biotherapeutics
+ONEW,ONEWATER MARINE CLASS A INC,onewater marine
+OLMA,OLEMA PHARMACEUTICALS INC,olema pharmaceuticals
+CMBM,CAMBIUM NETWORKS CORP,cambium networks
+MASS,908 DEVICES,devices
+PSTX,POSEIDA THERAPEUTICS,poseida therapeutics
+AXNX,AXONICS INC,axonics
+NGMS,NEOGAMES S A,neogames
+HARP,HARPOON THERAPEUTICS INC,harpoon therapeutics
+FDMT,4D MOLECULAR THERAPEUTICS INC,4d molecular therapeutics
+ALGS,ALIGOS THERAPEUTICS INC,aligos therapeutics
+APR,APRIA INC,apria
+ALTG,ALTA EQUIPMENT GROUP INC CLASS A,alta equipment group
+ETNB,89BIO INC,89bio
+PAVM,PAVMED INC,pavmed
+PSTX,POSEIDA THERAPEUTICS INC,poseida therapeutics
+VMEO,VIMEO INC,vimeo
+GRTS,GRITSTONE BIO INC,gritstone bio
+TPL,TEXAS PACIFIC LAND CORP,texas pacific land
+CHPT,CHARGEPOINT HOLDINGS INC CLASS A,chargepoint holdings
+LPRO,OPEN LENDING CORP CLASS A,open lending
+CVAC,CUREVAC NV,curevac
+PSFE,PAYSAFE LTD,paysafe
+RIOT,RIOT BLOCKCHAIN INC,riot blockchain
+FSR,FISKER INC CLASS A,fisker
+MARA,MARATHON DIGITAL HOLDINGS INC,marathon digital holdings
+MP,MP MATERIALS CORP CLASS A,mp materials
+CRC,CALIFORNIA RESOURCES CORP,california resources
+OAS,OASIS PETROLEUM INC,oasis petroleum
+BNGO,BIONANO GENOMICS INC,bionano genomics
+DNMR,DANIMER SCIENTIFIC INC CLASS A,danimer scientific
+BLNK,BLINK CHARGING,blink charging
+OCGN,OCUGEN INC,ocugen
+HYLN,HYLIION HOLDINGS CORP CLASS A,hyliion holdings
+DSEY,DIVERSEY HOLDINGS LTD,diversey holdings
+UTZ,UTZ BRANDS INC CLASS A,utz brands
+MNMD,MIND MEDICINE SUBORDINATE VOTING I,mind medicine subordinate
+IDEX,IDEANOMICS INC,ideanomics
+HAYW,HAYWARD HOLDINGS INC,hayward holdings
+NFE,NEW FORTRESS ENERGY INC CLASS A,new fortress energy
+TRIL,TRILLIUM THERAPEUTICS INC,trillium therapeutics
+AVO,MISSION PRODUCE INC,mission produce
+TTCF,TATTOOED CHEF INC CLASS A,tattooed chef
+XOG,EXTRACTION OIL & GAS INC,extraction oil gas
+PAYA,PAYA HOLDINGS INC CLASS A,paya holdings
+DM,DESKTOP METAL INC CLASS A,desktop metal
+RXRX,RECURSION PHARMACEUTICALS INC CLAS,recursion pharmaceuticals clas
+APPH,APPHARVEST INC,appharvest
+BRBS,BLUE RIDGE BANKSHARES INC,blue ridge bankshares
+ZY,ZYMERGEN INC,zymergen
+RADI,RADIUS GLOBAL INFRASTRUCTURE INC C,radius global infrastructure
+ADV,ADVANTAGE SOLUTIONS INC CLASS A,advantage solutions
+VIEW,VIEW INC CLASS A,view
+BRSP,BRIGHTSPIRE CAPITAL INC CLASS A,brightspire capital
+PCT,PURECYCLE TECHNOLOGIES INC,purecycle technologies
+GOEV,CANOO INC CLASS A,canoo
+POWW,AMMO INC,ammo
+HRMY,HARMONY BIOSCIENCES HLDG INC,harmony biosciences hldg
+RSI,RUSH STREET INTERACTIVE INC CLASS,rush street interactive
+CLSK,CLEANSPARK INC,cleanspark
+FREE,WHOLE EARTH BRANDS INC CLASS A,whole earth brands
+AGTI,AGILITI INC,agiliti
+PLBY,PLBY GROUP INC,plby group
+ETWO,E2OPEN PARENT HOLDINGS INC CLASS A,e2open parent holdings
+RCEL,AVITA THERAPEUTICS INC,avita therapeutics
+NAPA,DUCKHORN PORTFOLIO INC,duckhorn portfolio
+FOA,FINANCE OF AMERICA COMPANIES INC C,finance america companies
+GNUS,GENIUS BRANDS INTERNATIONAL INC,genius brands international
+BFLY,BUTTERFLY NETWORK INC CLASS A,butterfly network
+CLPT,CLEARPOINT NEURO INC,clearpoint neuro
+CTXR,CITIUS PHARMACEUTICALS INC,citius pharmaceuticals
+CSSE,CHICKEN SOUP FOR THE SOUL ENTERTAI,chicken soup for the soul entertai
+SQZ,SQZ BIOTECHNOLOGIES COMPANY,sqz biotechnologies
+MMAT,META MATERIALS INC,meta materials
+FUV,ARCIMOTO INC,arcimoto
+KMPH,KEMPHARM INC,kempharm
+TMCI,TREACE MEDICAL CONCEPTS INC,treace medical concepts
+NOTV,INOTIV INC,inotiv
+NUVB,NUVATION BIO INC CLASS A,nuvation bio
+GNOG,GOLDEN NUGGET ONLINE GAMING INC CL,golden nugget online gaming cl
+HYRE,HYRECAR INC,hyrecar
+INNV,INNOVAGE HOLDING CORP,innovage holding
+OUST,OUSTER INC CLASS A,ouster
+ONCR,ONCORUS INC,oncorus
+COGT,COGENT BIOSCIENCES INC,cogent biosciences
+VEI,VINE ENERGY INC CLASS A,vine energy
+RMO,ROMEO POWER INC CLASS A,romeo power
+CURI,CURIOSITYSTREAM CLASS A,curiositystream
+AEVA,AEVA TECHNOLOGIES INC,aeva technologies
+UAVS,AGEAGLE AERIAL SYS INC,ageagle aerial sys
+CDAK,CODIAK BIOSCIENCES,codiak biosciences
+DSGN,DESIGN THERAPEUTICS INC,design therapeutics
+REKR,REKOR SYSTEMS INC,rekor systems
+EWTX,EDGEWISE THERAPEUTICS INC,edgewise therapeutics
+DTM,DT MIDSTREAM INC,dt midstream
+GXO,GXO LOGISTICS INC,gxo logistics
+VSCO,VICTORIA S SECRET,victoria secret
+ECVT,ECOVYST INC,ecovyst
+ORMP,ORAMED PHARMACEUTICALS INC,oramed pharmaceuticals
+BMTX,BM TECHNOLOGIES INC CLASS A,bm technologies
+ARKO,ARKO,arko
+CNM,CORE & MAIN INC CLASS A,core main
+ADGI,ADAGIO THERAPEUTICS INC,adagio therapeutics
+MCW,MISTER CAR WASH INC,mister car wash
+VERV,VERVE THERAPEUTICS INC,verve therapeutics
+EOSE,EOS ENERGY ENTERPRISES INC CLASS A,eos energy enterprises
+PECO,PHILLIPS EDISON AND COMPANY INC,phillips edison and
+FLYW,FLYWIRE CORP,flywire
+LZ,LEGALZOOM COM INC,legalzoom
+GCMG,GCM GROSVENOR INC CLASS A,gcm grosvenor
+CRBU,CARIBOU BIOSCIENCES INC,caribou biosciences
+BHG,BRIGHT HEALTH GROUP INC,bright health group
+BYRN,BYRNA TECHNOLOGIES INC,byrna technologies
+ICVX,ICOSAVAX INC,icosavax
+TSE,TRINSEO SA,trinseo
+SLVM,SYLVAMO CORP,sylvamo
+ERAS,ERASCA INC,erasca
+TIL,INSTIL BIO INC,instil bio
+CTOS,CUSTOM TRUCK ONE SOURCE INC,custom truck one source
+FBRT,CAPSTEAD MORTGAGE REIT CORP,capstead mortgage reit
+CTKB,CYTEK BIOSCIENCES INC,cytek biosciences
+BLFY,BLUE FOUNDRY BANCORP,blue foundry bancorp
+AMBP,ARDAGH METAL PACKAGING SA,ardagh metal packaging
+KD,KYNDRYL HOLDINGS INC,kyndryl holdings
+CIVI,CIVITAS RESOURCES INC,civitas resources
+TSE,TRINSEO PLC,trinseo
+ONL,ORION OFFICE REIT INC,orion office reit
+TSVT,2SEVENTY BIO INC,2seventy bio
+LYLT,LOYALTY VENTURES INC,loyalty ventures
+FBRT,FRANKLIN BSP REALTY TRUST INC,franklin bsp realty
+IAS,INTEGRAL AD SCIENCE HOLDING CORP,integral science holding
+BVS,BIOVENTUS CLASS A INC,bioventus
+RXDX,PROMETHEUS BIOSCIENCES INC,prometheus biosciences
+TSAT,TELESAT CLASS B VARIABLE VOTING CO,telesat variable
+OLPX,OLAPLEX HOLDINGS INC,olaplex holdings
+SGH,SMART GLOBAL HOLDINGS,smart global holdings
+INFA,INFORMATICA INC CLASS A,informatica
+FLNC,FLUENCE ENERGY INC,fluence energy
+MXCT,MAXCYTE INC,maxcyte
+DOUG WI,DOUGLAS ELLIMAN INC WHEN ISSUED,douglas elliman when issued
+LTH,LIFE TIME GROUP HOLDINGS INC,life time group holdings
+FHTX,FOGHORN THERAPEUTICS,foghorn therapeutics
+DNUT,KRISPY KREME INC,krispy kreme
+ACET,ADICET BIO INC,adicet bio
+EWCZ,EUROPEAN WAX CENTER INC CLASS A,european wax center
+TALS,TALARIS THERAPEUTICS INC,talaris therapeutics
+ENFN,ENFUSION INC,enfusion
+DICE,DICE THERAPEUTICS INC,dice therapeutics
+STER,STERLING CHECK CORP,sterling check
+CCRD,CORECARD CORP,corecard
+CRGY,CRESCENT ENERGY INC-A,crescent energy
+FSBC,FIVE STAR BANCORP,five star bancorp
+TNYA,TENAYA THERAPEUTICS INC,tenaya therapeutics
+HOWL,WEREWOLF THERAPEUTICS INC,werewolf therapeutics
+EYPT,EYEPOINT PHARMACEUTICALS INC,eyepoint pharmaceuticals
+IKNA,IKENA ONCOLOGY INC,ikena oncology
+NGMS,NEOGAMES S A SA,neogames
+FLNC,FLUENCE ENERGY INC CLASS A,fluence energy
+DOUG,DOUGLAS ELLIMAN INC,douglas elliman
+CRGY,CRESCENT ENERGY CLASS A,crescent energy
+ATLC,ATLANTICUS HOLDINGS CORP,atlanticus holdings
+JANX,JANUX THERAPEUTICS INC,janux therapeutics
+ENFN,ENFUSION INC CLASS A,enfusion
+RCEL,AVITA MEDICAL INC,avita medical
+CEG,CONSTELLATION ENERGY CORP,constellation energy
+AFIN US,NECESSITY RETAIL REIT INC CLASS A,necessity retail reit
+BOC,BOSTON OMAHA CORP CLASS A,boston omaha
+INST,INSTRUCTURE HOLDINGS INC,instructure holdings
+BRBR,BELLRING BRANDS INC,bellring brands
+LYEL,LYELL IMMUNOPHARMA INC,lyell immunopharma
+CARE,CARTER BANKSHARES INC,carter bankshares
+ZIMV,ZIMVIE INC,zimvie
+PRCT,PROCEPT BIOROBOTICS CORP,procept biorobotics
+GLUE,MONTE ROSA THERAPEUTICS INC,monte rosa therapeutics
+ABSI,ABSCI CORP,absci
+AFCG,AFC GAMMA INC,afc gamma
+VERA,VERA THERAPEUTICS INC CLASS A,vera therapeutics
+IMGO,IMAGO BIOSCIENCES INC,imago biosciences
+XPOF,XPONENTIAL FITNESS INC CLASS A,xponential fitness
+MLNK,MERIDIANLINK INC,meridianlink
+IPSC,CENTURY THERAPEUTICS INC,century therapeutics
+OMIC,SINGULAR GENOMICS SYSTEMS INC,singular genomics systems
+PSTL,POSTAL REALTY TRUST INC CLASS A,postal realty
+DAWN,DAY ONE BIOPHARMACEUTICALS INC,day one biopharmaceuticals
+SGHT,SIGHT SCIENCES INC,sight sciences
+CINC,CINCOR PHARMA INC,cincor pharma
+SNPO,SNAP ONE HOLDINGS CORP,snap one holdings
+GRPH,GRAPHITE BIO INC,graphite bio
+AMLX,AMYLYX PHARMACEUTICALS INC,amylyx pharmaceuticals
+ZGNX,ZOGENIX INC CVR,zogenix cvr
+ESAB,ESAB CORP,esab
+EMBC,EMBECTA CORP,embecta
+MFA,MFA FINANCIAL INC,mfa financial
+LBRT,LIBERTY ENERGY INC CLASS A,liberty energy
+KRUS,KURA SUSHI USA INC,kura sushi usa
+ASLE,AERSALE CORP,aersale
+CURI,CURIOSITYSTREAM INC CLASS A,curiositystream
+AZPN,ASPEN TECHNOLOGY INC,aspen technology
+FYBR,FRONTIER COMMUNICATIONS PARENT INC,frontier communications parent
+SOFI,SOFI TECHNOLOGIES INC,sofi technologies
+OWL,BLUE OWL CAPITAL INC CLASS A,blue owl capital
+MQ,MARQETA INC CLASS A,marqeta
+RYAN,RYAN SPECIALTY HOLDINGS INC CLASS,ryan specialty holdings
+VAL,VALARIS LTD,valaris
+ABCL,ABCELLERA BIOLOGICS INC,abcellera biologics
+AMR,ALPHA METALLURGICAL RESOURCE INC,alpha metallurgical resource
+DUOL,DUOLINGO INC CLASS A,duolingo
+DNA,GINKGO BIOWORKS HOLDINGS INC CLASS,ginkgo bioworks holdings
+JXN,JACKSON FINANCIAL INC CLASS A,jackson financial
+PRM,PERIMETER SOLUTIONS SA,perimeter solutions
+CMTG,CLAROS MORTGAGE TRUST INC,claros mortgage
+AUPH,AURINIA PHARMACEUTICALS INC,aurinia pharmaceuticals
+JOBY,JOBY AVIATION INC CLASS A,joby aviation
+HLMN,HILLMAN SOLUTIONS CORP,hillman solutions
+PTRA,PROTERRA INC,proterra
+LFG,ARCHAEA ENERGY INC CLASS A,archaea energy
+ENVX,ENOVIX CORP,enovix
+SLGC,SOMALOGIC INC CLASS A,somalogic
+SRRA,SIERRA ONCOLOGY INC,sierra oncology
+NE,NOBLE CORP,noble
+BBUC,BROOKFIELD BUSINESS CORP CLASS A,brookfield business
+LICY,LI CYCLE HOLDINGS CORP,li cycle holdings
+AMPL,AMPLITUDE INC CLASS A,amplitude
+MIR,MIRION TECHNOLOGIES INC CLASS A,mirion technologies
+EE,EXCELERATE ENERGY INC CLASS A,excelerate energy
+GPOR,GULFPORT ENERGY CORP,gulfport energy
+FNA,PARAGON  INC,paragon
+RKLB,ROCKET LAB USA INC,rocket lab usa
+DO,DIAMOND OFFSHORE DRILLING INC,diamond offshore drilling
+ACVA,ACV AUCTIONS INC CLASS A,acv auctions
+EQRX,EQRX INC,eqrx
+CBL,CBL ASSOCIATES PROPERTIES INC,cbl associates properties
+LWLG,LIGHTWAVE LOGIC INC,lightwave logic
+JBI,JANUS INTERNATIONAL GROUP INC,janus international group
+FORG,FORGEROCK INC CLASS A,forgerock
+FLNG,FLEX LNG LTD,flex lng
+PL,PLANET LABS CLASS A,planet labs
+MNTK,MONTAUK RENEWABLES INC,montauk renewables
+INDI,INDIE SEMICONDUCTOR INC CLASS A,indie semiconductor
+BORR,BORR DRILLING LTD,borr drilling
+PUBM,PUBMATIC INC CLASS A,pubmatic
+ZGN,Ermenegildo Zenga N V (A),ermenegildo zenga
+TCBX,THIRD COAST BANCSHARES INC,third coast bancshares
+CRGE,CHARGE ENTERPRISES INC,charge enterprises
+KNTK,KINETIK HOLDINGS INC CLASS A,kinetik holdings
+OSCR,OSCAR HEALTH INC CLASS A,oscar health
+NNOX,NANO X IMAGING LTD,nano imaging
+ME,23ANDME HOLDING CLASS A,23andme holding
+THRY,THRYV HOLDINGS INC,thryv holdings
+TARS,TARSUS PHARMACEUTICALS INC,tarsus pharmaceuticals
+HLLY,HOLLEY INC,holley
+VRDN,VIRIDIAN THERAPEUTICS ORS INC,viridian therapeutics ors
+BIRD,ALLBIRDS INC CLASS A,allbirds
+JMSB,JOHN MARSHALL BANCORP INC,john marshall bancorp
+VZIO,VIZIO HOLDING CORP CLASS A,vizio holding
+CDRE,CADRE HOLDINGS INC,cadre holdings
+FEAM,5E ADVANCED MATERIALS INC,5e advanced materials
+OB,OUTBRAIN INC,outbrain
+ACHR,ARCHER AVIATION INC CLASS A,archer aviation
+UP,WHEELS UP EXPERIENCE INC CLASS A,wheels up experience
+VTYX,VENTYX BIOSCIENCES INC,ventyx biosciences
+AURA,AURA BIOSCIENCES INC,aura biosciences
+ROVR,ROVER GROUP INC CLASS A,rover group
+HLTH,CUE HEALTH INC,cue health
+MIRM,MIRUM PHARMACEUTICALS INC,mirum pharmaceuticals
+CRDO,CREDO TECHNOLOGY GROUP HOLDING LTD,credo technology group holding
+BRCC,BRC INC CLASS A,brc
+CORZ,CORE SCIENTIFIC INC,core scientific
+RXST,RXSIGHT INC,rxsight
+CYXT,CYXTERA TECHNOLOGIES ORS CLASS A I,cyxtera technologies ors
+COCO,THE VITA COCO COMPANY INC,the vita coco
+FFIE,FARADAY FUTURE INTELLIGENT ELECTRI,faraday future intelligent electri
+HIPO,HIPPO HOLDINGS INC CLASS A,hippo holdings
+SMFR,SEMA4 HOLDINGS CORP CLASS A,sema4 holdings
+XERS,XERIS BIOPHARMA HOLDINGS INC,xeris biopharma holdings
+RKLY,ROCKLEY PHOTONICS HOLDINGS LTD,rockley photonics holdings
+HYZN,HYZON MOTORS INC CLASS A,hyzon motors
+NRDS,NERDWALLET INC CLASS A,nerdwallet
+ACT,ENACT HOLDINGS INC,enact holdings
+HPK,HIGHPEAK ENERGY INC,highpeak energy
+NRGV,ENERGY VAULT HOLDINGS INC,energy vault holdings
+SLDP,SOLID POWER INC CLASS A,solid power
+MKFG,MARKFORGED HOLDING CORP,markforged holding
+BLDE,BLADE AIR MOBILITY INC CLASS A,blade air mobility
+MAPS,WM TECHNOLOGY INC CLASS A,wm technology
+EVLV,EVOLV TECHNOLOGIES HOLDINGS INC CL,evolv technologies holdings cl
+VWE,VINTAGE WINE ESTATES INC,vintage wine estates
+FCUV,FOCUS UNIVERSAL INC,focus universal
+BBIG,VINCO VENTURES INC,vinco ventures
+WEBR,WEBER INC CLASS A,weber
+QSI,QUANTUM SI INC CLASS A,quantum si
+VLTA,VOLTA INC CLASS A,volta
+ONDS,ONDAS HOLDINGS INC,ondas holdings
+SNCE,SCIENCE 37 HOLDINGS INC,science holdings
+CISO,CERBERUS CYBER SENTINEL CORP,cerberus cyber sentinel
+TYDE,CRYPTYDE INC,cryptyde
+CHRD,CHORD ENERGY CORP,chord energy
+EHAB,ENHABIT INC,enhabit
+WLLAW,CHORD ENERGY EQUITY WARRANTS EXP S,chord energy equity warrants exp
+WLLBW,CHORD ENERGY EQUITY WARRANTS SERIE,chord energy equity warrants serie
+TFM,FRESH MARKET ESCROW,fresh market escrow
+PL,PLANET LABS PBC,planet labs pbc
+PFHD,PROFESSIONAL HOLDING CORP CLASS A,professional holding
+NE,NOBLE CORPORATION CORP,noble
+PR,PERMIAN RESOURCES CORP CLASS A,permian resources
+ACLX,ARCELLX INC,arcellx
+PFHC,PROFRAC HOLDING CORP,profrac holding
+SMR,NUSCALE POWER CORP CLASS A,nuscale power
+NUVL,NUVALENT INC CLASS A,nuvalent
+STRC,SARCOS TECHNOLOGY AND ROBOTICS COR,sarcos technology and robotics cor
+HIPO,HIPPO HOLDINGS INC,hippo holdings
+NE,NOBLE CORPORATION PLC,noble
+ELME,ELME,elme
+STEL,STELLAR BANCORP INC,stellar bancorp
+XPER,XPERI INC,xperi
+BHVN,BIOHAVEN LTD,biohaven
+BHM WI,BLUEROCK HOMES TRUST INC CLASS A,bluerock homes
+RXO WI,RXO INC,rxo
+STR,SITIO ROYALTIES CORP CLASS A,sitio royalties
+TNGX,TANGO THERAPEUTICS INC,tango therapeutics
+OABI,OMNIAB INC,omniab
+-,OMNIAB INC $12.50 VESTING Prvt,omniab vesting prvt
+-,OMNIAB INC $15.00 VESTING Prvt,omniab vesting prvt
+EVRG,EVERGY INC,evergy
+FBIN,FORTUNE BRANDS INNOVATIONS INC,fortune brands innovations
+UHAL B,U HAUL NON VOTING SERIES N,haul
+STR,SITIO ROYALTIES INC CLASS A,sitio royalties
+CCCS,CCC INTELLIGENT SOLUTIONS HOLDINGS,ccc intelligent solutions holdings
+TFIN,TRIUMPH FINANCIAL INC,triumph financial
+MBC,MASTERBRAND INC,masterbrand
+UHAL,U HAUL HOLDING,haul holding
+NUTX,NUTEX HEALTH INC,nutex health
+FG,F&G ANNUITIES AND LIFE INC,annuities and life
