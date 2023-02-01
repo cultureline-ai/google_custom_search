@@ -22,7 +22,7 @@ Map iShares names to Glassdoor URLs using Google Custom Search
 6. `snippet` = snippet from google's search response metadata, often the company's overview/description or mission statement (from their homepage on glassdoor.com)
 
 ### Example Output
-[Output Data Here](https://github.com/cultureline-ai/google_custom_search/blob/master/output_example.csv)
+[Output Data Here](https://github.com/cultureline-ai/google_custom_search/blob/master/output_data/top5_google_results.csv)
 ![output example](https://github.com/cultureline-ai/google_custom_search/blob/master/img/output_example.PNG)
 
    
