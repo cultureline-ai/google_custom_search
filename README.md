@@ -1,10 +1,6 @@
 # Glassdoor URL Mapping via Google Custom Search
 Map iShares names to Glassdoor URLs using Google Custom Search
 
-## Google Custom Search Info
-- Filter Results to anything starting with `https://www.glassdoor.com/Overview/Working-at-`
-- Let API do the Rest
-
 ## Process Overview
 1. Create a Google Custom Search Engine: https://programmablesearchengine.google.com/controlpanel/create
    - Filter Results to anything starting with `https://www.glassdoor.com/Overview/Working-at-`
@@ -18,14 +14,15 @@ Map iShares names to Glassdoor URLs using Google Custom Search
    
 ## Output
 ### Column definitions:
-`ticker` = ticker from "unique_ishares_missing_urls.csv"
-`name_x` =  name from "unique_ishares_missing_urls.csv"
-`result_rank` = where it showed up in googles response
-`name_gd` = the name associated with the glassdoor url
-`gd_link` = the link to the pagesnippet = snippet from google's search response metadata, often the company's overview/description or mission statement (from their homepage on glassdoor.com)
+1. `ticker` = ticker from "unique_ishares_missing_urls.csv"
+2. `name_x` =  name from "unique_ishares_missing_urls.csv"
+3. `result_rank` = where it showed up in googles response
+4. `name_gd` = the name associated with the glassdoor url
+5. `gd_link` = the link to the page
+6. `snippet` = snippet from google's search response metadata, often the company's overview/description or mission statement (from their homepage on glassdoor.com)
 
 ### Example
-
+![output example](https://github.com/cultureline-ai/google_custom_search/blob/master/img/output_example.PNG)
 
    
 
